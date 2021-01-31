@@ -46,7 +46,7 @@
     </tr>
     <tr>
       <td>Blind Test</td>
-      <td>5</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -64,7 +64,7 @@
     </tr>
     <tr>
       <td>Blind Test</td>
-      <td>5</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -82,7 +82,7 @@
     </tr>
     <tr>
       <td>Blind Test</td>
-      <td>5</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -100,7 +100,7 @@
     </tr>
     <tr>
       <td>Blind Test</td>
-      <td>5</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -118,7 +118,7 @@
     </tr>
     <tr>
       <td>Blind Test</td>
-      <td>5</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -136,7 +136,7 @@
     </tr>
     <tr>
       <td>Blind Test</td>
-      <td>5</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -154,7 +154,7 @@
     </tr>
     <tr>
       <td>Blind Test</td>
-      <td>5</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
