@@ -1,6 +1,6 @@
 <br>  
 <h2> Program committee </h2>
-<table id="tablePreview" class="table">
+<!-- <table id="tablePreview" class="table">
   <tbody>
     <tr>
       <td style="text-align:center"><img src="./assets/img/persons/hema_murthy.jpg" alt="" border=3 height=100 width=100></td>
@@ -21,7 +21,7 @@
       <td style="text-align:center">Johns Hopkins University</td>
     </tr>
   </tbody>
-</table>
+</table> -->
 <p>
 
 
