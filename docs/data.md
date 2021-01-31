@@ -1,7 +1,7 @@
 <br>
 <h2> Data description and specifications </h2>
 <table id="tablePreview" class="table table-striped table-sm">
-  <tbody>
+  <thead>
   <tr>
       <th>#</th>
       <th>Description</th>
