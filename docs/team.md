@@ -22,7 +22,7 @@
     </tr>
   </tbody>
 </table> -->
-<p>
+<p style="font-size:17px;">
 
 
 <h5> Hema Murthy, IIT Madras </h5>
