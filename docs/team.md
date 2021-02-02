@@ -81,6 +81,6 @@ predictions, graphical models, and data analytics. More information here: https:
 <p style="font-size:16.5px;">Karthik Sankaranarayanan, IBM Research India</p> 
 <p style="font-size:16.5px;">Akash Rajpuria, Navana Tech</p> 
 <p style="font-size:16.5px;">Vinit Unni, IIT Bombay</p> 
-</p>
+
 
 
