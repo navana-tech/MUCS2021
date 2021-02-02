@@ -22,8 +22,8 @@
       <td>Train + Dev</td>
       <td>100 (95+5)</td>
       <td>8kHz</td>
-      <td></td>
       <td>Collection of Stories</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
