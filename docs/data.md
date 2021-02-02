@@ -1,6 +1,6 @@
 <br>
 <h2> Data description and specifications </h2>
-<table style="font-size:17px;" id="tablePreview" class="table table-striped table-sm">
+<table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
   <thead>
   <tr>
       <th>#</th>
