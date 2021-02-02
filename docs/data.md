@@ -23,12 +23,12 @@
       <td>100 (95+5)</td>
       <td>8kHz</td>
       <td></td>
-      <td></td>
+      <td>Collection of Stories</td>
       <td></td>
     </tr>
     <tr>
       <td>Blind Test</td>
-      <td>5</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -57,7 +57,7 @@
       <td rowspan="2">Odia</td>
       <td>Train + Dev</td>
       <td>100 (95+5)</td>
-      <td>16kHz</td>
+      <td>8kHz</td>
       <td>Healthcare, Agriculture, Finance</td>
       <td></td>
       <td></td>
@@ -129,7 +129,7 @@
       <td rowspan="2">Hindi-English</td>
       <td>Train + Dev</td>
       <td>95 (90+5)</td>
-      <td>8kHz</td>
+      <td></td>
       <td>Tech Lecture in computer science</td>
       <td></td>
       <td></td>
