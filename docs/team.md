@@ -70,16 +70,16 @@ predictions, graphical models, and data analytics. More information here: https:
 <p style="font-size:16.5px;">
   
 
-<h2> Shared Task Committee </h2>
-<h5> Sanket Shah, Microsoft Research India </h5>
-<h5> Vikas Joshi, Microsoft Research India </h5>
-<h5>  Sunayana Sitaram, Microsoft Research India </h5>
-<h5> Saurabh Vyas, Navana Tech </h5>
-<h5>  Rakesh Vaideeswaran, Indian Institute of Science (IISc), Bangalore </h5>
-<h5> Chiranjeevi Yarra, IIIT, Hyderabad </h5>
-<h5> Karthik Sankaranarayanan, IBM Research India </h5>
-<h5> Akash Rajpuria, Navana Tech </h5>
-<h5> Vinit Unni, IIT Bombay </h5>
+Shared Task Committee
+Sanket Shah, Microsoft Research India
+Vikas Joshi, Microsoft Research India
+Sunayana Sitaram, Microsoft Research India
+Saurabh Vyas, Navana Tech
+Rakesh Vaideeswaran, Indian Institute of Science (IISc), Bangalore
+Chiranjeevi Yarra, IIIT, Hyderabad 
+Karthik Sankaranarayanan, IBM Research India 
+Akash Rajpuria, Navana Tech 
+Vinit Unni, IIT Bombay 
 </p>
 
 
