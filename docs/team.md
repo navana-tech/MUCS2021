@@ -41,45 +41,46 @@
 
 <h4> <b> Raoul Nanavati  </b> </h4> <p style="font-size:16.5px;"> Raoul is the CEO of Navana Tech - a conversational AI startup focused on creating voice-first regional language solutions. 
 <br> <b> Email: </b> raoul@navanatech.in </p>
-
+<br>
 <h4> <b> Jai Nanavati </b> </h4> <p style="font-size:16.5px;"> Jai is the CTO of Navana Tech  - a conversational AI startup focused on creating voice-first regional language solutions. He is a computer engineering graduate from the University of Michigan Ann Arbor and has previously worked as a system architect and blockchain application developer. 
 <br> <b> Email: </b> jai@navanatech.in </p>
-
+<br>
 <h4> <b>  Srinivasa Raghavan </b> </h4> <p style="font-size:16.5px;"> Srinivasa is the Lead Speech Scientist at Navana Tech India Private Limited. His research focus is in building automatic speech recognition technologies for low resource Indic languages. 
 <br> <b>  Email: </b> srinivasa@navanatech.in </p>
-
+<br>
 <h4> <b> Vivek Seshadri </b> </h4> <p style="font-size:16.5px;"> Vivek is a Senior Researcher at Microsoft Research India. His recent work focuses on building a digital work marketplace that is accessible to workers in rural communities. 
 <br> <b> Email: </b>  visesha@microsoft.com </p>
-
+<br>
 <h4> <b> Preethi Jyothi </b> </h4> <p style="font-size:16.5px;">  Preethi is an Assistant Professor in the Department of Computer Science and Engineering at IIT Bombay. Her research interests include machine learning applied to speech and text and building computational models for code-switched speech and text. For more details, please refer to: https://www.cse.iitb.ac.in/~pjyothi 
 <br> <b>  Email: </b> pjyothi@cse.iitb.ac.in </p>
-
+<br>
 <h4> <b> Sunita Sarawagi </b> </h4> <p style="font-size:16.5px;">  Sunita is Institute Chair Professor in the Department of Computer Science and Engineering, and heads the Center for Machine Intelligence and Data Science  at IIT Bombay. Her research interests include machine learning for structured 
 predictions, graphical models, and data analytics. More information here: https://www.cse.iitb.ac.in/~sunita/
 <br> <b>  Email: </b> sunita@iitb.ac.in  </p>
-
+<br>
 <h4> <b> Samarth Bharadwaj </b> </h4> <p style="font-size:16.5px;"> Samarth is a Senior Researcher and Manager of the Speech and Language team at IBM Research, India.  His current focus is on bringing Indic languages to IBM's product portfolios in text and speech. His research interests include machine learning for speech recognition, natural language processing and computer vision.  
 <br> <b>  Email: </b> samarth.b@in.ibm.com </p>
-
+<br>
 <h4> <b> Ashish Mittal </b> </h4> <p style="font-size:16.5px;"> Ashish is an Advisory Research Engineer at IBM Research, India and a PhD scholar at IIT Bombay. His research interests include speech recognition and natural language processing especially in the low resource and multilingual settings. 
 <br> <b> Email: </b> arakeshk@in.ibm.com </p>
-
+<br>
 <h4> <b> Shreya Khare  </b> </h4> <p style="font-size:16.5px;">  Shreya is an Advisory Research Engineer with IBM Research Labs, India. Her current research focus is on infusing machine learning, speech and natural language processing to build systems for multilingual communities.  
 <br> <b> Email: </b> skhare34@in.ibm.com </p>
+<br>
 
-<p style="font-size:16.5px;">
+
   
 
-Shared Task Committee
-Sanket Shah, Microsoft Research India
-Vikas Joshi, Microsoft Research India
-Sunayana Sitaram, Microsoft Research India
-Saurabh Vyas, Navana Tech
-Rakesh Vaideeswaran, Indian Institute of Science (IISc), Bangalore
-Chiranjeevi Yarra, IIIT, Hyderabad 
-Karthik Sankaranarayanan, IBM Research India 
-Akash Rajpuria, Navana Tech 
-Vinit Unni, IIT Bombay 
+<h2>Shared Task Committee</h2>
+<p style="font-size:16.5px;">Sanket Shah, Microsoft Research India</p>
+<p style="font-size:16.5px;">Vikas Joshi, Microsoft Research India</p>
+<p style="font-size:16.5px;">Sunayana Sitaram, Microsoft Research India</p>
+<p style="font-size:16.5px;">Saurabh Vyas, Navana Tech</p>
+<p style="font-size:16.5px;">Rakesh Vaideeswaran, Indian Institute of Science (IISc), Bangalore</p>
+<p style="font-size:16.5px;">Chiranjeevi Yarra, IIIT, Hyderabad</p>
+<p style="font-size:16.5px;">Karthik Sankaranarayanan, IBM Research India</p> 
+<p style="font-size:16.5px;">Akash Rajpuria, Navana Tech</p> 
+<p style="font-size:16.5px;">Vinit Unni, IIT Bombay</p> 
 </p>
 
 
