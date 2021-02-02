@@ -22,15 +22,10 @@
     </tr>
   </tbody>
 </table> -->
-<p style="font-size:16.5px;">
-
-
-<h5> Hema Murthy, IIT Madras </h5>
-<h5> S. Umesh, IIT Madras </h5> 
-<h5> Tara Sainath, Google Inc. </h5> 
-<h5> Shinji Watanabe, Johns Hopkins University </h5> 
-
-</p>
+<p style="font-size:16.5px;">Hema Murthy, IIT Madras </p>
+<p style="font-size:16.5px;">S. Umesh, IIT Madras  </p>
+<p style="font-size:16.5px;">Tara Sainath, Google Inc.</p>
+<p style="font-size:16.5px;">Shinji Watanabe, Johns Hopkins University</p>
 
 
 
@@ -72,7 +67,7 @@ predictions, graphical models, and data analytics. More information here: https:
 <h4> <b> Shreya Khare  </b> </h4> <p style="font-size:16.5px;">  Shreya is an Advisory Research Engineer with IBM Research Labs, India. Her current research focus is on infusing machine learning, speech and natural language processing to build systems for multilingual communities.  
 <br> <b> Email: </b> skhare34@in.ibm.com </p>
 
-<p style="font-size:16.5px;">>
+<p style="font-size:16.5px;">
   
 
 <h2> Shared Task Committee </h2>
