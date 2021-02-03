@@ -74,7 +74,7 @@
       <th scope="row" rowspan="2">4</th>
       <td rowspan="2">Tamil</td>
       <td>Train + Dev</td>
-      <td>50 (45+5)</td>
+      <td>45 (40+5)</td>
       <td>16kHz</td>
       <td>General</td>
       <td></td>
@@ -92,7 +92,7 @@
       <th scope="row" rowspan="2">5</th>
       <td rowspan="2">Telugu</td>
       <td>Train + Dev</td>
-      <td>50 (45+5)</td>
+      <td>45 (40+5)</td>
       <td>16kHz</td>
       <td>General</td>
       <td></td>
@@ -110,7 +110,7 @@
       <th scope="row" rowspan="2">6</th>
       <td rowspan="2">Gujarati</td>
       <td>Train + Dev</td>
-      <td>50 (45+5)</td>
+      <td>45 (40+5)</td>
       <td>16kHz</td>
       <td>General</td>
       <td></td>
