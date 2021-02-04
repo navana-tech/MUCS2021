@@ -73,7 +73,6 @@ predictions, graphical models, and data analytics. More information here: https:
 
 <h2>Shared Task Committee</h2>
 <p style="font-size:16.5px;">Sanket Shah, Microsoft Research India</p>
-<p style="font-size:16.5px;">Vikas Joshi, Microsoft Research India</p>
 <p style="font-size:16.5px;">Sunayana Sitaram, Microsoft Research India</p>
 <p style="font-size:16.5px;">Saurabh Vyas, Navana Tech</p>
 <p style="font-size:16.5px;">Rakesh Vaideeswaran, Indian Institute of Science (IISc), Bangalore</p>
