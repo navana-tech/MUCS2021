@@ -21,14 +21,16 @@
       <td rowspan="3">Hindi</td>
       <td>Train</td>
       <td>95</td>
-      <td rowspan="2">8kHz</td>
-      <td rowspan="2">Collection of Stories</td>
+      <td>8kHz</td>
+      <td>Collection of Stories</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Test</td>
       <td>5</td>
+      <td>8kHz</td>
+      <td>Collection of Stories</td>
       <td></td>
       <td></td>
     </tr>
@@ -43,8 +45,8 @@
     <tr>
       <th scope="row" rowspan="3">2</th>
       <td rowspan="3">Marathi</td>
-      <td>Train + Dev</td>
-      <td>100 (95+5)</td>
+      <td>Train</td>
+      <td>95</td>
       <td>8kHz</td>
       <td></td>
       <td></td>
@@ -53,8 +55,8 @@
     <tr>
       <th scope="row" rowspan="3">2</th>
       <td rowspan="3">Marathi</td>
-      <td>Train + Dev</td>
-      <td>100 (95+5)</td>
+      <td>Test</td>
+      <td>5</td>
       <td>8kHz</td>
       <td></td>
       <td></td>
@@ -71,8 +73,8 @@
     <tr>
       <th scope="row" rowspan="3">3</th>
       <td rowspan="3">Odia</td>
-      <td>Train + Dev</td>
-      <td>100 (95+5)</td>
+      <td>Train</td>
+      <td>95</td>
       <td>8kHz</td>
       <td>Healthcare, Agriculture, Finance</td>
       <td></td>
@@ -81,8 +83,8 @@
     <tr>
       <th scope="row" rowspan="3">3</th>
       <td rowspan="3">Odia</td>
-      <td>Train + Dev</td>
-      <td>100 (95+5)</td>
+      <td>Test</td>
+      <td>5</td>
       <td>8kHz</td>
       <td>Healthcare, Agriculture, Finance</td>
       <td></td>
@@ -99,8 +101,8 @@
     <tr>
       <th scope="row" rowspan="3">4</th>
       <td rowspan="3">Tamil</td>
-      <td>Train + Dev</td>
-      <td>45 (40+5)</td>
+      <td>Train</td>
+      <td>40</td>
       <td>16kHz</td>
       <td>General</td>
       <td></td>
@@ -109,8 +111,8 @@
     <tr>
       <th scope="row" rowspan="3">4</th>
       <td rowspan="3">Tamil</td>
-      <td>Train + Dev</td>
-      <td>45 (40+5)</td>
+      <td>Test</td>
+      <td>5</td>
       <td>16kHz</td>
       <td>General</td>
       <td></td>
@@ -127,8 +129,8 @@
     <tr>
       <th scope="row" rowspan="3">5</th>
       <td rowspan="3">Telugu</td>
-      <td>Train + Dev</td>
-      <td>45 (40+5)</td>
+      <td>Train</td>
+      <td>40</td>
       <td>16kHz</td>
       <td>General</td>
       <td></td>
@@ -137,8 +139,8 @@
     <tr>
       <th scope="row" rowspan="3">5</th>
       <td rowspan="3">Telugu</td>
-      <td>Train + Dev</td>
-      <td>45 (40+5)</td>
+      <td>Test</td>
+      <td>5</td>
       <td>16kHz</td>
       <td>General</td>
       <td></td>
@@ -155,8 +157,8 @@
     <tr>
       <th scope="row" rowspan="3">6</th>
       <td rowspan="3">Gujarati</td>
-      <td>Train + Dev</td>
-      <td>45 (40+5)</td>
+      <td>Train</td>
+      <td>40</td>
       <td>16kHz</td>
       <td>General</td>
       <td></td>
@@ -165,8 +167,8 @@
     <tr>
       <th scope="row" rowspan="3">6</th>
       <td rowspan="3">Gujarati</td>
-      <td>Train + Dev</td>
-      <td>45 (40+5)</td>
+      <td>Test</td>
+      <td>5</td>
       <td>16kHz</td>
       <td>General</td>
       <td></td>
@@ -183,8 +185,8 @@
     <tr>
       <th scope="row" rowspan="3">7</th>
       <td rowspan="3">Hindi-English</td>
-      <td>Train + Dev</td>
-      <td>95 (90+5)</td>
+      <td>Train</td>
+      <td>90</td>
       <td></td>
       <td>Tech Lecture in computer science</td>
       <td></td>
@@ -193,8 +195,8 @@
     <tr>
       <th scope="row" rowspan="3">7</th>
       <td rowspan="3">Hindi-English</td>
-      <td>Train + Dev</td>
-      <td>95 (90+5)</td>
+      <td>Test</td>
+      <td>5</td>
       <td></td>
       <td>Tech Lecture in computer science</td>
       <td></td>
@@ -211,8 +213,8 @@
     <tr>
       <th scope="row" rowspan="3">8</th>
       <td rowspan="3">Bengali-English</td>
-      <td>Train + Dev</td>
-      <td>45 (40+5)</td>
+      <td>Train</td>
+      <td>40</td>
       <td></td>
       <td>Tech Lecture in computer science</td>
       <td></td>
@@ -221,8 +223,8 @@
     <tr>
       <th scope="row" rowspan="3">8</th>
       <td rowspan="3">Bengali-English</td>
-      <td>Train + Dev</td>
-      <td>45 (40+5)</td>
+      <td>Test</td>
+      <td>5</td>
       <td></td>
       <td>Tech Lecture in computer science</td>
       <td></td>
