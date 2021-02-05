@@ -95,7 +95,7 @@
             <p style="font-size:16.5px;text-align:center">Navana Tech India Private Limited</p>
         </div>
         <div class="column">
-            <img style="height: auto; width:64px"  src="./assets/img/persons/vivek_seshadri.jpg">
+            <img style="height: auto; width:64px"  src="./assets/img/persons/vivek_seshadri.png">
             <p style="font-size:16.5px;text-align:center">Vivek Seshadri</p>
             <p style="font-size:16.5px;text-align:center">Microsoft Research India</p>
         </div>
@@ -105,7 +105,7 @@
             <p style="font-size:16.5px;text-align:center">IIT Bombay</p>
         </div>
         <div class="column">
-            <img style="height: auto; width:64px"  src="./assets/img/persons/sunita_sarawagi.jpg">
+            <img style="height: auto; width:64px"  src="./assets/img/persons/sunita_sarawagi.png">
             <p style="font-size:16.5px;text-align:center">Sunita Sarawagi</p>
             <p style="font-size:16.5px;text-align:center">IIT Bombay</p>
         </div>
