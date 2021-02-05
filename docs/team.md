@@ -33,17 +33,17 @@
 <div class="container">
     <div class="row">
         <div class="column">
-            <img style="height: auto; width:64px"  src="./assets/img/persons/hema_murthy.jpg">
+            <img style="height: 96px; width:auto"  src="./assets/img/persons/hema_murthy.jpg">
             <p style="font-size:16.5px;">Hema Murthy</p>
             <p style="font-size:16.5px;">IIT Madras</p>
         </div>
         <div class="column">
-            <img style="height: auto; width:64px"  src="./assets/img/persons/s_umesh.jpg">
+            <img style="height: 96px; width:auto"  src="./assets/img/persons/s_umesh.jpg">
             <p style="font-size:16.5px;">S. Umesh</p>
             <p style="font-size:16.5px;">IIT Madras</p>
         </div>
         <div class="column">
-            <img style="height: auto; width:64px"  src="./assets/img/persons/tara_sainath.jpg">
+            <img style="height: 96px; width:auto"  src="./assets/img/persons/tara_sainath.jpg">
             <p style="font-size:16.5px;">Tara Sainath</p>
             <p style="font-size:16.5px;">Google Inc.</p>
         </div>
