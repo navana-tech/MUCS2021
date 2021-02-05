@@ -11,7 +11,7 @@
 <div class="container">
     <div class="row row-cols-5">
         <div class="col">
-            <img src="./assets/img/persons/hema_murthy.jpg" alt="" border=3>
+            <img style="height: auto; width:64px"  src="./assets/img/persons/hema_murthy.jpg" alt="" border=3>
             <h2>Hema Murthy</h2>
             <p style="font-size:16.5px;">IIT Madras</p>
         </div>
