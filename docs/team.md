@@ -1,10 +1,10 @@
 <br>
+<br>
 <div class="widewrapper pagetitle">
   <div class="container" style="background-color:#617863">
     <h1 style="color:white;">Organizers</h1>
   </div>
 </div>
-<br>
 <h2> Program committee </h2>
 <!-- <table id="tablePreview" class="table">
   <tbody>

@@ -1,10 +1,10 @@
 <br>
+<br>
 <div class="widewrapper pagetitle">
   <div class="container" style="background-color:#617863">
     <h1 style="color:white;">Data Description and Spefication</h1>
   </div>
 </div>
-<br>
 <table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
   <thead>
   <tr>
