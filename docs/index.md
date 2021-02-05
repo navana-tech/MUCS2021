@@ -20,6 +20,14 @@ collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g.
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
+<div class="widewrapper pagetitle">
+  <div class="container">
+    <h1>Welcome!</h1>
+  </div>
+</div>
+
+
+
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
 {% comment %}
