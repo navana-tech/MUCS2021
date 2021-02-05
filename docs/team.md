@@ -26,6 +26,7 @@
 <p style="font-size:16.5px;">S. Umesh, IIT Madras  </p>
 <p style="font-size:16.5px;">Tara Sainath, Google Inc.</p>
 <p style="font-size:16.5px;">Shinji Watanabe, Johns Hopkins University</p>
+<p style="font-size:16.5px;">Brian Kingsbury, IBM Research</p>
 
 
 
@@ -80,6 +81,10 @@ predictions, graphical models, and data analytics. More information here: https:
 <p style="font-size:16.5px;">Karthik Sankaranarayanan, IBM Research India</p> 
 <p style="font-size:16.5px;">Akash Rajpuria, Navana Tech</p> 
 <p style="font-size:16.5px;">Vinit Unni, IIT Bombay</p> 
+<p style="font-size:16.5px;">Ankita Singh, IIT Bombay</p> 
+<p style="font-size:16.5px;">Anuj Diwan, IIT Bombay</p> 
+<p style="font-size:16.5px;">Tejaswi Seeram, Microsoft Research India</p> 
+
 
 
 
