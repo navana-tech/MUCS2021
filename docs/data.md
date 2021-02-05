@@ -5,6 +5,8 @@
     <h1 style="color:white;">Data Description and Spefication</h1>
   </div>
 </div>
+<br>
+
 <table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
   <thead>
   <tr>
