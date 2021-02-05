@@ -129,17 +129,17 @@
 
 
 <h2>Shared Task Committee</h2>
-<p style="font-size:16.5px;text-align:center">Sanket Shah, Microsoft Research India</p>
-<p style="font-size:16.5px;text-align:center">Sunayana Sitaram, Microsoft Research India</p>
-<p style="font-size:16.5px;text-align:center">Saurabh Vyas, Navana Tech</p>
-<p style="font-size:16.5px;text-align:center">Rakesh Vaideeswaran, Indian Institute of Science (IISc), Bangalore</p>
-<p style="font-size:16.5px;text-align:center">Chiranjeevi Yarra, IIIT, Hyderabad</p>
-<p style="font-size:16.5px;text-align:center">Karthik Sankaranarayanan, IBM Research India</p> 
-<p style="font-size:16.5px;text-align:center">Akash Rajpuria, Navana Tech</p> 
-<p style="font-size:16.5px;text-align:center">Vinit Unni, IIT Bombay</p> 
-<p style="font-size:16.5px;text-align:center">Ankita Singh, IIT Bombay</p> 
-<p style="font-size:16.5px;text-align:center">Anuj Diwan, IIT Bombay</p> 
-<p style="font-size:16.5px;text-align:center">Tejaswi Seeram, Microsoft Research India</p> 
+<p style="font-size:16.5px">Sanket Shah, Microsoft Research India</p>
+<p style="font-size:16.5px">Sunayana Sitaram, Microsoft Research India</p>
+<p style="font-size:16.5px">Saurabh Vyas, Navana Tech</p>
+<p style="font-size:16.5px">Rakesh Vaideeswaran, Indian Institute of Science (IISc), Bangalore</p>
+<p style="font-size:16.5px">Chiranjeevi Yarra, IIIT, Hyderabad</p>
+<p style="font-size:16.5px">Karthik Sankaranarayanan, IBM Research India</p> 
+<p style="font-size:16.5px">Akash Rajpuria, Navana Tech</p> 
+<p style="font-size:16.5px">Vinit Unni, IIT Bombay</p> 
+<p style="font-size:16.5px">Ankita Singh, IIT Bombay</p> 
+<p style="font-size:16.5px">Anuj Diwan, IIT Bombay</p> 
+<p style="font-size:16.5px">Tejaswi Seeram, Microsoft Research India</p> 
 
 
 
