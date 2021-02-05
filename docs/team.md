@@ -1,3 +1,25 @@
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+
 <br>
 <br>
 <div class="widewrapper pagetitle">
@@ -9,27 +31,27 @@
 
 
 <div class="container">
-    <div class="row row-cols-5">
-        <div class="col">
+    <div class="row">
+        <div class="column">
             <img style="height: auto; width:64px"  src="./assets/img/persons/hema_murthy.jpg">
             <h2>Hema Murthy</h2>
             <p style="font-size:16.5px;">IIT Madras</p>
         </div>
-        <div class="col">
+        <div class="column">
             <img style="height: auto; width:64px"  src="./assets/img/persons/hema_murthy.jpg">
             <h2>Hema Murthy</h2>
             <p style="font-size:16.5px;">IIT Madras</p>
         </div>
-        <div class="col">
+        <div class="column">
             X
         </div>
-        <div class="col">
+        <div class="column">
             X
         </div>
-        <div class="col">
+        <div class="column">
             X
         </div>
-        <div class="col">
+        <div class="column">
             X
         </div>
     </div>
