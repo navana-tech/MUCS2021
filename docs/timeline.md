@@ -1,3 +1,8 @@
+<div class="widewrapper pagetitle">
+  <div class="container" style="background-color:#617863">
+    <h1 style="color:white;">Challenge Timeline</h1>
+  </div>
+</div>
 <br>
 {% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}

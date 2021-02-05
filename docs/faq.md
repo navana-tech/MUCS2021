@@ -1,5 +1,9 @@
+<div class="widewrapper pagetitle">
+  <div class="container" style="background-color:#617863">
+    <h1 style="color:white;">FAQs</h1>
+  </div>
+</div>
 <br>
-<h2>FAQs</h2> 
 <p style="font-size:16.5px;">Q. Can data from one subtask be used for the other subtask?</p>
 <p style="font-size:16.5px;">A. Yes</p>
 <br>

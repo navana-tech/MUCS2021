@@ -21,7 +21,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 ---
 
 <div class="widewrapper pagetitle">
-  <div class="container" style="background-color:617863">
+  <div class="container" style="background-color:#617863">
     <h1 style="color:white;">Welcome!</h1>
   </div>
 </div>
