@@ -34,22 +34,28 @@
     <div class="row">
         <div class="column">
             <img style="height: auto; width:64px"  src="./assets/img/persons/hema_murthy.jpg">
-            <h2>Hema Murthy</h2>
+            <p style="font-size:16.5px;">Hema Murthy</p>
             <p style="font-size:16.5px;">IIT Madras</p>
         </div>
         <div class="column">
-            <img style="height: auto; width:64px"  src="./assets/img/persons/hema_murthy.jpg">
-            <h2>Hema Murthy</h2>
+            <img style="height: auto; width:64px"  src="./assets/img/persons/s_umesh.jpg">
+            <p style="font-size:16.5px;">S. Umesh</p>
             <p style="font-size:16.5px;">IIT Madras</p>
         </div>
         <div class="column">
-            X
+            <img style="height: auto; width:64px"  src="./assets/img/persons/tara_sainath.jpg">
+            <p style="font-size:16.5px;">Tara Sainath</p>
+            <p style="font-size:16.5px;">Google Inc.</p>
         </div>
         <div class="column">
-            X
+            <img style="height: auto; width:64px"  src="./assets/img/persons/shinji_watanabe.jpg">
+            <p style="font-size:16.5px;">Shinji Watanabe</p>
+            <p style="font-size:16.5px;">Johns Hopkins University</p>
         </div>
         <div class="column">
-            X
+            <img style="height: auto; width:64px"  src="">
+            <p style="font-size:16.5px;">Brian Kingsbury</p>
+            <p style="font-size:16.5px;">IBM Research</p>
         </div>
         <div class="column">
             X
