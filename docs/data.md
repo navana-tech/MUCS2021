@@ -53,12 +53,10 @@
       <td></td>
     </tr>
     <tr>
-      <th scope="row" rowspan="3">2</th>
-      <td rowspan="3">Marathi</td>
       <td>Test</td>
       <td>5</td>
       <td>8kHz</td>
-      <td></td>
+      <td>Collection of Stories</td>
       <td></td>
       <td></td>
     </tr>
@@ -81,8 +79,6 @@
       <td></td>
     </tr>
     <tr>
-      <th scope="row" rowspan="3">3</th>
-      <td rowspan="3">Odia</td>
       <td>Test</td>
       <td>5</td>
       <td>8kHz</td>
@@ -109,8 +105,6 @@
       <td></td>
     </tr>
     <tr>
-      <th scope="row" rowspan="3">4</th>
-      <td rowspan="3">Tamil</td>
       <td>Test</td>
       <td>5</td>
       <td>16kHz</td>
@@ -137,8 +131,6 @@
       <td></td>
     </tr>
     <tr>
-      <th scope="row" rowspan="3">5</th>
-      <td rowspan="3">Telugu</td>
       <td>Test</td>
       <td>5</td>
       <td>16kHz</td>
@@ -165,8 +157,6 @@
       <td></td>
     </tr>
     <tr>
-      <th scope="row" rowspan="3">6</th>
-      <td rowspan="3">Gujarati</td>
       <td>Test</td>
       <td>5</td>
       <td>16kHz</td>
@@ -193,8 +183,6 @@
       <td></td>
     </tr>
     <tr>
-      <th scope="row" rowspan="3">7</th>
-      <td rowspan="3">Hindi-English</td>
       <td>Test</td>
       <td>5</td>
       <td></td>
@@ -221,8 +209,6 @@
       <td></td>
     </tr>
     <tr>
-      <th scope="row" rowspan="3">8</th>
-      <td rowspan="3">Bengali-English</td>
       <td>Test</td>
       <td>5</td>
       <td></td>
