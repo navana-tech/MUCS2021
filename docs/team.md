@@ -80,7 +80,7 @@
             <p style="font-size:16.5px;text-align:center">Indian Institute of Science (IISc)</p>
         </div>
         <div class="column">
-            <img style="height: 120px; width:auto"  src="./assets/img/persons/raoul_nanavati.jpg">
+            <img style="height: 120px; width:auto"  src="./assets/img/persons/placeholder.jpg">
             <p style="font-size:16.5px;text-align:center">Raoul Nanavati</p>
             <p style="font-size:16.5px;text-align:center">Navana Tech India Private Limited</p>
         </div>
