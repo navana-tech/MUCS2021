@@ -32,45 +32,39 @@
 
 
 <h2> Organizing Committee </h2> 
-<h4> <b> Kalika Bali </b> </h4> <p style="font-size:16.5px;"> Kalika is a Principal Researcher at Microsoft Research Labs, India. Her research focus is in the area of Speech and Language Technology, especially in the use of linguistic models for building technology that offers a more natural Human-Computer as well as Computer-Mediated interactions. 
-<br> <b> Email: </b> kalikab@microsoft.com </p>
+<p style="font-size:16.5px;">Kalika Bali, Microsoft Research India</p>
 <br>
 
-<h4> <b> Prasanta Kumar Ghosh </b> </h4>  <p style="font-size:16.5px;"> Prasanta is an associate professor at the Electrical Engineering department in Indian Institute of Science (IISc). His research interests include speech production, speech recognition, pronunciation evaluation in multilingual settings. 
-<br> <b> Email: </b> prasantg@iisc.ac.in </p>
+<p style="font-size:16.5px;">Prasanta Kumar Ghosh, Indian Institute of Science (IISc) </p>
 <br>
 
-<h4> <b> Raoul Nanavati  </b> </h4> <p style="font-size:16.5px;"> Raoul is the CEO of Navana Tech - a conversational AI startup focused on creating voice-first regional language solutions. 
-<br> <b> Email: </b> raoul@navanatech.in </p>
-<br>
-<h4> <b> Jai Nanavati </b> </h4> <p style="font-size:16.5px;"> Jai is the CTO of Navana Tech  - a conversational AI startup focused on creating voice-first regional language solutions. He is a computer engineering graduate from the University of Michigan Ann Arbor and has previously worked as a system architect and blockchain application developer. 
-<br> <b> Email: </b> jai@navanatech.in </p>
-<br>
-<h4> <b>  Srinivasa Raghavan </b> </h4> <p style="font-size:16.5px;"> Srinivasa is the Lead Speech Scientist at Navana Tech India Private Limited. His research focus is in building automatic speech recognition technologies for low resource Indic languages. 
-<br> <b>  Email: </b> srinivasa@navanatech.in </p>
-<br>
-<h4> <b> Vivek Seshadri </b> </h4> <p style="font-size:16.5px;"> Vivek is a Senior Researcher at Microsoft Research India. His recent work focuses on building a digital work marketplace that is accessible to workers in rural communities. 
-<br> <b> Email: </b>  visesha@microsoft.com </p>
-<br>
-<h4> <b> Preethi Jyothi </b> </h4> <p style="font-size:16.5px;">  Preethi is an Assistant Professor in the Department of Computer Science and Engineering at IIT Bombay. Her research interests include machine learning applied to speech and text and building computational models for code-switched speech and text. For more details, please refer to: https://www.cse.iitb.ac.in/~pjyothi 
-<br> <b>  Email: </b> pjyothi@cse.iitb.ac.in </p>
-<br>
-<h4> <b> Sunita Sarawagi </b> </h4> <p style="font-size:16.5px;">  Sunita is Institute Chair Professor in the Department of Computer Science and Engineering, and heads the Center for Machine Intelligence and Data Science  at IIT Bombay. Her research interests include machine learning for structured 
-predictions, graphical models, and data analytics. More information here: https://www.cse.iitb.ac.in/~sunita/
-<br> <b>  Email: </b> sunita@iitb.ac.in  </p>
-<br>
-<h4> <b> Samarth Bharadwaj </b> </h4> <p style="font-size:16.5px;"> Samarth is a Senior Researcher and Manager of the Speech and Language team at IBM Research, India.  His current focus is on bringing Indic languages to IBM's product portfolios in text and speech. His research interests include machine learning for speech recognition, natural language processing and computer vision.  
-<br> <b>  Email: </b> samarth.b@in.ibm.com </p>
-<br>
-<h4> <b> Ashish Mittal </b> </h4> <p style="font-size:16.5px;"> Ashish is an Advisory Research Engineer at IBM Research, India and a PhD scholar at IIT Bombay. His research interests include speech recognition and natural language processing especially in the low resource and multilingual settings. 
-<br> <b> Email: </b> arakeshk@in.ibm.com </p>
-<br>
-<h4> <b> Shreya Khare  </b> </h4> <p style="font-size:16.5px;">  Shreya is an Advisory Research Engineer with IBM Research Labs, India. Her current research focus is on infusing machine learning, speech and natural language processing to build systems for multilingual communities.  
-<br> <b> Email: </b> skhare34@in.ibm.com </p>
+<p style="font-size:16.5px;">Raoul Nanavati, Navana Tech India Private Limited</p>
 <br>
 
+<p style="font-size:16.5px;">Jai Nanavati,Navana Tech India Private Limited</p>
+<br>
 
-  
+<p style="font-size:16.5px;">Srinivasa Raghavan, Navana Tech India Private Limited </p>
+<br>
+
+<p style="font-size:16.5px;">Vivek Seshadri, Microsoft Research India </p>
+<br>
+
+<p style="font-size:16.5px;">Preethi Jyothi, IIT Bombay  </p>
+<br>
+
+<p style="font-size:16.5px;">Sunita Sarawagi, IIT Bombay</p>
+<br>
+
+<p style="font-size:16.5px;">Samarth Bharadwaj, IBM Research Labs, India </p>
+<br>
+
+<p style="font-size:16.5px;">Ashish Mittal, IBM Research Labs, India </p>
+<br>
+
+<p style="font-size:16.5px;">Shreya Khare, IBM Research Labs, India</p>
+<br>
+
 
 <h2>Shared Task Committee</h2>
 <p style="font-size:16.5px;">Sanket Shah, Microsoft Research India</p>
