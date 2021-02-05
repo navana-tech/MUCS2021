@@ -33,38 +33,26 @@
 
 <h2> Organizing Committee </h2> 
 <p style="font-size:16.5px;">Kalika Bali, Microsoft Research India</p>
-<br>
 
 <p style="font-size:16.5px;">Prasanta Kumar Ghosh, Indian Institute of Science (IISc) </p>
-<br>
 
 <p style="font-size:16.5px;">Raoul Nanavati, Navana Tech India Private Limited</p>
-<br>
 
 <p style="font-size:16.5px;">Jai Nanavati,Navana Tech India Private Limited</p>
-<br>
 
 <p style="font-size:16.5px;">Srinivasa Raghavan, Navana Tech India Private Limited </p>
-<br>
 
 <p style="font-size:16.5px;">Vivek Seshadri, Microsoft Research India </p>
-<br>
 
 <p style="font-size:16.5px;">Preethi Jyothi, IIT Bombay  </p>
-<br>
 
 <p style="font-size:16.5px;">Sunita Sarawagi, IIT Bombay</p>
-<br>
 
 <p style="font-size:16.5px;">Samarth Bharadwaj, IBM Research Labs, India </p>
-<br>
 
 <p style="font-size:16.5px;">Ashish Mittal, IBM Research Labs, India </p>
-<br>
 
 <p style="font-size:16.5px;">Shreya Khare, IBM Research Labs, India</p>
-<br>
-
 
 <h2>Shared Task Committee</h2>
 <p style="font-size:16.5px;">Sanket Shah, Microsoft Research India</p>
