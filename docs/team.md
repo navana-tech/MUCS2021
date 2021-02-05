@@ -95,12 +95,12 @@
             <p style="font-size:16.5px;text-align:center">Navana Tech India Private Limited</p>
         </div>
         <div class="column">
-            <img style="height: auto; width:64px"  src="./assets/img/persons/vivek_seshadri.png">
+            <img style="height: auto; width:64px"  src="./assets/img/persons/vivek_seshadri.jpg">
             <p style="font-size:16.5px;text-align:center">Vivek Seshadri</p>
             <p style="font-size:16.5px;text-align:center">Microsoft Research India</p>
         </div>
         <div class="column">
-            <img style="height: auto; width:64px"  src="./assets/img/persons/preethi_jyothi.jpg">
+            <img style="height: auto; width:64px"  src="./assets/img/persons/preethi_jyothi.png">
             <p style="font-size:16.5px;text-align:center">Preethi Jyothi,</p>
             <p style="font-size:16.5px;text-align:center">IIT Bombay</p>
         </div>
