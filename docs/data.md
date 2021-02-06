@@ -2,7 +2,7 @@
 <br>
 <div class="widewrapper pagetitle">
   <div class="container" style="background-color:#617863">
-    <h1 style="color:white;">Data Description and Spefication</h1>
+    <h1 style="color:white;">Data Description and Specification</h1>
   </div>
 </div>
 <br>
@@ -11,7 +11,7 @@
   <thead>
   <tr>
       <th>#</th>
-      <th>Description</th>
+      <th>Language</th>
       <th></th>
       <th>Duration (hrs)</th>
       <th>Sampling Rate</th>
@@ -55,7 +55,7 @@
       <td>Train</td>
       <td>95</td>
       <td>8kHz</td>
-      <td></td>
+      <td>Collection of Stories</td>
       <td></td>
       <td></td>
     </tr>
