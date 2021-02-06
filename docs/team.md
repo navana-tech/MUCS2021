@@ -57,6 +57,11 @@
             <p style="font-size:16.5px;text-align:center"><a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-bedk">Brian Kingsbury</a></p>
             <p style="font-size:16.5px;text-align:center">IBM Research</p>
         </div>
+        <div class="column">
+            <img style="height: 120px; width:auto"  src="./assets/img/persons/bhuvana_ramabhadran.jpg">
+            <p style="font-size:16.5px;text-align:center"><a href="https://sites.google.com/site/thebhuv/">Bhuvana Ramabhadran</a></p>
+            <p style="font-size:16.5px;text-align:center">Google Inc.</p>
+        </div>
     </div>
 </div>
 
