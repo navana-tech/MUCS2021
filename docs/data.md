@@ -184,7 +184,7 @@
       <td rowspan="3">Hindi-English</td>
       <td>Train</td>
       <td>90</td>
-      <td></td>
+      <td>16kHz</td>
       <td>Tech Lecture in computer science</td>
       <td></td>
       <td></td>
@@ -192,7 +192,7 @@
     <tr>
       <td>Test</td>
       <td>5</td>
-      <td></td>
+      <td>16kHz</td>
       <td>Tech Lecture in computer science</td>
       <td></td>
       <td></td>
@@ -210,7 +210,7 @@
       <td rowspan="3">Bengali-English</td>
       <td>Train</td>
       <td>40</td>
-      <td></td>
+      <td>16kHz</td>
       <td>Tech Lecture in computer science</td>
       <td></td>
       <td></td>
@@ -218,7 +218,7 @@
     <tr>
       <td>Test</td>
       <td>5</td>
-      <td></td>
+      <td>16kHz</td>
       <td>Tech Lecture in computer science</td>
       <td></td>
       <td></td>
