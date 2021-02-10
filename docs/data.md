@@ -27,7 +27,7 @@
       <th scope="row" rowspan="3">1</th>
       <td rowspan="3">Hindi</td>
       <td>Train</td>
-      <td>95</td>
+      <td>95.05</td>
       <td>8kHz</td>
       <td>Collection of Stories</td>
       <td></td>
@@ -35,7 +35,7 @@
     </tr>
     <tr>
       <td>Test</td>
-      <td>5</td>
+      <td>5.55</td>
       <td>8kHz</td>
       <td>Collection of Stories</td>
       <td></td>
@@ -53,7 +53,7 @@
       <th scope="row" rowspan="3">2</th>
       <td rowspan="3">Marathi</td>
       <td>Train</td>
-      <td>95</td>
+      <td>93.89</td>
       <td>8kHz</td>
       <td>Collection of Stories</td>
       <td></td>
@@ -79,7 +79,7 @@
       <th scope="row" rowspan="3">3</th>
       <td rowspan="3">Odia</td>
       <td>Train</td>
-      <td>95</td>
+      <td>94.54</td>
       <td>8kHz</td>
       <td>Healthcare, Agriculture, Finance</td>
       <td></td>
@@ -87,7 +87,7 @@
     </tr>
     <tr>
       <td>Test</td>
-      <td>5</td>
+      <td>5.49</td>
       <td>8kHz</td>
       <td>Healthcare, Agriculture, Finance</td>
       <td></td>
@@ -183,7 +183,7 @@
       <th scope="row" rowspan="3">7</th>
       <td rowspan="3">Hindi-English</td>
       <td>Train</td>
-      <td>90</td>
+      <td>89.86</td>
       <td>16kHz</td>
       <td>Tech Lecture in computer science</td>
       <td></td>
@@ -191,7 +191,7 @@
     </tr>
     <tr>
       <td>Test</td>
-      <td>5</td>
+      <td>5.18</td>
       <td>16kHz</td>
       <td>Tech Lecture in computer science</td>
       <td></td>
@@ -209,7 +209,7 @@
       <th scope="row" rowspan="3">8</th>
       <td rowspan="3">Bengali-English</td>
       <td>Train</td>
-      <td>40</td>
+      <td>46.11</td>
       <td>16kHz</td>
       <td>Tech Lecture in computer science</td>
       <td></td>
@@ -217,7 +217,7 @@
     </tr>
     <tr>
       <td>Test</td>
-      <td>5</td>
+      <td>7.02</td>
       <td>16kHz</td>
       <td>Tech Lecture in computer science</td>
       <td></td>
