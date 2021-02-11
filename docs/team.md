@@ -138,7 +138,7 @@
 <div class="container">
     <div class="row">
         <div class="column">
-            <img style="height: 120px; width:auto"  src="./assets/img/persons/sanket_shah.jpeg">
+            <img style="height: 120px; width:auto"  src="./assets/img/persons/sanket_shah.JPG">
             <p style="font-size:16.5px;text-align:center"><a href="https://sanket0211.github.io/">Sanket Shah</a></p>
             <p style="font-size:16.5px;text-align:center">Microsoft Research India</p>
         </div>
