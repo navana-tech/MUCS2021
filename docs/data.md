@@ -7,14 +7,14 @@
 </div>
 <br>
 
-<p style="font-size:16.5px;"></p>
+<p style="font-size:16.5px;">Please note the followings before downloading the data:</p>
 <ul>
   <li style="font-size:16.5px;">The download links for Hindi, Marathi, Odia, Hindi-English, and Bengali-English have zipped files which are password protected. The passwords are shared with only registered participants for the challenge.</li>
-  <li style="font-size:16.5px;">Please note the followings before downloading the data:</li>
-  <ul>
+  
+  <ol>
   <li style="font-size:16.5px;">please copy the link address and open in a new browser.</li> 
   <li style="font-size:16.5px;">right click and open in a new tab or window.</li>
-  </ul> 
+  </ol> 
 </ul>
 
 
