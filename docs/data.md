@@ -185,7 +185,7 @@
       <td>5</td>
       <td>16kHz</td>
       <td>General</td>
-      <td><a href="{{ relative_root_path }}{% link ta-te-gu-description.md %}">Click to View</a></td>
+      <td><a href="{{ relative_root_path }}IS21SS-indicASRchallenge{% link ta-te-gu-description.md %}">Click to View</a></td>
       <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
       <td><a target="_blank" href="https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e">Click to Download (gu-in-Test)</a></td>
     </tr>
