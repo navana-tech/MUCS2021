@@ -9,10 +9,11 @@
 
 <p style="font-size:16.5px;">Please note the followings before downloading the data:</p>
 <ul>
-  <li style="font-size:16.5px;">The download links for Hindi, Marathi, Odia, Hindi-English, and Bengali-English have zipped files which are password protected. The passwords are shared with only registered participants for the challenge.</li>
-  <li style="font-size:16.5px;">If clicking the download links does not download the zipfile:</li>
+  <li style="font-size:16.5px;">The download links for Hindi, Marathi, Odia, Hindi-English, and Bengali-English have zipped files which are password protected. The passwords are shared with only registered participants of the challenge.</li>
+  <li style="font-size:16.5px;">There are two links (Main and Mirror) to download data for each language train and test excluding Tamil, Telugu and Gujarati. You can use any one of them. </li>
+  <li>If clicking the download links does not download the zipped files, then do one of the followings:</li>
   <ol>
-  <li style="font-size:16.5px;">please copy the link address and open in a new browser.</li> 
+  <li style="font-size:16.5px;">copy the link address and open in a new browser.</li> 
   <li style="font-size:16.5px;">right click and open in a new tab or window.</li>
   </ol> 
 </ul>
