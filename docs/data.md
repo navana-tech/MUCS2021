@@ -7,6 +7,20 @@
 </div>
 <br>
 
+<p style="font-size:16.5px;">Please note the followings before downloading the data:</p>
+<ul>
+  <li style="font-size:16.5px;">The download links for Hindi, Marathi, Odia, Hindi-English, and Bengali-English have zipped files which are password protected. The passwords are shared with only registered participants for the challenge.</li>
+  <li style="font-size:16.5px;">
+  <ul>
+  <li style="font-size:16.5px;">please copy the link address and open in a new browser.</li> 
+  <li style="font-size:16.5px;">right click and open in a new tab or window.</li>
+  </ul> 
+</ul>
+
+<p style="font-size:16.5px;">The download links for Hindi, Marathi, Odia, Hindi-English, and Bengali-English have zipped files which are password protected. The passwords are shared with only registered participants for the challenge.</p>
+
+<p style="font-size:16.5px;">If clicking the download links does not download the zipfile, please copy the link address and open in a new browser.</p>
+
 <table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
   <thead>
   <tr>
@@ -18,7 +32,7 @@
       <th>Domain</th>
       <th>Brief Description</th>
       <th>License</th>
-      <th>Download Link*</th>
+      <th>Download Link*^</th>
     </tr>
   </thead>
   <!--Table head-->
@@ -259,5 +273,5 @@
   </tbody>
 </table>
 <hr>
-<p style="font-size:16.5px;">*The download links for Hindi, Marathi, Odia, Hindi-English, and Bengali-English have zipped files which are password protected. The passwords are shared with only registered participants for the challenge.</p>
+
 
