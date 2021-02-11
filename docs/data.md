@@ -33,7 +33,7 @@
       <td>Collection of Stories</td>
       <td></td>
       <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
-      <td><a target="_blank" href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi_train.zip">Main</a>, Mirror</td>
+      <td><a target="_blank" href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi_train.zip">Main</a>     Mirror</td>
     </tr>
     <tr>
       <td>Test</td>
@@ -42,7 +42,7 @@
       <td>Collection of Stories</td>
       <td></td>
       <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
-      <td><a target="_blank" href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi_test.zip">Main</a>, Mirror</td>
+      <td><a target="_blank" href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi_test.zip">Main</a>     Mirror</td>
     </tr>
     <tr>
       <td>Blind Test</td>
