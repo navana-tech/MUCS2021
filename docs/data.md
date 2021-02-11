@@ -31,7 +31,7 @@
       <td>95.05</td>
       <td>8kHz</td>
       <td>Collection of Stories</td>
-      <td></td>
+      <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/hi-description.html">Click to View</a></td>
       <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
       <td><a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi_train.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;Mirror</td>
     </tr>
@@ -40,7 +40,7 @@
       <td>5.55</td>
       <td>8kHz</td>
       <td>Collection of Stories</td>
-      <td></td>
+      <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/hi-description.html">Click to View</a></td>
       <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
       <td><a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi_test.zip" download>Main</a>&nbsp;&nbsp;&nbsp;&nbsp;Mirror</td>
     </tr>
@@ -60,7 +60,7 @@
       <td>93.89</td>
       <td>8kHz</td>
       <td>Collection of Stories</td>
-      <td></td>
+      <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/mr-description.html">Click to View</a></td>
       <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
       <td></td>
     </tr>
@@ -69,7 +69,7 @@
       <td>5</td>
       <td>8kHz</td>
       <td>Collection of Stories</td>
-      <td></td>
+      <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/mr-description.html">Click to View</a></td>
       <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
       <td></td>
     </tr>
@@ -89,7 +89,7 @@
       <td>94.54</td>
       <td>8kHz</td>
       <td>Healthcare, Agriculture, Finance</td>
-      <td></td>
+      <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/od-description.html">Click to View</a></td>
       <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
       <td></td>
     </tr>
@@ -98,7 +98,7 @@
       <td>5.49</td>
       <td>8kHz</td>
       <td>Healthcare, Agriculture, Finance</td>
-      <td></td>
+      <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/od-description.html">Click to View</a></td>
       <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
       <td></td>
     </tr>
@@ -205,7 +205,7 @@
       <td>89.86</td>
       <td>16kHz</td>
       <td>Tech Lecture in computer science</td>
-      <td></td>
+      <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/cm-description.html">Click to View</a></td>
       <td>CC BY-SA 4.0</td>
       <td></td>
     </tr>
@@ -214,7 +214,7 @@
       <td>5.18</td>
       <td>16kHz</td>
       <td>Tech Lecture in computer science</td>
-      <td></td>
+      <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/cm-description.html">Click to View</a></td>
       <td>CC BY-SA 4.0</td>
       <td></td>
     </tr>
