@@ -132,19 +132,69 @@
     </div>
 </div>
 
-
 <h2>Shared Task Committee</h2>
-<p style="font-size:16.5px">Sanket Shah, Microsoft Research India</p>
-<p style="font-size:16.5px">Sunayana Sitaram, Microsoft Research India</p>
-<p style="font-size:16.5px">Saurabh Vyas, Navana Tech</p>
-<p style="font-size:16.5px">Rakesh Vaideeswaran, Indian Institute of Science (IISc), Bangalore</p>
-<p style="font-size:16.5px">Chiranjeevi Yarra, IIIT, Hyderabad</p>
-<p style="font-size:16.5px">Karthik Sankaranarayanan, IBM Research India</p> 
-<p style="font-size:16.5px">Akash Rajpuria, Navana Tech</p> 
-<p style="font-size:16.5px">Vinit Unni, IIT Bombay</p> 
-<p style="font-size:16.5px">Ankita Singh, IIT Bombay</p> 
-<p style="font-size:16.5px">Anuj Diwan, IIT Bombay</p> 
-<p style="font-size:16.5px">Tejaswi Seeram, Microsoft Research India</p> 
+
+
+<div class="container">
+    <div class="row">
+        <div class="column">
+            <img style="height: 120px; width:auto"  src="./assets/img/persons/sanket_shah.jpeg">
+            <p style="font-size:16.5px;text-align:center"><a href="https://sanket0211.github.io/">Sanket Shah</a></p>
+            <p style="font-size:16.5px;text-align:center">Microsoft Research India</p>
+        </div>
+        <div class="column">
+            <img style="height: 120px; width:auto"  src="./assets/img/persons/sunayana_sitaram.png">
+            <p style="font-size:16.5px;text-align:center"><a href="https://www.microsoft.com/en-us/research/people/susitara/">Sunayana Sitaram</a></p>
+            <p style="font-size:16.5px;text-align:center">Microsoft Research India</p>
+        </div>
+        <div class="column">
+            <img style="height: 120px; width:auto"  src="./assets/img/persons/saurabh_vyas.png">
+            <p style="font-size:16.5px;text-align:center"><a href="">Saurabh Vyas</a></p>
+            <p style="font-size:16.5px;text-align:center">Navana Tech India Private Limited</p>
+        </div>
+        <div class="column">
+            <img style="height: 120px; width:auto"  src="./assets/img/persons/rakesh_vaideeswaran.jpg">
+            <p style="font-size:16.5px;text-align:center"><a href="">Rakesh Vaideeswaran</a></p>
+            <p style="font-size:16.5px;text-align:center">Indian Institute of Science (IISc)</p>
+        </div>
+        <div class="column">
+            <img style="height: 120px; width:auto"  src="./assets/img/persons/chiranjeevi_yarra.jpg">
+            <p style="font-size:16.5px;text-align:center"><a href="">Chiranjeevi Yarra</a></p>
+            <p style="font-size:16.5px;text-align:center">IIIT Hyderabad</p>
+        </div>
+        <div class="column">
+            <img style="height: 120px; width:auto"  src="./assets/img/persons/placeholder.jpg">
+            <p style="font-size:16.5px;text-align:center"><a href="">Karthik Sankaranarayanan</a></p>
+            <p style="font-size:16.5px;text-align:center">IBM Research Labs, India</p>
+        </div>
+        <div class="column">
+            <img style="height: 120px; width:auto"  src="./assets/img/persons/akash_rajpuria.png">
+            <p style="font-size:16.5px;text-align:center"><a href="">Akash Rajpuria</a></p>
+            <p style="font-size:16.5px;text-align:center">Navana Tech India Private Limited</p>
+        </div>
+        <div class="column">
+            <img style="height: 120px; width:auto"  src="./assets/img/persons/vinit_unni.jpg">
+            <p style="font-size:16.5px;text-align:center"><a href="">Vinit Unni</a></p>
+            <p style="font-size:16.5px;text-align:center">IIT Bombay</p>
+        </div>
+        <div class="column">
+            <img style="height: 120px; width:auto"  src="./assets/img/persons/ankita_singh.jpg">
+            <p style="font-size:16.5px;text-align:center"><a href="">Ankita Singh</a></p>
+            <p style="font-size:16.5px;text-align:center">IIT Bombay</p>
+        </div>
+        <div class="column">
+            <img style="height: 120px; width:auto"  src="./assets/img/persons/anuj_diwan.jpg">
+            <p style="font-size:16.5px;text-align:center"><a href="">Anuj Diwan</a></p>
+            <p style="font-size:16.5px;text-align:center">IIT Bombay</p>
+        </div>
+        <div class="column">
+            <img style="height: 120px; width:auto"  src="./assets/img/persons/placeholder.jpg">
+            <p style="font-size:16.5px;text-align:center"><a href="">Tejaswi Seeram</a></p>
+            <p style="font-size:16.5px;text-align:center">Microsoft Research India</p>
+        </div>
+    </div>
+</div>
+
 
 
 
