@@ -18,7 +18,7 @@
       <th>Domain</th>
       <th>Brief Description</th>
       <th>License</th>
-      <th>Download Link</th>
+      <th>Download Link*</th>
     </tr>
   </thead>
   <!--Table head-->
@@ -258,4 +258,6 @@
     </tr>
   </tbody>
 </table>
+<br>
+<p style="font-size:16.5px;">*The download links for Hindi, Marathi, Odia, Hindi-English, and Bengali-English have zipped files which are password protected. The passwords are shared with only registered participants for the challenge.</p>
 
