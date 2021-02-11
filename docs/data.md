@@ -206,7 +206,7 @@
       <td>16kHz</td>
       <td>Tech Lecture in computer science</td>
       <td></td>
-      <td></td>
+      <td>CC BY-SA 4.0</td>
       <td></td>
     </tr>
     <tr>
@@ -215,7 +215,7 @@
       <td>16kHz</td>
       <td>Tech Lecture in computer science</td>
       <td></td>
-      <td></td>
+      <td>CC BY-SA 4.0</td>
       <td></td>
     </tr>
     <tr>
@@ -235,7 +235,7 @@
       <td>16kHz</td>
       <td>Tech Lecture in computer science</td>
       <td></td>
-      <td></td>
+      <td>CC BY-SA 4.0</td>
       <td></td>
     </tr>
     <tr>
@@ -244,7 +244,7 @@
       <td>16kHz</td>
       <td>Tech Lecture in computer science</td>
       <td></td>
-      <td></td>
+      <td>CC BY-SA 4.0</td>
       <td></td>
     </tr>
     <tr>
