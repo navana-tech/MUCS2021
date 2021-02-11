@@ -119,7 +119,7 @@
       <td>16kHz</td>
       <td>General</td>
       <td></td>
-      <td></td>
+      <td><a href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
       <td></td>
     </tr>
     <tr>
@@ -128,6 +128,7 @@
       <td>16kHz</td>
       <td>General</td>
       <td></td>
+      <td><a href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
       <td></td>
     </tr>
     <tr>
@@ -147,6 +148,7 @@
       <td>16kHz</td>
       <td>General</td>
       <td></td>
+      <td><a href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
       <td></td>
     </tr>
     <tr>
@@ -155,6 +157,7 @@
       <td>16kHz</td>
       <td>General</td>
       <td></td>
+      <td><a href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
       <td></td>
     </tr>
     <tr>
@@ -174,7 +177,7 @@
       <td>16kHz</td>
       <td>General</td>
       <td></td>
-      <td></td>
+      <td><a href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
       <td></td>
     </tr>
     <tr>
@@ -183,7 +186,7 @@
       <td>16kHz</td>
       <td>General</td>
       <td></td>
-      <td></td>
+      <td><a href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
       <td></td>
     </tr>
     <tr>
