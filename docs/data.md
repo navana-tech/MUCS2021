@@ -32,7 +32,7 @@
       <td>8kHz</td>
       <td>Collection of Stories</td>
       <td></td>
-      <td><a href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
+      <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
       <td></td>
     </tr>
     <tr>
@@ -41,7 +41,7 @@
       <td>8kHz</td>
       <td>Collection of Stories</td>
       <td></td>
-      <td><a href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
+      <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
       <td></td>
     </tr>
     <tr>
@@ -61,7 +61,7 @@
       <td>8kHz</td>
       <td>Collection of Stories</td>
       <td></td>
-      <td><a href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
+      <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
       <td></td>
     </tr>
     <tr>
@@ -70,7 +70,7 @@
       <td>8kHz</td>
       <td>Collection of Stories</td>
       <td></td>
-      <td><a href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
+      <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
       <td></td>
     </tr>
     <tr>
@@ -90,7 +90,7 @@
       <td>8kHz</td>
       <td>Healthcare, Agriculture, Finance</td>
       <td></td>
-      <td><a href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
+      <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
       <td></td>
     </tr>
     <tr>
@@ -99,7 +99,7 @@
       <td>8kHz</td>
       <td>Healthcare, Agriculture, Finance</td>
       <td></td>
-      <td><a href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
+      <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
       <td></td>
     </tr>
     <tr>
@@ -119,8 +119,8 @@
       <td>16kHz</td>
       <td>General</td>
       <td></td>
-      <td><a href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
-      <td><a href="https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e">Click to Download</a></td>
+      <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
+      <td><a target="_blank" href="https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e">Click to Download (ta-in-train)</a></td>
     </tr>
     <tr>
       <td>Test</td>
@@ -128,8 +128,8 @@
       <td>16kHz</td>
       <td>General</td>
       <td></td>
-      <td><a href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
-      <td><a href="https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e">Click to Download</a></td>
+      <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
+      <td><a target="_blank" href="https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e">Click to Download (ta-in-test)</a></td>
     </tr>
     <tr>
       <td>Blind Test</td>
@@ -148,8 +148,8 @@
       <td>16kHz</td>
       <td>General</td>
       <td></td>
-      <td><a href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
-      <td><a href="https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e">Click to Download</a></td>
+      <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
+      <td><a target="_blank" href="https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e">Click to Download (te-in-train)</a></td>
     </tr>
     <tr>
       <td>Test</td>
@@ -157,8 +157,8 @@
       <td>16kHz</td>
       <td>General</td>
       <td></td>
-      <td><a href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
-      <td><a href="https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e">Click to Download</a></td>
+      <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
+      <td><a target="_blank" href="https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e">Click to Download (te-in-test)</a></td>
     </tr>
     <tr>
       <td>Blind Test</td>
@@ -177,8 +177,8 @@
       <td>16kHz</td>
       <td>General</td>
       <td></td>
-      <td><a href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
-      <td><a href="https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e">Click to Download</a></td>
+      <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
+      <td><a target="_blank" href="https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e">Click to Download (gu-in-train)</a></td>
     </tr>
     <tr>
       <td>Test</td>
@@ -186,8 +186,8 @@
       <td>16kHz</td>
       <td>General</td>
       <td></td>
-      <td><a href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
-      <td><a href="https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e">Click to Download</a></td>
+      <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
+      <td><a target="_blank" href="https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e">Click to Download (gu-in-test)</a></td>
     </tr>
     <tr>
       <td>Blind Test</td>
