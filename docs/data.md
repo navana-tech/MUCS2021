@@ -17,6 +17,7 @@
       <th>Sampling Rate</th>
       <th>Domain</th>
       <th>Brief Description</th>
+      <th>License</th>
       <th>Download Link</th>
     </tr>
   </thead>
@@ -32,6 +33,7 @@
       <td>Collection of Stories</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Test</td>
@@ -40,9 +42,11 @@
       <td>Collection of Stories</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Blind Test</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -56,6 +60,7 @@
       <td>93.89</td>
       <td>8kHz</td>
       <td>Collection of Stories</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -84,6 +89,7 @@
       <td>Healthcare, Agriculture, Finance</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Test</td>
@@ -100,6 +106,7 @@
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row" rowspan="3">4</th>
@@ -108,6 +115,7 @@
       <td>40</td>
       <td>16kHz</td>
       <td>General</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -121,6 +129,7 @@
     </tr>
     <tr>
       <td>Blind Test</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -152,6 +161,7 @@
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row" rowspan="3">6</th>
@@ -162,6 +172,7 @@
       <td>General</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Test</td>
@@ -170,9 +181,11 @@
       <td>General</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Blind Test</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -188,6 +201,7 @@
       <td>Tech Lecture in computer science</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Test</td>
@@ -196,9 +210,11 @@
       <td>Tech Lecture in computer science</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Blind Test</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -214,6 +230,7 @@
       <td>Tech Lecture in computer science</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Test</td>
@@ -222,9 +239,11 @@
       <td>Tech Lecture in computer science</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Blind Test</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
