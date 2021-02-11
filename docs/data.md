@@ -234,7 +234,7 @@
       <td>46.11</td>
       <td>16kHz</td>
       <td>Tech Lecture in computer science</td>
-      <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/hi-description.html">Click to View</a></td>
+      <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/cm-description.html">Click to View</a></td>
       <td>CC BY-SA 4.0</td>
       <td></td>
     </tr>
@@ -243,7 +243,7 @@
       <td>7.02</td>
       <td>16kHz</td>
       <td>Tech Lecture in computer science</td>
-      <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/hi-description.html">Click to View</a></td>
+      <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/cm-description.html">Click to View</a></td>
       <td>CC BY-SA 4.0</td>
       <td></td>
     </tr>
