@@ -84,7 +84,7 @@
       <td>Collection of Stories</td>
       <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/mr-description.html">Click to View</a></td>
       <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
-      <td><a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Marathi_train.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;Mirror</td>
+      <td><a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Marathi_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;Mirror</td>
     </tr>
     <tr>
       <td>Blind Test</td>
