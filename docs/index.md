@@ -20,6 +20,36 @@ collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g.
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+.left {
+  width: 75%;
+}
+
+.right {
+  width: 25%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+
+
 <div class="widewrapper pagetitle">
   <div class="container" style="background-color:#617863">
     <h1 style="color:white;">Welcome!</h1>
@@ -97,6 +127,11 @@ displayed if the 'eventbrite' field in the header is not set.
   width: 50%;
 }
 </style>
+
+
+<div class="row">
+  <div class="column left" style="background-color:#FFFFFF;">
+
 
 <p style="font-size:16.5px;">
   Recently, there have been increasing interests in multilingual automatic speech recognition (ASR) where a speech recognition system is built to cater to multiple low resource languages by taking advantage of low amount of labeled corpora in multiple languages. On the other hand, with multilingualism becoming common in today’s world, there has been increasing interest in code-switching ASR as well. In code-switching, multiple languages are freely interchanged within a single sentence or between sentences. The success of low-resource multilingual and code-switching ASR often depends on the variety of languages in terms of their acoustics, linguistic characteristics as well as amount of data available and how these are carefully considered in building the ASR system. In this challenge, we would like to focus on building multilingual and code-switching ASR systems through two different sub-tasks related to a total of seven Indian languages with constraints on the data available for acoustic modeling and language modeling.
@@ -242,7 +277,11 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 </p>
 <hr/>
 {% endif %}
+</div>
+<div class="column right" style="background-color:#FFFFFF;">
 
 <a class="twitter-timeline" href="https://twitter.com/SPIRE_Lab?ref_src=twsrc%5Etfw">Tweets by SPIRE_Lab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
+</div>
 
