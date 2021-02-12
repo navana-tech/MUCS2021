@@ -162,8 +162,9 @@ displayed if the 'eventbrite' field in the header is not set.
   </ul>
   </div>
   <div class="column right" style="background-color:#FFFFFF;">
-<!-- 
-  <a class="twitter-timeline" href="https://twitter.com/SPIRE_Lab?ref_src=twsrc%5Etfw">Tweets by SPIRE_Lab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+
+<a class="twitter-timeline" href="https://twitter.com/is21ss?ref_src=twsrc%5Etfw">Tweets by is21ss</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
   </div>
 
 </div>
