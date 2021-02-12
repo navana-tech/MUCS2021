@@ -163,6 +163,9 @@ displayed if the 'eventbrite' field in the header is not set.
   </div>
   <div class="column right" style="background-color:#FFFFFF;">
 
+
+<h3>Announcements</h3>
+
 <a class="twitter-timeline" href="https://twitter.com/is21ss?ref_src=twsrc%5Etfw">Tweets by is21ss</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
   </div>
