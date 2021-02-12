@@ -131,157 +131,40 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <div class="row">
   <div class="column left" style="background-color:#FFFFFF;">
-
-
-<p style="font-size:16.5px;">
-  Recently, there have been increasing interests in multilingual automatic speech recognition (ASR) where a speech recognition system is built to cater to multiple low resource languages by taking advantage of low amount of labeled corpora in multiple languages. On the other hand, with multilingualism becoming common in today’s world, there has been increasing interest in code-switching ASR as well. In code-switching, multiple languages are freely interchanged within a single sentence or between sentences. The success of low-resource multilingual and code-switching ASR often depends on the variety of languages in terms of their acoustics, linguistic characteristics as well as amount of data available and how these are carefully considered in building the ASR system. In this challenge, we would like to focus on building multilingual and code-switching ASR systems through two different sub-tasks related to a total of seven Indian languages with constraints on the data available for acoustic modeling and language modeling.
-
-</p>
-<p> </p> 
-<p style="font-size:16.5px;">
-  India is a country of language continuum, where every few kilometers the dialect/language changes. Various language families or genealogical types have been reported, in which the vast number of Indian languages can be classified, including Austro-Asiatic, Dravidian, Indo-Aryan, Tibeto-Burman and more recently, Tai-Kadai and Great Andamanese. However, there are no boundaries among these language families, rather languages across different language families share linguistic traits including retroflex sounds, SOV word order, absence of prepositions and many more resulting in acoustic and linguistic richness. According to the 2001 census, 29 Indian languages have more than a million speakers. Among these, 22 languages have been given the status of official languages by the Government of India. Most of these languages are low resource. Many of these languages do not have a written script and hence, speech technology solutions would greatly benefit such communities. Code-switching between an Indian language and (Indian) English has been a normal feature of everyday speech. Understanding code-switching patterns in different languages and developing accurate code-switching ASR remain a challenge due to the lack of large code-switched corpora. Thus, techniques that exploit unique properties and similarities among the Indian languages could be useful for building multilingual and code-switching ASR systems in these resource constrained settings.
-
-</p>
-<p> </p> 
-<p style="font-size:16.5px;">
-  We will be providing a total of ~600 hours of data in seven Indian languages, namely, Hindi, Marathi, Odia, Bengali, Telugu, Tamil and Gujarati. This includes code-switched transcribed speech in two code-switched language pairs, Hindi-English and Bengali-English. Domains of the speech recordings vary across different languages.  </p>
+  <p style="font-size:16.5px;">
+    Recently, there have been increasing interests in multilingual automatic speech recognition (ASR) where a speech recognition system is built to cater to multiple low resource languages by taking advantage of low amount of labeled corpora in multiple languages. On the other hand, with multilingualism becoming common in today’s world, there has been increasing interest in code-switching ASR as well. In code-switching, multiple languages are freely interchanged within a single sentence or between sentences. The success of low-resource multilingual and code-switching ASR often depends on the variety of languages in terms of their acoustics, linguistic characteristics as well as amount of data available and how these are carefully considered in building the ASR system. In this challenge, we would like to focus on building multilingual and code-switching ASR systems through two different sub-tasks related to a total of seven Indian languages with constraints on the data available for acoustic modeling and language modeling.</p>
   <p> </p> 
   <p style="font-size:16.5px;">
-  For example, the Odia data comes from healthcare, agriculture and financial domains. The Hindi-English and Bengali-English data are drawn from a repository of technical lectures on a diverse range of topics in computer science. For more description on this, please refer to the Dataset section <LINK>. The participants in this challenge will be required to use only the released data to build ASR systems in these languages, which will make the task fair for all participants and direct the focus of the work to the low resource setting. However, we will not restrict participants from only working on one of the components of the multilingual and code-switching ASR pipeline – participants will be free to innovate in any aspect of the multilingual and code-switching ASR system as long as they only use the data provided.  We will release a baseline system that participants can compare their systems against and use as a starting point.  During testing, we will release a held-out blind test set that the systems will be evaluated on.
-  </p>
+    India is a country of language continuum, where every few kilometers the dialect/language changes. Various language families or genealogical types have been reported, in which the vast number of Indian languages can be classified, including Austro-Asiatic, Dravidian, Indo-Aryan, Tibeto-Burman and more recently, Tai-Kadai and Great Andamanese. However, there are no boundaries among these language families, rather languages across different language families share linguistic traits including retroflex sounds, SOV word order, absence of prepositions and many more resulting in acoustic and linguistic richness. According to the 2001 census, 29 Indian languages have more than a million speakers. Among these, 22 languages have been given the status of official languages by the Government of India. Most of these languages are low resource. Many of these languages do not have a written script and hence, speech technology solutions would greatly benefit such communities. Code-switching between an Indian language and (Indian) English has been a normal feature of everyday speech. Understanding code-switching patterns in different languages and developing accurate code-switching ASR remain a challenge due to the lack of large code-switched corpora. Thus, techniques that exploit unique properties and similarities among the Indian languages could be useful for building multilingual and code-switching ASR systems in these resource constrained settings.</p>
   <p> </p> 
-  <h3> The challenge comprises two sub-tasks as described below </h3>
-  
-  <h4> <b> Sub-task1 </b> </h4>
-<p style="font-size:16.5px;">This sub-task involves building a multilingual ASR system in six languages, namely, Hindi, Marathi, Odia, Telugu, Tamil, and Gujarati. The blind test set will comprise recordings from a subset (or all) of these six languages</p>
+  <p style="font-size:16.5px;">
+    We will be providing a total of ~600 hours of data in seven Indian languages, namely, Hindi, Marathi, Odia, Bengali, Telugu, Tamil and Gujarati. This includes code-switched transcribed speech in two code-switched language pairs, Hindi-English and Bengali-English. Domains of the speech recordings vary across different languages.  </p>
+    <p> </p> 
+    <p style="font-size:16.5px;">
+    For example, the Odia data comes from healthcare, agriculture and financial domains. The Hindi-English and Bengali-English data are drawn from a repository of technical lectures on a diverse range of topics in computer science. For more description on this, please refer to the Dataset section <LINK>. The participants in this challenge will be required to use only the released data to build ASR systems in these languages, which will make the task fair for all participants and direct the focus of the work to the low resource setting. However, we will not restrict participants from only working on one of the components of the multilingual and code-switching ASR pipeline – participants will be free to innovate in any aspect of the multilingual and code-switching ASR system as long as they only use the data provided.  We will release a baseline system that participants can compare their systems against and use as a starting point.  During testing, we will release a held-out blind test set that the systems will be evaluated on.</p>
+    <p> </p> 
+    <h3> The challenge comprises two sub-tasks as described below </h3>
+    
+    <h4> <b> Sub-task1 </b> </h4>
+  <p style="font-size:16.5px;">This sub-task involves building a multilingual ASR system in six languages, namely, Hindi, Marathi, Odia, Telugu, Tamil, and Gujarati. The blind test set will comprise recordings from a subset (or all) of these six languages</p>
 
-<h4> <b> Sub-task2 </b> </h4>
-<p style="font-size:16.5px;">This sub-task involves building a code-switching ASR system separately for Hindi-English and Bengali-English code-switched pairs. The blind test set will comprise recordings from these two code-switched language pairs.</p>
+  <h4> <b> Sub-task2 </b> </h4>
+  <p style="font-size:16.5px;">This sub-task involves building a code-switching ASR system separately for Hindi-English and Bengali-English code-switched pairs. The blind test set will comprise recordings from these two code-switched language pairs.</p>
 
-<p style="font-size:16.5px;"> Submissions to this special session should show results on one or more of the above mentioned tasks. Submissions on any topic related to building multilingual code-switching ASR are welcome. This includes (but is not limited to):
-</p>
-<ul>
-  <li style="font-size:16.5px;"> Acoustic modeling for multilingual ASR models </li>
-  <li style="font-size:16.5px;"> Language modeling for multilingual ASR models </li> 
-  <li style="font-size:16.5px;"> Multilingual ASR model for code-switching </li> 
-  <li style="font-size:16.5px;"> Language modeling for code-switching </li> 
-  <li style="font-size:16.5px;"> Linguistically informed models for code-switching </li> 
+  <p style="font-size:16.5px;"> Submissions to this special session should show results on one or more of the above mentioned tasks. Submissions on any topic related to building multilingual code-switching ASR are welcome. This includes (but is not limited to):
+  </p>
+  <ul>
+    <li style="font-size:16.5px;"> Acoustic modeling for multilingual ASR models </li>
+    <li style="font-size:16.5px;"> Language modeling for multilingual ASR models </li> 
+    <li style="font-size:16.5px;"> Multilingual ASR model for code-switching </li> 
+    <li style="font-size:16.5px;"> Language modeling for code-switching </li> 
+    <li style="font-size:16.5px;"> Linguistically informed models for code-switching </li> 
+  </ul>
+  </div>
+  <div class="column right" style="background-color:#FFFFFF;">
 
-
-  
-
-{% comment %}
-AUDIENCE
-
-Explain who your audience is.  (In particular, tell readers if the
-workshop is only open to people from a particular institution.
-{% endcomment %}
-{% if site.carpentry == "swc" %}
-{% include swc/who.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/who.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/who.html %}
-{% endif %}
-
-{% comment %}
-LOCATION
-
-This block displays the address and links to maps showing directions
-if the latitude and longitude of the workshop have been set.  You
-can use https://itouchmap.com/latlong.html to find the lat/long of an
-address.
-{% endcomment %}
-{% assign begin_address = page.address | slice: 0, 4 | downcase  %}
-{% if page.address == "online" %}
-{% assign online = "true_private" %}
-{% elsif begin_address contains "http" %}
-{% assign online = "true_public" %}
-{% else %}
-{% assign online = "false" %}
-{% endif %}
-{% if page.latitude and page.longitude and online == "false" %}
-<p id="where">
-  
-</p>
-{% elsif online == "true_public" %}
-<p id="where">
-  
-</p>
-{% elsif online == "true_private" %}
-<p id="where">
- 
-</p>
-{% endif %}
-
-{% comment %}
-DATE
-
-This block displays the date and links to Google Calendar.
-{% endcomment %}
-{% if page.humandate %}
-<p id="when">
-
-</p>
-{% endif %}
-
-{% comment %}
-SPECIAL REQUIREMENTS
-
-Modify the block below if there are any special requirements.
-{% endcomment %}
-
-
-
-{% comment %}
-WHO CAN ATTEND?
-
-If you would like to specify who can attend the workshop,
-you can use the section below.
-
-Move the 'endcomment' tag above the beginning of the following
-<p> tag to make this section visible.
-
-Edit the text to match who can attend the workshop. For instance:
-- This workshop is open to affiliates to ABC university.
-- This workshop is open to the public.
-- If you are interested in attending this workshop, contact me@example.com
-  for more information
-
-
-{% endcomment %}
-
-<hr/>
-
-
-
-
-{% comment %}
-Collaborative Notes
-
-If you want to use an Etherpad, go to
-
-https://pad.carpentries.org/YYYY-MM-DD-site
-
-where 'YYYY-MM-DD-site' is the identifier for your workshop,
-e.g., '2015-06-10-esu'.
-
-Note we also have a CodiMD (the open-source version of HackMD)
-available at https://codimd.carpentries.org
-{% endcomment %}
-{% if page.collaborative_notes %}
-<h2 id="collaborative_notes">Collaborative Notes</h2>
-
-<p>
-We will use this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
-</p>
-<hr/>
-{% endif %}
-</div>
-<div class="column right" style="background-color:#FFFFFF;">
-
-<a class="twitter-timeline" href="https://twitter.com/SPIRE_Lab?ref_src=twsrc%5Etfw">Tweets by SPIRE_Lab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+  <a class="twitter-timeline" href="https://twitter.com/SPIRE_Lab?ref_src=twsrc%5Etfw">Tweets by SPIRE_Lab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
 
 </div>
 
