@@ -243,4 +243,6 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 <hr/>
 {% endif %}
 
+<a class="twitter-timeline" href="https://twitter.com/SPIRE_Lab?ref_src=twsrc%5Etfw">Tweets by SPIRE_Lab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
