@@ -141,12 +141,12 @@ displayed if the 'eventbrite' field in the header is not set.
     We will be providing a total of ~600 hours of data in seven Indian languages, namely, Hindi, Marathi, Odia, Bengali, Telugu, Tamil and Gujarati. This includes code-switched transcribed speech in two code-switched language pairs, Hindi-English and Bengali-English. Domains of the speech recordings vary across different languages.  </p>
     <p> </p> 
     <p style="font-size:16.5px;">
-    For example, the Odia data comes from healthcare, agriculture and financial domains. The Hindi-English and Bengali-English data are drawn from a repository of technical lectures on a diverse range of topics in computer science. For more description on this, please refer to the Dataset section <LINK>. The participants in this challenge will be required to use only the released data to build ASR systems in these languages, which will make the task fair for all participants and direct the focus of the work to the low resource setting. However, we will not restrict participants from only working on one of the components of the multilingual and code-switching ASR pipeline – participants will be free to innovate in any aspect of the multilingual and code-switching ASR system as long as they only use the data provided.  We will release a baseline system that participants can compare their systems against and use as a starting point.  During testing, we will release a held-out blind test set that the systems will be evaluated on.</p>
+    For example, the Odia data comes from healthcare, agriculture and financial domains. The Hindi-English and Bengali-English data are drawn from a repository of technical lectures on a diverse range of topics in computer science. For more description on this, please refer to the Dataset section <LINK>. The participants in this challenge will be required to use only the released acoutic data to build ASR systems in these languages, which will make the task fair for all participants and direct the focus of the work to the low resource setting. However, we will not restrict participants from only working on one of the components of the multilingual and code-switching ASR pipeline – participants will be free to innovate in any aspect of the multilingual and code-switching ASR system as long as they only use the acoustic data provided.  We will release a baseline system that participants can compare their systems against and use as a starting point.  During testing, we will release a held-out blind test set that the systems will be evaluated on.</p>
     <p> </p> 
     <h3> The challenge comprises two sub-tasks as described below </h3>
     
     <h4> <b> Sub-task1 </b> </h4>
-  <p style="font-size:16.5px;">This sub-task involves building a multilingual ASR system in six languages, namely, Hindi, Marathi, Odia, Telugu, Tamil, and Gujarati. The blind test set will comprise recordings from a subset (or all) of these six languages</p>
+  <p style="font-size:16.5px;">This sub-task involves building a multilingual ASR system in six languages, namely, Hindi, Marathi, Odia, Telugu, Tamil, and Gujarati. The blind test set will comprise recordings from a subset (or all) of these six languages.</p>
 
   <h4> <b> Sub-task2 </b> </h4>
   <p style="font-size:16.5px;">This sub-task involves building a code-switching ASR system separately for Hindi-English and Bengali-English code-switched pairs. The blind test set will comprise recordings from these two code-switched language pairs.</p>
@@ -161,6 +161,9 @@ displayed if the 'eventbrite' field in the header is not set.
     <li style="font-size:16.5px;"> Linguistically informed models for code-switching </li> 
   </ul>
   </div>
+
+<br>
+<br>
   <div class="column right" style="background-color:#FFFFFF;">
 
 

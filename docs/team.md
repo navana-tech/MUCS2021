@@ -117,17 +117,17 @@
         <div class="column">
             <img style="height: 120px; width:auto"  src="./assets/img/persons/samarth_bharadwaj.jpg">
             <p style="font-size:16.5px;text-align:center"><a href="https://researcher.watson.ibm.com/researcher/view.php?person=in-samarth.b">Samarth Bharadwaj</a></p>
-            <p style="font-size:16.5px;text-align:center">IBM Research Labs, India</p>
+            <p style="font-size:16.5px;text-align:center">IBM Research India</p>
         </div>
         <div class="column">
             <img style="height: 120px; width:auto"  src="./assets/img/persons/ashish_mittal.jpg">
             <p style="font-size:16.5px;text-align:center"><a href="https://researcher.watson.ibm.com/researcher/view.php?person=in-arakeshk">Ashish Mittal</a></p>
-            <p style="font-size:16.5px;text-align:center">IBM Research Labs, India</p>
+            <p style="font-size:16.5px;text-align:center">IBM Research India</p>
         </div>
         <div class="column">
             <img style="height: 120px; width:auto"  src="./assets/img/persons/shreya_khare.jpg">
             <p style="font-size:16.5px;text-align:center"><a href="https://www.linkedin.com/in/shreya-khare-52b23718/?originalSubdomain=in">Shreya Khare</a></p>
-            <p style="font-size:16.5px;text-align:center">IBM Research Labs, India</p>
+            <p style="font-size:16.5px;text-align:center">IBM Research India</p>
         </div>
     </div>
 </div>
@@ -165,7 +165,7 @@
         <div class="column">
             <img style="height: 120px; width:auto"  src="./assets/img/persons/karthik_sankaranarayanan.jpg">
             <p style="font-size:16.5px;text-align:center"><a href="">Karthik Sankaranarayanan</a></p>
-            <p style="font-size:16.5px;text-align:center">IBM Research Labs, India</p>
+            <p style="font-size:16.5px;text-align:center">IBM Research India</p>
         </div>
         <div class="column">
             <img style="height: 120px; width:auto"  src="./assets/img/persons/akash_rajpuria.png">
@@ -188,7 +188,7 @@
             <p style="font-size:16.5px;text-align:center">IIT Bombay</p>
         </div>
         <div class="column">
-            <img style="height: 120px; width:auto"  src="./assets/img/persons/placeholder.jpg">
+            <img style="height: 120px; width:auto"  src="./assets/img/persons/tejaswi_seeram.jpg">
             <p style="font-size:16.5px;text-align:center"><a href="">Tejaswi Seeram</a></p>
             <p style="font-size:16.5px;text-align:center">Microsoft Research India</p>
         </div>
