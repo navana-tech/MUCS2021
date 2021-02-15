@@ -163,7 +163,7 @@
             <p style="font-size:16.5px;text-align:center">IIIT Hyderabad</p>
         </div>
         <div class="column">
-            <img style="height: 120px; width:auto"  src="./assets/img/persons/placeholder.jpg">
+            <img style="height: 120px; width:auto"  src="./assets/img/persons/karthik_sankaranarayanan.jpg">
             <p style="font-size:16.5px;text-align:center"><a href="">Karthik Sankaranarayanan</a></p>
             <p style="font-size:16.5px;text-align:center">IBM Research Labs, India</p>
         </div>
@@ -184,7 +184,7 @@
         </div>
         <div class="column">
             <img style="height: 120px; width:auto"  src="./assets/img/persons/anuj_diwan.jpg">
-            <p style="font-size:16.5px;text-align:center"><a href="">Anuj Diwan</a></p>
+            <p style="font-size:16.5px;text-align:center"><a href="https://ajd12342.github.io/">Anuj Diwan</a></p>
             <p style="font-size:16.5px;text-align:center">IIT Bombay</p>
         </div>
         <div class="column">
