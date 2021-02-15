@@ -160,6 +160,7 @@ displayed if the 'eventbrite' field in the header is not set.
     <li style="font-size:16.5px;"> Language modeling for code-switching </li> 
     <li style="font-size:16.5px;"> Linguistically informed models for code-switching </li> 
   </ul>
+  <br>
   </div>
 
 <br>
