@@ -141,7 +141,7 @@ displayed if the 'eventbrite' field in the header is not set.
     We will be providing a total of ~600 hours of data in seven Indian languages, namely, Hindi, Marathi, Odia, Bengali, Telugu, Tamil and Gujarati. This includes code-switched transcribed speech in two code-switched language pairs, Hindi-English and Bengali-English. Domains of the speech recordings vary across different languages.  </p>
     <p> </p> 
     <p style="font-size:16.5px;">
-    For example, the Odia data comes from healthcare, agriculture and financial domains. The Hindi-English and Bengali-English data are drawn from a repository of technical lectures on a diverse range of topics in computer science. For more description on this, please refer to the Dataset section <LINK>.  We will release a baseline system that participants can compare their systems against and use as a starting point.  During testing, we will release a held-out blind test set that the systems will be evaluated on.</p>
+    For example, the Odia data comes from healthcare, agriculture and financial domains. The Hindi-English and Bengali-English data are drawn from a repository of technical lectures on a diverse range of topics in computer science. For more description on this, please refer to the <a href = "https://navana-tech.github.io/IS21SS-indicASRchallenge/data.html">Dataset section</a>. We will release a baseline system that participants can compare their systems against and use as a starting point.  During testing, we will release a held-out blind test set that the systems will be evaluated on.</p>
     <p> </p> 
     <h3> The challenge comprises two sub-tasks as described below </h3>
     
