@@ -149,22 +149,22 @@
         </div>
         <div class="column">
             <img style="height: 120px; width:auto"  src="./assets/img/persons/saurabh_vyas.png">
-            <p style="font-size:16.5px;text-align:center"><a href="">Saurabh Vyas</a></p>
+            <p style="font-size:16.5px;text-align:center"><a href="https://www.linkedin.com/in/saurabh-vyas-5250291b3/">Saurabh Vyas</a></p>
             <p style="font-size:16.5px;text-align:center">Navana Tech India Private Limited</p>
         </div>
         <div class="column">
             <img style="height: 120px; width:auto"  src="./assets/img/persons/rakesh_vaideeswaran.jpg">
-            <p style="font-size:16.5px;text-align:center"><a href="">Rakesh Vaideeswaran</a></p>
+            <p style="font-size:16.5px;text-align:center"><a href="https://raku18998.wixsite.com/website">Rakesh Vaideeswaran</a></p>
             <p style="font-size:16.5px;text-align:center">Indian Institute of Science (IISc)</p>
         </div>
         <div class="column">
             <img style="height: 120px; width:auto"  src="./assets/img/persons/chiranjeevi_yarra.jpg">
-            <p style="font-size:16.5px;text-align:center"><a href="">Chiranjeevi Yarra</a></p>
+            <p style="font-size:16.5px;text-align:center"><a href="https://faculty.iiit.ac.in/~chiranjeevi.yarra/">Chiranjeevi Yarra</a></p>
             <p style="font-size:16.5px;text-align:center">IIIT Hyderabad</p>
         </div>
         <div class="column">
             <img style="height: 120px; width:auto"  src="./assets/img/persons/karthik_sankaranarayanan.jpg">
-            <p style="font-size:16.5px;text-align:center"><a href="">Karthik Sankaranarayanan</a></p>
+            <p style="font-size:16.5px;text-align:center"><a href="https://researcher.watson.ibm.com/researcher/view.php?person=in-kartsank">Karthik Sankaranarayanan</a></p>
             <p style="font-size:16.5px;text-align:center">IBM Research India</p>
         </div>
         <div class="column">
@@ -174,12 +174,12 @@
         </div>
         <div class="column">
             <img style="height: 120px; width:auto"  src="./assets/img/persons/vinit_unni.jpg">
-            <p style="font-size:16.5px;text-align:center"><a href="">Vinit Unni</a></p>
+            <p style="font-size:16.5px;text-align:center"><a href="https://www.cse.iitb.ac.in/~vinit/">Vinit Unni</a></p>
             <p style="font-size:16.5px;text-align:center">IIT Bombay</p>
         </div>
         <div class="column">
             <img style="height: 120px; width:auto"  src="./assets/img/persons/ankita_singh.jpg">
-            <p style="font-size:16.5px;text-align:center"><a href="">Ankita Singh</a></p>
+            <p style="font-size:16.5px;text-align:center"><a href="https://www.cse.iitb.ac.in/~ankitasingh/">Ankita Singh</a></p>
             <p style="font-size:16.5px;text-align:center">IIT Bombay</p>
         </div>
         <div class="column">
@@ -189,7 +189,7 @@
         </div>
         <div class="column">
             <img style="height: 120px; width:auto"  src="./assets/img/persons/tejaswi_seeram.jpg">
-            <p style="font-size:16.5px;text-align:center"><a href="">Tejaswi Seeram</a></p>
+            <p style="font-size:16.5px;text-align:center"><a href="https://www.linkedin.com/in/tejaswi-seeram-41551178/">Tejaswi Seeram</a></p>
             <p style="font-size:16.5px;text-align:center">Microsoft Research India</p>
         </div>
     </div>
