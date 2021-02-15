@@ -6,7 +6,9 @@
   </div>
 </div>
 <br>
-
+<br>
+<p style="font-size:16.5px;">Q. For sub-task 1, baseline recipe is Kaldi based. Can participants use other model, e.g., end-to-end?</p>
+<p style="font-size:16.5px;">A. Yes.</p>
 <br>
 <p style="font-size:16.5px;">Q. Can data from one subtask be used for the other subtask?</p>
 <p style="font-size:16.5px;">A. Yes.</p>
