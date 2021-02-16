@@ -43,4 +43,9 @@
 <p style="font-size:16.5px;">Q. Will the challenge participants of the sub-task1 be informed from which language each of the blind test set audios are taken?</p>
 <p style="font-size:16.5px;"><strong><span style="color:blue">A. No. Sub-task1 is on multilingual ASR. Hence, language information for the blind test set won’t be provided.</span></strong></p>
 
+<br>
+<p style="font-size:16.5px;">Q. Can one use the data and baseline recipe released by the challenge organizers to do research and submit a paper either as a paper submission to this special session or as a regular paper to Interspeech 2021, without participating in the challenge?</p>
+<p style="font-size:16.5px;"><strong><span style="color:blue">A. As the dataset and baseline recipe are provided to the registered participants of this special session/challenge, any paper submission to Interspeech 2021 that works on sub-task1 or sub-task2 and uses the released dataset/baseline recipe must select this special session as the topic during submission. However, the participation to the challenge (i.e., submission of results on blind test set), although recommended, is not mandatory.</span></strong></p>
+
+
 
