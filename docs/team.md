@@ -169,7 +169,7 @@
         </div>
         <div class="column">
             <img style="height: 120px; width:auto"  src="./assets/img/persons/akash_rajpuria.png">
-            <p style="font-size:16.5px;text-align:center"><a href="">Akash Rajpuria</a></p>
+            <p style="font-size:16.5px;text-align:center"><a href="https://www.linkedin.com/in/akashrajpuria">Akash Rajpuria</a></p>
             <p style="font-size:16.5px;text-align:center">Navana Tech India Private Limited</p>
         </div>
         <div class="column">
