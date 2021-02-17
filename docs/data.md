@@ -220,7 +220,7 @@
       <td>Tech Lecture in computer science</td>
       <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/cm-description.html">Click to View</a></td>
       <td>CC BY-SA 4.0</td>
-      <td><a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi-English_train.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi-English_train.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi-English_train.zip" download="">Mirror2</a></td>
+      <td><a href="https://www.openslr.org/resources/104/Hindi-English_train.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi-English_train.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Hindi-English_train.zip" download="">Mirror2</a></td>
     </tr>
     <tr>
       <td>Test</td>
@@ -229,7 +229,7 @@
       <td>Tech Lecture in computer science</td>
       <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/cm-description.html">Click to View</a></td>
       <td>CC BY-SA 4.0</td>
-      <td><a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi-English_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi-English_test.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi-English_test.zip" download="">Mirror2</a></td>
+      <td><a href="https://www.openslr.org/resources/104/Hindi-English_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi-English_test.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Hindi-English_test.zip" download="">Mirror2</a></td>
     </tr>
     <tr>
       <td>Blind Test</td>
@@ -249,7 +249,7 @@
       <td>Tech Lecture in computer science</td>
       <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/cm-description.html">Click to View</a></td>
       <td>CC BY-SA 4.0</td>
-      <td><a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Bengali-English_train.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Bengali-English_train.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Bengali-English_train.zip" download="">Mirror2</a></td>
+      <td><a href="https://www.openslr.org/resources/104/Bengali-English_train.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Bengali-English_train.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Bengali-English_train.zip" download="">Mirror2</a></td>
     </tr>
     <tr>
       <td>Test</td>
@@ -258,7 +258,7 @@
       <td>Tech Lecture in computer science</td>
       <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/cm-description.html">Click to View</a></td>
       <td>CC BY-SA 4.0</td>
-      <td><a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Bengali-English_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Bengali-English_test.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Bengali-English_test.zip" download="">Mirror2</a></td>
+      <td><a href="https://www.openslr.org/resources/104/Bengali-English_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Bengali-English_test.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Bengali-English_test.zip" download="">Mirror2</a></td>
     </tr>
     <tr>
       <td>Blind Test</td>
