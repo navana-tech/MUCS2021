@@ -14,7 +14,7 @@
 <p style="font-size:16.5px;"><strong><span style="color:blue">A. Yes.</span></strong></p>
 <br>
 <p style="font-size:16.5px;">Q. Can acoustic data other than the data released for this challenge be used for any of the subtasks?</p>
-<p style="font-size:16.5px;"><strong><span style="color:blue">A. No.</span></strong></p>
+<p style="font-size:16.5px;"><strong><span style="color:blue">A. Yes (not violating <a href="https://navana-tech.github.io/IS21SS-indicASRchallenge/rules.html">Challenge Rules</a>), as long as the details of the technique or resources are made publicly available.</span></strong></p>
 <br>
 <p style="font-size:16.5px;">Q. How many trial submissions are allowed for the blind test set?</p>
 <p style="font-size:16.5px;"><strong><span style="color:blue">A. Five. If more than five are submitted, sixth and above submissions will not be accepted.</span></strong></p>
