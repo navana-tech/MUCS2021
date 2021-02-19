@@ -92,7 +92,7 @@
       <th>Language</th>
       <th>GMM-HMM (% WER)</th>
       <th>TDNN (% WER)</th>
-      <th rowspan="2></th>
+      <th rowspan="2"></th>
     </tr>
     <tr>
       <td>Hindi - English</td>
