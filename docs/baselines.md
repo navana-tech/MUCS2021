@@ -16,61 +16,61 @@
 <table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
   <thead>
   <tr>
-      <th></th>
-      <th colspan="2">Hybrid - Kaldi Based System</th>
-      <th></th>
+      <td></td>
+      <th colspan="2">Hybrid - Kaldi Based System</td>
+      <td></td>
     </tr>
   </thead>
   <!--Table head-->
   <!--Table body-->
   <tbody>
     <tr>
-      <th>Language</th>
-      <th>GMM-HMM (% WER)</th>
-      <th>TDNN (% WER)</th>
-      <th>End-to-End EspNet Based System(% WER)</th>
+      <td>Language</td>
+      <td>GMM-HMM (% WER)</td>
+      <td>TDNN (% WER)</td>
+      <td>End-to-End EspNet Based System(% WER)</td>
     </tr>
     <tr>
-      <th>Hindi</th>
-      <th>69.03</th>
-      <th>40.41</th>
-      <th></th>
+      <td>Hindi</td>
+      <td>69.03</td>
+      <td>40.41</td>
+      <td></td>
     </tr>
     <tr>
-      <th>Marathi</th>
-      <th>33.22</th>
-      <th>22.44</th>
-      <th></th>
+      <td>Marathi</td>
+      <td>33.22</td>
+      <td>22.44</td>
+      <td></td>
     </tr>
     <tr>
-      <th>Odiya</th>
-      <th>55.78</th>
-      <th>39.06</th>
-      <th></th>
+      <td>Odiya</td>
+      <td>55.78</td>
+      <td>39.06</td>
+      <td></td>
     </tr>
     <tr>
-      <th>Tamil</th>
-      <th>48.81</th>
-      <th>33.35</th>
-      <th></th>
+      <td>Tamil</td>
+      <td>48.81</td>
+      <td>33.35</td>
+      <td></td>
     </tr>
     <tr>
-      <th>Telugu</th>
-      <th>47.27</th>
-      <th>30.62</th>
-      <th></th>
+      <td>Telugu</td>
+      <td>47.27</td>
+      <td>30.62</td>
+      <td></td>
     </tr>
     <tr>
-      <th>Gujarati</th>
-      <th>28.33</th>
-      <th>19.27</th>
-      <th></th>
+      <td>Gujarati</td>
+      <td>28.33</td>
+      <td>19.27</td>
+      <td></td>
     </tr>
     <tr>
-      <th>Average</th>
-      <th>46.88</th>
-      <th>30.73</th>
-      <th></th>
+      <td>Average</td>
+      <td>46.88</td>
+      <td>30.73</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -81,37 +81,37 @@
 <table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
   <thead>
   <tr>
-      <th></th>
-      <th colspan="2">Hybrid - Kaldi Based System</th>
-      <th></th>
+      <td></td>
+      <th colspan="2">Hybrid - Kaldi Based System</td>
+      <td></td>
     </tr>
   </thead>
   <!--Table head-->
   <!--Table body-->
   <tbody>
     <tr>
-      <th>Language</th>
-      <th>GMM-HMM (% WER)</th>
-      <th>TDNN (% WER)</th>
-      <th>End-to-End EspNet Based System(% WER)</th>
+      <td>Language</td>
+      <td>GMM-HMM (% WER)</td>
+      <td>TDNN (% WER)</td>
+      <td>End-to-End EspNet Based System(% WER)</td>
     </tr>
     <tr>
-      <th>Hindi - English</th>
-      <th></th>
-      <th></th>
-      <th>27.7</th>
+      <td>Hindi - English</td>
+      <td></td>
+      <td></td>
+      <td>27.7</td>
     </tr>
     <tr>
-      <th>Bengali - English</th>
-      <th></th>
-      <th></th>
-      <th>37.2</th>
+      <td>Bengali - English</td>
+      <td></td>
+      <td></td>
+      <td>37.2</td>
     </tr>
     <tr>
-      <th>Average</th>
-      <th></th>
-      <th></th>
-      <th>32.45</th>
+      <td>Average</td>
+      <td></td>
+      <td></td>
+      <td>32.45</td>
     </tr>
   </tbody>
 </table>
