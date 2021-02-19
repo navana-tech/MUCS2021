@@ -82,7 +82,7 @@
   <tr>
       <th></th>
       <th style="text-align:center;" colspan="2">Hybrid - Kaldi Based System</th>
-      <th>End-to-End EspNet Based System (% WER)</th>
+      <th rowspan="2">End-to-End EspNet Based System (% WER)</th>
     </tr>
   </thead>
   <!--Table head-->
@@ -92,7 +92,6 @@
       <th>Language</th>
       <th>GMM-HMM (% WER)</th>
       <th>TDNN (% WER)</th>
-      <th rowspan="2"></th>
     </tr>
     <tr>
       <td>Hindi - English</td>
