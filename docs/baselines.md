@@ -16,19 +16,19 @@
 <table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
   <thead>
   <tr>
-      <td></td>
-      <th colspan="2">Hybrid - Kaldi Based System</td>
-      <td></td>
+      <th></th>
+      <th colspan="2">Hybrid - Kaldi Based System</th>
+      <th></th>
     </tr>
   </thead>
   <!--Table head-->
   <!--Table body-->
   <tbody>
     <tr>
-      <td>Language</td>
-      <td>GMM-HMM (% WER)</td>
-      <td>TDNN (% WER)</td>
-      <td>End-to-End EspNet Based System(% WER)</td>
+      <th>Language</th>
+      <th>GMM-HMM (% WER)</th>
+      <th>TDNN (% WER)</th>
+      <th>End-to-End EspNet Based System(% WER)</th>
     </tr>
     <tr>
       <td>Hindi</td>
@@ -81,19 +81,19 @@
 <table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
   <thead>
   <tr>
-      <td></td>
-      <th colspan="2">Hybrid - Kaldi Based System</td>
-      <td></td>
+      <th></th>
+      <th colspan="2">Hybrid - Kaldi Based System</th>
+      <th></th>
     </tr>
   </thead>
   <!--Table head-->
   <!--Table body-->
   <tbody>
     <tr>
-      <td>Language</td>
-      <td>GMM-HMM (% WER)</td>
-      <td>TDNN (% WER)</td>
-      <td>End-to-End EspNet Based System(% WER)</td>
+      <th>Language</th>
+      <th>GMM-HMM (% WER)</th>
+      <th>TDNN (% WER)</th>
+      <th>End-to-End EspNet Based System(% WER)</th>
     </tr>
     <tr>
       <td>Hindi - English</td>
