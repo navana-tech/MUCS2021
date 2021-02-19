@@ -17,7 +17,7 @@
   <thead>
   <tr>
       <th></th>
-      <th colspan="2">Hybrid - Kaldi Based System</th>
+      <th style="text-align:center;" colspan="2">Hybrid - Kaldi Based System</th>
       <th></th>
     </tr>
   </thead>
@@ -28,7 +28,7 @@
       <th>Language</th>
       <th>GMM-HMM (% WER)</th>
       <th>TDNN (% WER)</th>
-      <th>End-to-End EspNet Based System(% WER)</th>
+      <th>End-to-End EspNet Based System (% WER)</th>
     </tr>
     <tr>
       <td>Hindi</td>
@@ -82,7 +82,7 @@
   <thead>
   <tr>
       <th></th>
-      <th colspan="2">Hybrid - Kaldi Based System</th>
+      <th style="text-align:center;" colspan="2">Hybrid - Kaldi Based System</th>
       <th></th>
     </tr>
   </thead>
@@ -93,7 +93,7 @@
       <th>Language</th>
       <th>GMM-HMM (% WER)</th>
       <th>TDNN (% WER)</th>
-      <th>End-to-End EspNet Based System(% WER)</th>
+      <th>End-to-End EspNet Based System (% WER)</th>
     </tr>
     <tr>
       <td>Hindi - English</td>
