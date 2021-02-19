@@ -33,43 +33,43 @@
       <td>Hindi</td>
       <td>69.03</td>
       <td>40.41</td>
-      <td></td>
+      <td>Coming Soon</td>
     </tr>
     <tr>
       <td>Marathi</td>
       <td>33.22</td>
       <td>22.44</td>
-      <td></td>
+      <td>Coming Soon</td>
     </tr>
     <tr>
       <td>Odiya</td>
       <td>55.78</td>
       <td>39.06</td>
-      <td></td>
+      <td>Coming Soon</td>
     </tr>
     <tr>
       <td>Tamil</td>
       <td>48.81</td>
       <td>33.35</td>
-      <td></td>
+      <td>Coming Soon</td>
     </tr>
     <tr>
       <td>Telugu</td>
       <td>47.27</td>
       <td>30.62</td>
-      <td></td>
+      <td>Coming Soon</td>
     </tr>
     <tr>
       <td>Gujarati</td>
       <td>28.33</td>
       <td>19.27</td>
-      <td></td>
+      <td>Coming Soon</td>
     </tr>
     <tr>
       <td>Average</td>
       <td>46.88</td>
       <td>30.73</td>
-      <td></td>
+      <td>Coming Soon</td>
     </tr>
   </tbody>
 </table>
@@ -95,20 +95,20 @@
     </tr>
     <tr>
       <td>Hindi - English</td>
-      <td></td>
-      <td></td>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
       <td>27.7</td>
     </tr>
     <tr>
       <td>Bengali - English</td>
-      <td></td>
-      <td></td>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
       <td>37.2</td>
     </tr>
     <tr>
       <td>Average</td>
-      <td></td>
-      <td></td>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
       <td>32.45</td>
     </tr>
   </tbody>
