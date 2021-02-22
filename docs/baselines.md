@@ -97,20 +97,20 @@
     </tr>
     <tr>
       <td>Hindi - English</td>
-      <td>Coming Soon</td>
-      <td>Coming Soon</td>
+      <td>44.30</td>
+      <td>36.94</td>
       <td>27.7</td>
     </tr>
     <tr>
       <td>Bengali - English</td>
-      <td>Coming Soon</td>
-      <td>Coming Soon</td>
+      <td>39.19</td>
+      <td>34.31</td>
       <td>37.2</td>
     </tr>
     <tr>
       <td>Average</td>
-      <td>Coming Soon</td>
-      <td>Coming Soon</td>
+      <td>41.75</td>
+      <td>35.63</td>
       <td>32.45</td>
     </tr>
   </tbody>
