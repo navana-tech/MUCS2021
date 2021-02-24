@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<p style="font-size:16.5px;">Baselines are built using Kaldi (Hybrid) and ESPNet (End-to-End). Please go to the <a href="https://github.com/navana-tech/baseline_recipe_is21s_indic_asr_challenge">link</a> for instructions on how to replicate the baselines.</p>
+<p style="font-size:16.5px;">Baselines are built using Kaldi (Hybrid) and ESPNet (End-to-End). Please go to the <a href="https://github.com/navana-tech/baseline_recipe_is21s_indic_asr_challenge"><span style="color:red">link</span></a> for instructions on how to replicate the baselines.</p>
 
 
 <p style="font-size:16.5px;">The Word Error Rates of the baseline systems for Sub-task 1 are below:</p>
