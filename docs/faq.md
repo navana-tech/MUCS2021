@@ -48,4 +48,28 @@
 <p style="font-size:16.5px;"><strong><span style="color:blue">A. As the dataset and baseline recipe are provided to the registered participants of this special session/challenge, any paper submission to Interspeech 2021 that works on sub-task1 or sub-task2 and uses the released dataset/baseline recipe must select this special session as the topic during submission. However, the participation to the challenge (i.e., submission of results on blind test set), although recommended, is not mandatory.</span></strong></p>
 
 
+<br>
+<p style="font-size:16.5px;">Q. For subtask-1, can participants use multiple ASR models , i.e. one trained ASR model per language for all the six languages given? Do these models need to be automatically selected (i.e. maybe using another deep neural network model) as per the language?</p>
+<p style="font-size:16.5px;"><strong><span style="color:blue">A. Yes. as long as the details of the technique are made available.
+</span></strong></p>
 
+<br>
+<p style="font-size:16.5px;">Q. For subtask-1 , is pseudo-labelling allowed once the test data-sets become available?</p>
+<p style="font-size:16.5px;"><strong><span style="color:blue">A. Yes, as long as publicly domain models are used (not violating challenge rules), not using services like Google ASR or other proprietary systems. Need to provide details of external resources and details of the technique used.</span></strong></p>
+
+<br>
+<p style="font-size:16.5px;">Q. For subtask-1, can participants use multiple ASR models , i.e. one trained ASR model per language for all the six languages given? Do these models need to be automatically selected (i.e. maybe using another deep neural network model) as per the language?</p>
+<p style="font-size:16.5px;"><strong><span style="color:blue">A. Yes. as long as the details of the technique are made available.
+</span></strong></p>
+
+<br>
+<p style="font-size:16.5px;">Q. For subtask-1 , is pseudo-labelling allowed once the test data-sets become available?</p>
+<p style="font-size:16.5px;"><strong><span style="color:blue">A. Yes, as long as publicly domain models are used (not violating challenge rules), not using services like Google ASR or other proprietary systems. Need to provide details of external resources and details of the technique used.</span></strong></p>
+
+<br>
+<p style="font-size:16.5px;">Q. For subtask-1, are participants allowed to use individual language models for each language?</p>
+<p style="font-size:16.5px;"><strong><span style="color:blue">A. Yes. as long as the details of the technique are made available.</span></strong></p>
+
+<br>
+<p style="font-size:16.5px;">Q. For subtask-2, can participants use individual ASR models for the two code-switched tasks?</p>
+<p style="font-size:16.5px;"><strong><span style="color:blue">A. Yes, this is allowed.</span></strong></p>
