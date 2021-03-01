@@ -39,7 +39,7 @@
   <tbody>
     <tr>
       <th scope="row" rowspan="3">1</th>
-      <td rowspan="3">Hindi</td>
+      <td rowspan="2">Hindi</td>
       <td>Train</td>
       <td>95.05</td>
       <td>8kHz</td>
@@ -59,7 +59,7 @@
     </tr>
     <tr>
       <th scope="row" rowspan="3">2</th>
-      <td rowspan="3">Marathi</td>
+      <td rowspan="2">Marathi</td>
       <td>Train</td>
       <td>93.89</td>
       <td>8kHz</td>
@@ -79,7 +79,7 @@
     </tr>
     <tr>
       <th scope="row" rowspan="3">3</th>
-      <td rowspan="3">Odia</td>
+      <td rowspan="2">Odia</td>
       <td>Train</td>
       <td>94.54</td>
       <td>8kHz</td>
@@ -99,7 +99,7 @@
     </tr>
     <tr>
       <th scope="row" rowspan="3">4</th>
-      <td rowspan="3">Tamil</td>
+      <td rowspan="2">Tamil</td>
       <td>Train</td>
       <td>40</td>
       <td>16kHz</td>
@@ -119,7 +119,7 @@
     </tr>
     <tr>
       <th scope="row" rowspan="3">5</th>
-      <td rowspan="3">Telugu</td>
+      <td rowspan="2">Telugu</td>
       <td>Train</td>
       <td>40</td>
       <td>16kHz</td>
@@ -139,7 +139,7 @@
     </tr>
     <tr>
       <th scope="row" rowspan="3">6</th>
-      <td rowspan="3">Gujarati</td>
+      <td rowspan="2">Gujarati</td>
       <td>Train</td>
       <td>40</td>
       <td>16kHz</td>
@@ -159,7 +159,7 @@
     </tr>
     <tr>
       <th scope="row" rowspan="3">7</th>
-      <td rowspan="3">Hindi-English</td>
+      <td rowspan="2">Hindi-English</td>
       <td>Train</td>
       <td>89.86</td>
       <td>16kHz</td>
@@ -179,7 +179,7 @@
     </tr>
     <tr>
       <th scope="row" rowspan="3">8</th>
-      <td rowspan="3">Bengali-English</td>
+      <td rowspan="2">Bengali-English</td>
       <td>Train</td>
       <td>46.11</td>
       <td>16kHz</td>
