@@ -58,15 +58,6 @@
       <td><a href="https://www.openslr.org/resources/103/Hindi_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi_test.zip" download>Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Hindi_test.zip" download="">Mirror2</a></td>
     </tr>
     <tr>
-      <td>Blind Test</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <th scope="row" rowspan="3">2</th>
       <td rowspan="3">Marathi</td>
       <td>Train</td>
@@ -85,15 +76,6 @@
       <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/mr-description.html">Click to View</a></td>
       <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
       <td><a href="https://www.openslr.org/resources/103/Marathi_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Marathi_test.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Marathi_test.zip" download="">Mirror2</a></td>
-    </tr>
-    <tr>
-      <td>Blind Test</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <th scope="row" rowspan="3">3</th>
@@ -116,15 +98,6 @@
       <td><a href="https://www.openslr.org/resources/103/Odia_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Odia_test.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Odia_test.zip" download="">Mirror2</a></td>
     </tr>
     <tr>
-      <td>Blind Test</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <th scope="row" rowspan="3">4</th>
       <td rowspan="3">Tamil</td>
       <td>Train</td>
@@ -143,15 +116,6 @@
       <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/ta-te-gu-description.html">Click to View</a></td>
       <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
       <td><a target="_blank" href="https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e">Click to Download (ta-in-Test)</a></td>
-    </tr>
-    <tr>
-      <td>Blind Test</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <th scope="row" rowspan="3">5</th>
@@ -174,15 +138,6 @@
       <td><a target="_blank" href="https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e">Click to Download (te-in-Test)</a></td>
     </tr>
     <tr>
-      <td>Blind Test</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <th scope="row" rowspan="3">6</th>
       <td rowspan="3">Gujarati</td>
       <td>Train</td>
@@ -201,15 +156,6 @@
       <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/ta-te-gu-description.html">Click to View</a></td>
       <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/a889b26e-5149-4486-866e-ec896bb728c4/view">Link</a></td>
       <td><a target="_blank" href="https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e">Click to Download (gu-in-Test)</a></td>
-    </tr>
-    <tr>
-      <td>Blind Test</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <th scope="row" rowspan="3">7</th>
@@ -232,15 +178,6 @@
       <td><a href="https://www.openslr.org/resources/104/Hindi-English_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi-English_test.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Hindi-English_test.zip" download="">Mirror2</a></td>
     </tr>
     <tr>
-      <td>Blind Test</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <th scope="row" rowspan="3">8</th>
       <td rowspan="3">Bengali-English</td>
       <td>Train</td>
@@ -259,15 +196,6 @@
       <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/cm-description.html">Click to View</a></td>
       <td>CC BY-SA 4.0</td>
       <td><a href="https://www.openslr.org/resources/104/Bengali-English_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Bengali-English_test.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Bengali-English_test.zip" download="">Mirror2</a></td>
-    </tr>
-    <tr>
-      <td>Blind Test</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
   </tbody>
 </table>
