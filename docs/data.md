@@ -38,7 +38,7 @@
   <!--Table body-->
   <tbody>
     <tr>
-      <th scope="row" rowspan="3">1</th>
+      <th scope="row" rowspan="2">1</th>
       <td rowspan="2">Hindi</td>
       <td>Train</td>
       <td>95.05</td>
@@ -58,7 +58,7 @@
       <td><a href="https://www.openslr.org/resources/103/Hindi_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi_test.zip" download>Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Hindi_test.zip" download="">Mirror2</a></td>
     </tr>
     <tr>
-      <th scope="row" rowspan="3">2</th>
+      <th scope="row" rowspan="2">2</th>
       <td rowspan="2">Marathi</td>
       <td>Train</td>
       <td>93.89</td>
@@ -78,7 +78,7 @@
       <td><a href="https://www.openslr.org/resources/103/Marathi_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Marathi_test.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Marathi_test.zip" download="">Mirror2</a></td>
     </tr>
     <tr>
-      <th scope="row" rowspan="3">3</th>
+      <th scope="row" rowspan="2">3</th>
       <td rowspan="2">Odia</td>
       <td>Train</td>
       <td>94.54</td>
@@ -98,7 +98,7 @@
       <td><a href="https://www.openslr.org/resources/103/Odia_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Odia_test.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Odia_test.zip" download="">Mirror2</a></td>
     </tr>
     <tr>
-      <th scope="row" rowspan="3">4</th>
+      <th scope="row" rowspan="2">4</th>
       <td rowspan="2">Tamil</td>
       <td>Train</td>
       <td>40</td>
@@ -118,7 +118,7 @@
       <td><a target="_blank" href="https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e">Click to Download (ta-in-Test)</a></td>
     </tr>
     <tr>
-      <th scope="row" rowspan="3">5</th>
+      <th scope="row" rowspan="2">5</th>
       <td rowspan="2">Telugu</td>
       <td>Train</td>
       <td>40</td>
@@ -138,7 +138,7 @@
       <td><a target="_blank" href="https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e">Click to Download (te-in-Test)</a></td>
     </tr>
     <tr>
-      <th scope="row" rowspan="3">6</th>
+      <th scope="row" rowspan="2">6</th>
       <td rowspan="2">Gujarati</td>
       <td>Train</td>
       <td>40</td>
@@ -158,7 +158,7 @@
       <td><a target="_blank" href="https://msropendata.com/datasets/7230b4b1-912d-400e-be58-f84e0512985e">Click to Download (gu-in-Test)</a></td>
     </tr>
     <tr>
-      <th scope="row" rowspan="3">7</th>
+      <th scope="row" rowspan="2">7</th>
       <td rowspan="2">Hindi-English</td>
       <td>Train</td>
       <td>89.86</td>
@@ -178,7 +178,7 @@
       <td><a href="https://www.openslr.org/resources/104/Hindi-English_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi-English_test.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Hindi-English_test.zip" download="">Mirror2</a></td>
     </tr>
     <tr>
-      <th scope="row" rowspan="3">8</th>
+      <th scope="row" rowspan="2">8</th>
       <td rowspan="2">Bengali-English</td>
       <td>Train</td>
       <td>46.11</td>
