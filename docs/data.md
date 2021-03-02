@@ -18,7 +18,8 @@
   </ol> 
 </ul>
 
-
+<br>
+<br>
 
 <table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
   <thead>

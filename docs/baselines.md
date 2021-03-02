@@ -28,7 +28,7 @@
       <th>Language</th>
       <th>GMM-HMM (% WER)</th>
       <th>TDNN (% WER)</th>
-      <th>(% WER)</th>
+      <th></th>
     </tr>
     <tr>
       <td>Hindi</td>
