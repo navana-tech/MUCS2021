@@ -18,7 +18,7 @@
   <tr>
       <th></th>
       <th style="text-align:center;" colspan="2">Hybrid - Kaldi Based System</th>
-      <th rowspan="2">End-to-End ESPnet Based System</th>
+      <th rowspan="2"></th>
     </tr>
   </thead>
   <!--Table head-->
@@ -34,43 +34,43 @@
       <td>Hindi</td>
       <td>69.03</td>
       <td>40.41</td>
-      <td>Coming Soon</td>
+      <td></td>
     </tr>
     <tr>
       <td>Marathi</td>
       <td>33.22</td>
       <td>22.44</td>
-      <td>Coming Soon</td>
+      <td></td>
     </tr>
     <tr>
       <td>Odiya</td>
       <td>55.78</td>
       <td>39.06</td>
-      <td>Coming Soon</td>
+      <td></td>
     </tr>
     <tr>
       <td>Tamil</td>
       <td>48.81</td>
       <td>33.35</td>
-      <td>Coming Soon</td>
+      <td></td>
     </tr>
     <tr>
       <td>Telugu</td>
       <td>47.27</td>
       <td>30.62</td>
-      <td>Coming Soon</td>
+      <td></td>
     </tr>
     <tr>
       <td>Gujarati</td>
       <td>28.33</td>
       <td>19.27</td>
-      <td>Coming Soon</td>
+      <td></td>
     </tr>
     <tr>
       <td>Average</td>
       <td>46.88</td>
       <td>30.73</td>
-      <td>Coming Soon</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
