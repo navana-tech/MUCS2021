@@ -20,6 +20,7 @@
 
 <br>
 <br>
+<hr>
 
 <table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
   <thead>
@@ -35,12 +36,12 @@
     <tr>
       <td>1</td>
       <td>Subtask 1</td>
-      <td><a target="_blank" href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/subtask1_blindtest.tar.gz">Link to Download</a></td>
+      <td><a target="_blank" href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/subtask1_blindtest.tar.gz">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="" download="">Mirror1</a></td>
     </tr>
     <tr>
       <td>2</td>
       <td>Subtask 2</td>
-      <td><a target="_blank" href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/subtask2_blindtest.tar.gz">Link to Download</a></td>
+      <td><a target="_blank" href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/subtask2_blindtest.tar.gz">Main&nbsp;&nbsp;&nbsp;&nbsp;<a href="" download="">Mirror1</a></a></td>
     </tr>
   </tbody>
 </table>
