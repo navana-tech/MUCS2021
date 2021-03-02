@@ -24,6 +24,32 @@
   <thead>
   <tr>
       <th>#</th>
+      <th>Blind Test</th>
+      <th>Link To Download</th>
+    </tr>
+  </thead>
+  <!--Table head-->
+  <!--Table body-->
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Subtask 1</td>
+      <td><a target="_blank" href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/subtask1_blindtest.tar.gz">Link to Download</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Subtask 2</td>
+      <td><a target="_blank" href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/subtask2_blindtest.tar.gz">Link to Download</a></td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+
+
+<table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
+  <thead>
+  <tr>
+      <th>#</th>
       <th>Language</th>
       <th></th>
       <th>Duration (hrs)</th>
