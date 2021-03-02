@@ -36,12 +36,12 @@
     <tr>
       <td>1</td>
       <td>Subtask 1</td>
-      <td><a target="_blank" href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/subtask1_blindtest.tar.gz">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="" download="">Mirror1</a></td>
+      <td><a target="_blank" href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/subtask1_blindtest.tar.gz">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;Mirror1</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Subtask 2</td>
-      <td><a target="_blank" href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/subtask2_blindtest.tar.gz">Main&nbsp;&nbsp;&nbsp;&nbsp;<a href="" download="">Mirror1</a></a></td>
+      <td><a target="_blank" href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/subtask2_blindtest.tar.gz">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;Mirror1</td>
     </tr>
   </tbody>
 </table>
