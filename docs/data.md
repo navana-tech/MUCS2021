@@ -23,7 +23,7 @@
 <br>
 <br>
 <hr>
-
+<h2>Blind Test Sets</h2>
 <table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
   <thead>
   <tr>
@@ -49,7 +49,7 @@
 </table>
 <hr>
 
-
+<h2>Train and Test Sets</h2>
 <table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
   <thead>
   <tr>
