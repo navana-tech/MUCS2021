@@ -26,7 +26,7 @@
   <thead>
   <tr>
       <th>#</th>
-      <th>Blind Test</th>
+      <th>Subtask</th>
       <th>Link To Download</th>
     </tr>
   </thead>
