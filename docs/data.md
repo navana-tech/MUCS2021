@@ -11,11 +11,13 @@
 <ul>
   <li style="font-size:16.5px;">The download links for Hindi, Marathi, Odia, Hindi-English, and Bengali-English have zipped files which are password protected. The passwords are shared with only registered participants of the challenge.</li>
   <li style="font-size:16.5px;">There are three links (Main, Mirror1 and Mirror2) to download data for each language's train and test excluding Tamil, Telugu and Gujarati. You can use any one of those three links. </li>
+  <li style="font-size:16.5px;">There are two links (Main, Mirror1) to download data of blind test set for each subtask. You can use any one of those two links.</li>
   <li style="font-size:16.5px;">If clicking the download links does not download the zipped files, then do one of the following:</li>
   <ol>
   <li style="font-size:16.5px;">copy the link address and open in a new browser.</li> 
   <li style="font-size:16.5px;">right click and open in a new tab or window.</li>
   </ol> 
+
 </ul>
 
 <br>
