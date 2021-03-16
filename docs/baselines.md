@@ -7,9 +7,9 @@
 </div>
 <br>
 
-<h1 style="color:white;">Blind Test Set</h1>
+<h1>Blind Test Set</h1>
 
-<h3 style="color:white;">Subtask1</h3>
+<h3>Subtask1</h3>
 
 <p style="font-size:16.5px;">The baseline WERs for Subtask1 blind set are as follows:</p>
 
@@ -53,7 +53,7 @@
   </tbody>
 </table>
 
-<h3 style="color:white;">Subtask2</h3>
+<h3>Subtask2</h3>
 
 
 <p style="font-size:16.5px;">The baseline WERs for Subtask2 blind set are as follows:</p>
