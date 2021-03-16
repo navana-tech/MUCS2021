@@ -90,7 +90,7 @@
 <hr>
 
 
-<h1 style="color:white;">Test Set</h1>
+<h1>Test Set</h1>
 
 
 
