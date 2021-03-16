@@ -7,6 +7,9 @@
 </div>
 <br>
 
+<h1 style="color:white;">Blind Test Set</h1>
+
+<h3 style="color:white;">Subtask1</h3>
 
 <p style="font-size:16.5px;">The baseline WERs for Subtask1 blind set are as follows:</p>
 
@@ -50,6 +53,8 @@
   </tbody>
 </table>
 
+<h3 style="color:white;">Subtask2</h3>
+
 
 <p style="font-size:16.5px;">The baseline WERs for Subtask2 blind set are as follows:</p>
 
@@ -83,6 +88,10 @@
 
 
 <hr>
+
+
+<h1 style="color:white;">Test Set</h1>
+
 
 
 <p style="font-size:16.5px;">Baselines are built using Kaldi (Hybrid) and ESPNet (End-to-End). Please go to the <a href="https://github.com/navana-tech/baseline_recipe_is21s_indic_asr_challenge"><strong><span style="color:red">link</span></strong></a> for instructions on how to replicate the baselines.</p>
