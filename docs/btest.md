@@ -11,7 +11,7 @@
 
 <p style="font-size:16.5px;">General guidelines for blind test hypotheses submission are:</p>
 
-<p style="font-size:16.5px;">1. One (and only one) representative team member from every team is required to fill the following google form at least 12 hours before starting to make submissions for the challenge: https://docs.google.com/forms/d/e/1FAIpQLSdWFu3xbuKAp_0MTslVp0G-Pik_MPsGSjV s61EbNA-dGa4NYA/viewform?usp=sf_link </p>
+<p style="font-size:16.5px;">1. One (and only one) representative team member from every team is required to fill the following google form at least 12 hours before starting to make submissions for the challenge: https://docs.google.com/forms/d/e/1FAIpQLSdWFu3xbuKAp_0MTslVp0G-Pik_MPsGSjVs61EbNA-dGa4NYA/viewform?usp=sf_link </p>
 
 <p style="font-size:16.5px;">2. A team name is mandatory for every team, which will be used as a unique identifier for evaluation and in the leaderboard.</p>
 
