@@ -73,6 +73,7 @@
       <td>32.81</td>
       <td>31.70</td>
     </tr>
+    <tr>
       <td>Average</td>
       <td>29.17</td>
       <td>27.75</td>
@@ -81,7 +82,7 @@
 </table>
 
 
-
+<hr>
 
 
 <p style="font-size:16.5px;">Baselines are built using Kaldi (Hybrid) and ESPNet (End-to-End). Please go to the <a href="https://github.com/navana-tech/baseline_recipe_is21s_indic_asr_challenge"><strong><span style="color:red">link</span></strong></a> for instructions on how to replicate the baselines.</p>
