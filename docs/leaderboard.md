@@ -20,6 +20,11 @@
   clear: both;
   display: table;
 }
+
+.vl {
+  border-left: 6px solid green;
+  height: 500px;
+}
 </style>
 
 
@@ -64,7 +69,7 @@
       <td>30.65</td>
       <td>26.56</td>
     </tr>
-    <tr>
+    <tr style="background-color:#8460d6">
       <td>2</td>
       <td>Baseline</td>
       <td>37.2</td>
@@ -124,7 +129,7 @@
       <td>31.26</td>
       <td>27.83</td>
     </tr>
-    <tr>
+    <tr style="background-color:#8460d6">
       <td>3</td>
       <td>Baseline</td>
       <td>25.53</td>
@@ -134,6 +139,7 @@
   </tbody>
 </table>
 </div>
+<div class="vl"></div>
   <div class="column">
 
 
@@ -165,7 +171,7 @@
       <td>30.2</td>
       <td>26.23</td>
     </tr>
-    <tr>
+    <tr style="background-color:#8460d6">
       <td>3</td>
       <td>Baseline</td>
       <td>23.8</td>
