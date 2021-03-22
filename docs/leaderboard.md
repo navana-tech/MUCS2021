@@ -101,7 +101,7 @@
 
 <div class="row">
   <div class="column">
-<p style="font-size:16.5px;">Leaderboard for Subtask2. Ranks are determined on the basis of average WER.:</p>
+<h4>Ranks are determined on the basis of average WER.:</h4>
 
 <table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
   
@@ -143,7 +143,7 @@
   <div class="column">
 
 
-<p style="font-size:16.5px;">Leaderboard for Subtask2. Ranks are determined on the basis of average Transliterated WER.:</p>
+<h4>Ranks are determined on the basis of average Transliterated WER.:</h4>
 
 <table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
   
