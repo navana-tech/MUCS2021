@@ -82,6 +82,50 @@
     </tr>
     <tr>
       <td>3</td>
+      <td>Jio Speech</td>
+      <td>35.53</td>
+      <td>36.33</td>
+      <td>38.55</td>
+      <td>33.69</td>
+      <td>31.14</td>
+      <td>24.79</td>
+      <td>33.34</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Nuronics</td>
+      <td>38.14</td>
+      <td>39.58</td>
+      <td>49.3</td>
+      <td>34.91</td>
+      <td>33.04</td>
+      <td>29.58</td>
+      <td>37.43</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>TCS-SpeechNLP</td>
+      <td>20.08</td>
+      <td>99.54</td>
+      <td>37.46</td>
+      <td>26.88</td>
+      <td>27.5</td>
+      <td>29.34</td>
+      <td>40.13</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Dheeyantra</td>
+      <td>36.88</td>
+      <td>42.7</td>
+      <td>40.31</td>
+      <td>64.02</td>
+      <td>40.62</td>
+      <td>33.6</td>
+      <td>43.02</td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>HAL101</td>
       <td>20.74</td>
       <td>96.75</td>
@@ -90,6 +134,17 @@
       <td>34.79</td>
       <td>34.08</td>
       <td>43.4</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Bhavik Vachhani</td>
+      <td>30.97</td>
+      <td>103.74</td>
+      <td>31.04</td>
+      <td>36.7</td>
+      <td>32.78</td>
+      <td>49.74</td>
+      <td>47.49</td>
     </tr>
   </tbody>
 </table>
@@ -136,6 +191,20 @@
       <td>32.81</td>
       <td>29.17</td>
     </tr>
+    <tr>
+      <td>4</td>
+      <td>Jio Speech</td>
+      <td>27.69</td>
+      <td>32.59</td>
+      <td>30.14</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Bhavik Vachhani</td>
+      <td>28.25</td>
+      <td>34.21</td>
+      <td>31.23</td>
+    </tr>
   </tbody>
 </table>
 </div>
@@ -171,12 +240,26 @@
       <td>30.2</td>
       <td>26.23</td>
     </tr>
-    <tr style="background-color:#d3c7f0">
+    <tr>
       <td>3</td>
+      <td>Jio Speech</td>
+      <td>23.83</td>
+      <td>30.15</td>
+      <td>26.99</td>
+    </tr>
+    <tr style="background-color:#d3c7f0">
+      <td>4</td>
       <td>Baseline</td>
       <td>23.8</td>
       <td>31.7</td>
       <td>27.75</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Bhavik Vachhani</td>
+      <td>25.1</td>
+      <td>32.48</td>
+      <td>28.79</td>
     </tr>
   </tbody>
 </table>
