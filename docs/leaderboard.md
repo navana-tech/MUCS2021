@@ -32,7 +32,7 @@
 <br>
 <div class="widewrapper pagetitle">
   <div class="container" style="background-color:#617863">
-    <h1 style="color:white;">Leaderboard (Updated 23/03/2021 19:30 IST)</h1>
+    <h1 style="color:white;">Leaderboard (Updated 24/03/2021 20:30 IST)</h1>
   </div>
 </div>
 
