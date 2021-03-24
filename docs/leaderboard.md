@@ -136,7 +136,7 @@
       <td>40.13</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>SRI-B</td>
       <td>33.49</td>
       <td>83.79</td>
@@ -147,7 +147,7 @@
       <td>42.31</td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>Dheeyantra</td>
       <td>36.88</td>
       <td>42.7</td>
@@ -158,7 +158,7 @@
       <td>43.02</td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>HAL101</td>
       <td>20.74</td>
       <td>96.75</td>
