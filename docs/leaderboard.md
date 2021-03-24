@@ -69,7 +69,7 @@
       <td>30.65</td>
       <td>26.56</td>
     </tr>
-    <tr style="background-color:#d3c7f0">
+    <tr>
       <td>2</td>
       <td>Bhavik Vachhani</td>
       <td>29.32</td>
