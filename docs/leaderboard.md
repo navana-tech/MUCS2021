@@ -93,6 +93,17 @@
     </tr>
     <tr>
       <td>4</td>
+      <td>IIITHSPL</td>
+      <td>32.96</td>
+      <td>34.33</td>
+      <td>36.99</td>
+      <td>35.43</td>
+      <td>32.24</td>
+      <td>26.46</td>
+      <td>33.07</td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>Jio Speech</td>
       <td>35.53</td>
       <td>36.33</td>
@@ -103,7 +114,29 @@
       <td>33.34</td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
+      <td>TUTU</td>
+      <td>32.35</td>
+      <td>43.88</td>
+      <td>34.16</td>
+      <td>33.63</td>
+      <td>33.01</td>
+      <td>24.95</td>
+      <td>33.66</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>EthereumMiner</td>
+      <td>37.48</td>
+      <td>39.12</td>
+      <td>38.33</td>
+      <td>34.09</td>
+      <td>31.38</td>
+      <td>26.37</td>
+      <td>34.46</td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>Nuronics</td>
       <td>38.14</td>
       <td>39.58</td>
@@ -114,7 +147,7 @@
       <td>37.43</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>9</td>
       <td>Bytedance-SA</td>
       <td>27.63</td>
       <td>86.64</td>
@@ -125,7 +158,7 @@
       <td>38.4</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>10</td>
       <td>TCS-SpeechNLP</td>
       <td>20.08</td>
       <td>99.54</td>
@@ -136,7 +169,18 @@
       <td>40.13</td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>11</td>
+      <td>IITM-SMT-Lab</td>
+      <td>17.8</td>
+      <td>111.78</td>
+      <td>32.21</td>
+      <td>27.12</td>
+      <td>28.11</td>
+      <td>29.8</td>
+      <td>41.14</td>
+    </tr>
+    <tr>
+      <td>12</td>
       <td>SRI-B</td>
       <td>33.49</td>
       <td>83.79</td>
@@ -147,7 +191,7 @@
       <td>42.31</td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>13</td>
       <td>Dheeyantra</td>
       <td>36.88</td>
       <td>42.7</td>
@@ -158,7 +202,7 @@
       <td>43.02</td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>14</td>
       <td>HAL101</td>
       <td>20.74</td>
       <td>96.75</td>
@@ -195,9 +239,9 @@
     <tr>
       <td>1</td>
       <td>Ekstep</td>
-      <td>23.11</td>
-      <td>29.83</td>
-      <td>26.47</td>
+      <td>21.77</td>
+      <td>28.27</td>
+      <td>25.02</td>
     </tr>
     <tr>
       <td>2</td>
@@ -208,27 +252,34 @@
     </tr>
     <tr>
       <td>3</td>
+      <td>TUTU</td>
+      <td>24.08</td>
+      <td>31.03</td>
+      <td>27.56</td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>Bytedance-SA</td>
       <td>24.89</td>
       <td>30.64</td>
       <td>27.76</td>
     </tr>
     <tr style="background-color:#d3c7f0">
-      <td>4</td>
+      <td>5</td>
       <td>Baseline</td>
       <td>25.53</td>
       <td>32.81</td>
       <td>29.17</td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>Jio Speech</td>
       <td>27.69</td>
       <td>32.59</td>
       <td>30.14</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>Bhavik Vachhani</td>
       <td>28.25</td>
       <td>34.21</td>
@@ -258,9 +309,9 @@
     <tr>
       <td>1</td>
       <td>Ekstep</td>
-      <td>21.76</td>
-      <td>28.88</td>
-      <td>25.32</td>
+      <td>20.75</td>
+      <td>26.96</td>
+      <td>23.85</td>
     </tr>
     <tr>
       <td>2</td>
@@ -271,27 +322,34 @@
     </tr>
     <tr>
       <td>3</td>
+      <td>TUTU</td>
+      <td>22.38</td>
+      <td>29.72</td>
+      <td>26.05</td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>Bytedance-SA</td>
       <td>23.02</td>
       <td>29.25</td>
       <td>26.13</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>Jio Speech</td>
       <td>23.83</td>
       <td>30.15</td>
       <td>26.99</td>
     </tr>
     <tr style="background-color:#d3c7f0">
-      <td>5</td>
+      <td>6</td>
       <td>Baseline</td>
       <td>23.8</td>
       <td>31.7</td>
       <td>27.75</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>Bhavik Vachhani</td>
       <td>25.1</td>
       <td>32.48</td>
