@@ -169,17 +169,6 @@
     </tr>
     <tr>
       <td>11</td>
-      <td>EthereumMiner</td>
-      <td>25.52</td>
-      <td>82.61</td>
-      <td>26.01</td>
-      <td>32.54</td>
-      <td>33.3</td>
-      <td>31.92</td>
-      <td>38.65</td>
-    </tr>
-    <tr>
-      <td>11</td>
       <td>SRI-B</td>
       <td>32.47</td>
       <td>76.27</td>
