@@ -124,6 +124,7 @@
       <td>24.79</td>
       <td>33.34</td>
     </tr>
+    <tr>
       <td>7</td>
       <td>EthereumMiner</td>
       <td>37.48</td>
