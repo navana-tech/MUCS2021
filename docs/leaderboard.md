@@ -224,7 +224,7 @@
       <td>43.4</td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>16</td>
       <td>INDIGO-IITG</td>
       <td>62.26</td>
       <td>109.09</td>
