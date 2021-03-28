@@ -32,7 +32,7 @@
 <br>
 <div class="widewrapper pagetitle">
   <div class="container" style="background-color:#617863">
-    <h1 style="color:white;">Leaderboard (Updated 27/03/2021 21:00 IST)</h1>
+    <h1 style="color:white;">Leaderboard (Updated 28/03/2021 20:20 IST)</h1>
   </div>
 </div>
 
@@ -155,7 +155,7 @@
       <td>34.89</td>
       <td>33.11</td>
       <td>29.68</td>
-      <td>37.2</td>
+      <td>37.23</td>
     </tr>
     <tr>
       <td>10</td>
@@ -234,6 +234,17 @@
       <td>102.9</td>
       <td>93.88</td>
     </tr>
+    <tr>
+      <td>17</td>
+      <td>Lottery</td>
+      <td>99.58</td>
+      <td>41.02</td>
+      <td>112.54</td>
+      <td>157.79</td>
+      <td>164.09</td>
+      <td>118.89</td>
+      <td>115.65</td>
+    </tr>
   </tbody>
 </table>
 
@@ -260,62 +271,69 @@
     </tr>
     <tr>
       <td>1</td>
+      <td>JHU-CLSP</td>
+      <td>17.84</td>
+      <td>28.78</td>
+      <td>23.31</td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>KARI</td>
       <td>21.95</td>
       <td>26.89</td>
       <td>24.42</td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>Ekstep</td>
       <td>21.77</td>
       <td>28.27</td>
       <td>25.02</td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>Sayint</td>
       <td>21.74</td>
       <td>29.71</td>
       <td>25.73</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>MCSASR</td>
       <td>24.55</td>
       <td>29.89</td>
       <td>27.22</td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>TUTU</td>
       <td>24.08</td>
       <td>31.03</td>
       <td>27.56</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>Bytedance-SA</td>
       <td>24.89</td>
       <td>30.64</td>
       <td>27.76</td>
     </tr>
     <tr style="background-color:#d3c7f0">
-      <td>7</td>
+      <td>8</td>
       <td>Baseline</td>
       <td>25.53</td>
       <td>32.81</td>
       <td>29.17</td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>Jio Speech</td>
       <td>27.69</td>
       <td>32.59</td>
       <td>30.14</td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>Bhavik Vachhani</td>
       <td>28.25</td>
       <td>34.21</td>
@@ -344,62 +362,69 @@
     </tr>
     <tr>
       <td>1</td>
+      <td>JHU-CLSP</td>
+      <td>17.14</td>
+      <td>26.96</td>
+      <td>22.05</td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>KARI</td>
       <td>20.27</td>
       <td>25.59</td>
       <td>22.93</td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>Ekstep</td>
       <td>20.75</td>
       <td>26.96</td>
       <td>23.85</td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>Sayint</td>
       <td>19.84</td>
       <td>28.32</td>
       <td>24.08</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>MCSASR</td>
       <td>22.58</td>
       <td>28.65</td>
       <td>25.61</td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>TUTU</td>
       <td>22.38</td>
       <td>29.72</td>
       <td>26.05</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>Bytedance-SA</td>
       <td>23.02</td>
       <td>29.25</td>
       <td>26.13</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>Jio Speech</td>
       <td>23.83</td>
       <td>30.15</td>
       <td>26.99</td>
     </tr>
     <tr style="background-color:#d3c7f0">
-      <td>8</td>
+      <td>9</td>
       <td>Baseline</td>
       <td>23.8</td>
       <td>31.7</td>
       <td>27.75</td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>Bhavik Vachhani</td>
       <td>25.1</td>
       <td>32.48</td>
