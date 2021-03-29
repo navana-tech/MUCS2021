@@ -82,6 +82,17 @@
     </tr>
     <tr>
       <td>3</td>
+      <td>TCS-SpeechNLP</td>
+      <td>29.74</td>
+      <td>33.38</td>
+      <td>34.46</td>
+      <td>33.28</td>
+      <td>30.18</td>
+      <td>26.28</td>
+      <td>31.22</td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>Bhavik Vachhani</td>
       <td>29.32</td>
       <td>32.95</td>
@@ -92,7 +103,7 @@
       <td>32.16</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>TUTU</td>
       <td>32.35</td>
       <td>43.88</td>
@@ -103,7 +114,7 @@
       <td>32.27</td>
     </tr>
     <tr style="background-color:#d3c7f0">
-      <td>5</td>
+      <td>6</td>
       <td>Baseline</td>
       <td>37.2</td>
       <td>29.04</td>
@@ -114,7 +125,7 @@
       <td>32.73</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>IIITHSPL</td>
       <td>32.96</td>
       <td>34.33</td>
@@ -125,7 +136,7 @@
       <td>33.07</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>Jio Speech</td>
       <td>35.53</td>
       <td>36.33</td>
@@ -136,7 +147,7 @@
       <td>33.34</td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>EthereumMiner</td>
       <td>37.48</td>
       <td>39.12</td>
@@ -147,7 +158,7 @@
       <td>34.46</td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>Nuronics</td>
       <td>38.02</td>
       <td>39.12</td>
@@ -156,17 +167,6 @@
       <td>33.11</td>
       <td>29.68</td>
       <td>37.23</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>TCS-SpeechNLP</td>
-      <td>19.8</td>
-      <td>90.29</td>
-      <td>35.21</td>
-      <td>26.49</td>
-      <td>27.06</td>
-      <td>28.75</td>
-      <td>37.93</td>
     </tr>
     <tr>
       <td>11</td>
@@ -278,24 +278,24 @@
     </tr>
     <tr>
       <td>2</td>
+      <td>Sayint</td>
+      <td>20.85</td>
+      <td>26.72</td>
+      <td>23.79</td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>KARI</td>
       <td>21.95</td>
       <td>26.89</td>
       <td>24.42</td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>Ekstep</td>
       <td>21.77</td>
       <td>28.27</td>
       <td>25.02</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Sayint</td>
-      <td>21.74</td>
-      <td>29.71</td>
-      <td>25.73</td>
     </tr>
     <tr>
       <td>5</td>
@@ -362,31 +362,31 @@
     </tr>
     <tr>
       <td>1</td>
+      <td>Sayint</td>
+      <td>18.78</td>
+      <td>25.08</td>
+      <td>21.93</td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>JHU-CLSP</td>
       <td>17.14</td>
       <td>26.96</td>
       <td>22.05</td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>KARI</td>
       <td>20.27</td>
       <td>25.59</td>
       <td>22.93</td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>Ekstep</td>
       <td>20.75</td>
       <td>26.96</td>
       <td>23.85</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Sayint</td>
-      <td>19.84</td>
-      <td>28.32</td>
-      <td>24.08</td>
     </tr>
     <tr>
       <td>5</td>
