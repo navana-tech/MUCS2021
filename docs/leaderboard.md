@@ -32,7 +32,7 @@
 <br>
 <div class="widewrapper pagetitle">
   <div class="container" style="background-color:#617863">
-    <h1 style="color:white;">Leaderboard (Updated 29/03/2021 22:20 IST)</h1>
+    <h1 style="color:white;">Leaderboard (Updated 30/03/2021 21:30 IST)</h1>
   </div>
 </div>
 
@@ -83,24 +83,24 @@
     <tr>
       <td>3</td>
       <td>TCS-SpeechNLP</td>
-      <td>29.74</td>
-      <td>33.38</td>
-      <td>34.46</td>
-      <td>33.28</td>
-      <td>30.18</td>
-      <td>26.28</td>
-      <td>31.22</td>
+      <td>19.8</td>
+      <td>37.09</td>
+      <td>35.33</td>
+      <td>26.49</td>
+      <td>27.06</td>
+      <td>28.75</td>
+      <td>29.09</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Bhavik Vachhani</td>
-      <td>29.32</td>
-      <td>32.95</td>
-      <td>35.75</td>
-      <td>34.55</td>
-      <td>31.99</td>
-      <td>28.42</td>
-      <td>32.16</td>
+      <td>27.78</td>
+      <td>33.05</td>
+      <td>34.57</td>
+      <td>33.01</td>
+      <td>30.08</td>
+      <td>28.22</td>
+      <td>31.12</td>
     </tr>
     <tr>
       <td>5</td>
@@ -299,17 +299,17 @@
     </tr>
     <tr>
       <td>5</td>
+      <td>TUTU</td>
+      <td>23.96</td>
+      <td>29.63</td>
+      <td>26.8</td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>MCSASR</td>
       <td>24.55</td>
       <td>29.89</td>
       <td>27.22</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>TUTU</td>
-      <td>24.08</td>
-      <td>31.03</td>
-      <td>27.56</td>
     </tr>
     <tr>
       <td>7</td>
@@ -390,17 +390,17 @@
     </tr>
     <tr>
       <td>5</td>
+      <td>TUTU</td>
+      <td>22.3</td>
+      <td>28.33</td>
+      <td>25.31</td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>MCSASR</td>
       <td>22.58</td>
       <td>28.65</td>
       <td>25.61</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>TUTU</td>
-      <td>22.38</td>
-      <td>29.72</td>
-      <td>26.05</td>
     </tr>
     <tr>
       <td>7</td>
