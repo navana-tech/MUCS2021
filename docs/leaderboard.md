@@ -97,12 +97,12 @@ body {font-family: Arial;}
 <h3>Subtask1</h3>
 
 <div class="tab">
-  <button class="tablinks2" onclick="openCity2(event, 'subtask1_l1')">Subtask1</button>
-  <button class="tablinks2" onclick="openCity2(event, 'subtask1_l2')">Subtask2</button>
+  <button class="tablinks2" onclick="openCity2(event, 'subtask1_l1')">Leaderboard 1</button>
+  <button class="tablinks2" onclick="openCity2(event, 'subtask1_l2')">Leaderboard 2</button>
 </div>
 
 <div id="subtask1_l1" class="tabcontent2">
-<p style="font-size:16.5px;">Leaderboard for Subtask1. Ranks are determined on the basis of average WER.:</p>
+<p style="font-size:16.5px;">Ranks are determined on the basis of average WER.:</p>
 
 <table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
   
