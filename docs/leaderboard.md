@@ -25,6 +25,50 @@
   border-left: 6px solid green;
   height: 500px;
 }
+
+
+<style>
+body {font-family: Arial;}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+</style>
+
+
 </style>
 
 
@@ -32,12 +76,18 @@
 <br>
 <div class="widewrapper pagetitle">
   <div class="container" style="background-color:#617863">
-    <h1 style="color:white;">Leaderboard (Updated 30/03/2021 21:30 IST)</h1>
+    <h1 style="color:white;">Leaderboard (Updated 31/03/2021 20:55 IST)</h1>
   </div>
 </div>
 
 <br>
 
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'subtask1')">Subtask1</button>
+  <button class="tablinks" onclick="openCity(event, 'subtask2')">Subtask2</button>
+</div>
+
+<div id="subtask1" class="tabcontent">
 <h3>Subtask1</h3>
 
 <p style="font-size:16.5px;">Leaderboard for Subtask1. Ranks are determined on the basis of average WER.:</p>
@@ -60,6 +110,17 @@
     </tr>
     <tr>
       <td>1</td>
+      <td>EthereumMiner</td>
+      <td>17.54</td>
+      <td>20.15</td>
+      <td>19.99</td>
+      <td>28.52</td>
+      <td>26.08</td>
+      <td>20.11</td>
+      <td>22.06</td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>Uniphore</td>
       <td>24.35</td>
       <td>18.58</td>
@@ -70,7 +131,7 @@
       <td>23.82</td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>Ekstep</td>
       <td>12.24</td>
       <td>39.74</td>
@@ -81,7 +142,18 @@
       <td>26.56</td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
+      <td>GoVivace</td>
+      <td>25.93</td>
+      <td>28.45</td>
+      <td>33.73</td>
+      <td>31.99</td>
+      <td>28.69</td>
+      <td>23.97</td>
+      <td>28.79</td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>TCS-SpeechNLP</td>
       <td>19.8</td>
       <td>37.09</td>
@@ -92,7 +164,29 @@
       <td>29.09</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
+      <td>IIITHSPL</td>
+      <td>31.11</td>
+      <td>33.8</td>
+      <td>37.19</td>
+      <td>35.03</td>
+      <td>17.0</td>
+      <td>26.94</td>
+      <td>30.18</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Lottery</td>
+      <td>19.81</td>
+      <td>58.84</td>
+      <td>20.61</td>
+      <td>30.87</td>
+      <td>28.36</td>
+      <td>23.25</td>
+      <td>30.29</td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>Bhavik Vachhani</td>
       <td>27.78</td>
       <td>33.05</td>
@@ -103,7 +197,7 @@
       <td>31.12</td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>9</td>
       <td>TUTU</td>
       <td>32.35</td>
       <td>43.88</td>
@@ -114,7 +208,7 @@
       <td>32.27</td>
     </tr>
     <tr style="background-color:#d3c7f0">
-      <td>6</td>
+      <td>10</td>
       <td>Baseline</td>
       <td>37.2</td>
       <td>29.04</td>
@@ -125,18 +219,7 @@
       <td>32.73</td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>IIITHSPL</td>
-      <td>32.96</td>
-      <td>34.33</td>
-      <td>36.99</td>
-      <td>35.43</td>
-      <td>32.24</td>
-      <td>26.46</td>
-      <td>33.07</td>
-    </tr>
-    <tr>
-      <td>8</td>
+      <td>11</td>
       <td>Jio Speech</td>
       <td>35.53</td>
       <td>36.33</td>
@@ -147,18 +230,7 @@
       <td>33.34</td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>EthereumMiner</td>
-      <td>37.48</td>
-      <td>39.12</td>
-      <td>38.33</td>
-      <td>34.09</td>
-      <td>31.38</td>
-      <td>26.37</td>
-      <td>34.46</td>
-    </tr>
-    <tr>
-      <td>10</td>
+      <td>12</td>
       <td>Nuronics</td>
       <td>38.02</td>
       <td>39.12</td>
@@ -169,7 +241,7 @@
       <td>37.23</td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>13</td>
       <td>Bytedance-SA</td>
       <td>27.63</td>
       <td>86.64</td>
@@ -180,7 +252,7 @@
       <td>38.4</td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>14</td>
       <td>SRI-B</td>
       <td>32.47</td>
       <td>76.27</td>
@@ -191,7 +263,7 @@
       <td>40.62</td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>IITM-SMT-Lab</td>
       <td>17.8</td>
       <td>111.78</td>
@@ -202,7 +274,7 @@
       <td>41.14</td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>16</td>
       <td>Dheeyantra</td>
       <td>36.88</td>
       <td>42.7</td>
@@ -213,7 +285,7 @@
       <td>43.02</td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>17</td>
       <td>HAL101</td>
       <td>20.74</td>
       <td>96.75</td>
@@ -224,7 +296,7 @@
       <td>43.4</td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>18</td>
       <td>INDIGO-IITG</td>
       <td>62.26</td>
       <td>109.09</td>
@@ -234,21 +306,12 @@
       <td>102.9</td>
       <td>93.88</td>
     </tr>
-    <tr>
-      <td>17</td>
-      <td>Lottery</td>
-      <td>99.58</td>
-      <td>41.02</td>
-      <td>112.54</td>
-      <td>157.79</td>
-      <td>164.09</td>
-      <td>118.89</td>
-      <td>115.65</td>
-    </tr>
   </tbody>
 </table>
+</div>
 
 
+<div id="subtask2" class="tabcontent">
 <h3>Subtask2</h3>
 
 
@@ -286,9 +349,9 @@
     <tr>
       <td>3</td>
       <td>KARI</td>
-      <td>21.95</td>
-      <td>26.89</td>
-      <td>24.42</td>
+      <td>22.49</td>
+      <td>25.79</td>
+      <td>24.14</td>
     </tr>
     <tr>
       <td>4</td>
@@ -377,9 +440,9 @@
     <tr>
       <td>3</td>
       <td>KARI</td>
-      <td>20.27</td>
-      <td>25.59</td>
-      <td>22.93</td>
+      <td>20.6</td>
+      <td>24.54</td>
+      <td>22.57</td>
     </tr>
     <tr>
       <td>4</td>
@@ -433,4 +496,5 @@
   </tbody>
 </table>
   </div>
+</div>
 </div>
