@@ -90,6 +90,12 @@ body {font-family: Arial;}
 <div id="subtask1" class="tabcontent">
 <h3>Subtask1</h3>
 
+<div class="tab">
+  <button class="tablinks" onclick="openCity2(event, 'subtask1_l1')">Subtask1</button>
+  <button class="tablinks" onclick="openCity2(event, 'subtask1_l2')">Subtask2</button>
+</div>
+
+<div id="subtask1_l1" class="tabcontent">
 <p style="font-size:16.5px;">Leaderboard for Subtask1. Ranks are determined on the basis of average WER.:</p>
 
 <table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
@@ -309,6 +315,12 @@ body {font-family: Arial;}
   </tbody>
 </table>
 </div>
+<div id="subtask1_l2" class="tabcontent">
+Coming Soon
+
+</div>
+
+</div>
 
 
 <div id="subtask2" class="tabcontent">
@@ -502,6 +514,20 @@ body {font-family: Arial;}
 
 <script>
 function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+function openCity2(evt, cityName) {
   var i, tabcontent, tablinks;
   tabcontent = document.getElementsByClassName("tabcontent");
   for (i = 0; i < tabcontent.length; i++) {
