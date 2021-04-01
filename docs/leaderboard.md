@@ -155,7 +155,7 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>4</td>
-      <td>JHU-CLSP/GoVivace</td>
+      <td>JHU-CLSP</td>
       <td>25.93</td>
       <td>28.45</td>
       <td>33.73</td>
@@ -177,6 +177,28 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>6</td>
+      <td>TUTU</td>
+      <td>21.27</td>
+      <td>28.19</td>
+      <td>34.19</td>
+      <td>32.89</td>
+      <td>35.8</td>
+      <td>25.44</td>
+      <td>29.63</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Bytedance-SA</td>
+      <td>29.14</td>
+      <td>35.38</td>
+      <td>26.64</td>
+      <td>34.13</td>
+      <td>31.77</td>
+      <td>23.42</td>
+      <td>30.08</td>
+    </tr>
+    <tr>
+      <td>8</td>
       <td>IIITHSPL</td>
       <td>31.11</td>
       <td>33.8</td>
@@ -187,7 +209,7 @@ body {font-family: Arial;}
       <td>30.18</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>9</td>
       <td>Lottery</td>
       <td>19.81</td>
       <td>58.84</td>
@@ -198,7 +220,7 @@ body {font-family: Arial;}
       <td>30.29</td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>10</td>
       <td>Bhavik Vachhani</td>
       <td>27.78</td>
       <td>33.05</td>
@@ -209,18 +231,18 @@ body {font-family: Arial;}
       <td>31.12</td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>TUTU</td>
-      <td>32.35</td>
-      <td>43.88</td>
-      <td>34.16</td>
-      <td>27.7</td>
-      <td>30.25</td>
-      <td>25.32</td>
-      <td>32.27</td>
+      <td>11</td>
+      <td>Dialpad</td>
+      <td>21.49</td>
+      <td>46.41</td>
+      <td>32.13</td>
+      <td>28.6</td>
+      <td>28.03</td>
+      <td>34.57</td>
+      <td>31.87</td>
     </tr>
     <tr style="background-color:#d3c7f0">
-      <td>10</td>
+      <td>12</td>
       <td>Baseline</td>
       <td>37.2</td>
       <td>29.04</td>
@@ -231,18 +253,7 @@ body {font-family: Arial;}
       <td>32.73</td>
     </tr>
     <tr>
-      <td>11</td>
-      <td>Dialpad</td>
-      <td>22.64</td>
-      <td>33.87</td>
-      <td>38.74</td>
-      <td>30.84</td>
-      <td>33.61</td>
-      <td>37.5</td>
-      <td>32.87</td>
-    </tr>
-    <tr>
-      <td>12</td>
+      <td>13</td>
       <td>Jio Speech</td>
       <td>35.53</td>
       <td>36.33</td>
@@ -253,7 +264,7 @@ body {font-family: Arial;}
       <td>33.34</td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>14</td>
       <td>Nuronics</td>
       <td>38.02</td>
       <td>39.12</td>
@@ -262,17 +273,6 @@ body {font-family: Arial;}
       <td>33.11</td>
       <td>29.68</td>
       <td>37.23</td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>Bytedance-SA</td>
-      <td>27.63</td>
-      <td>86.64</td>
-      <td>27.45</td>
-      <td>33.8</td>
-      <td>31.78</td>
-      <td>23.11</td>
-      <td>38.4</td>
     </tr>
     <tr>
       <td>15</td>
@@ -424,7 +424,7 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>8</td>
-      <td>JHU-CLSP/GoVivace</td>
+      <td>JHU-CLSP</td>
       <td>25.93</td>
       <td>33.73</td>
       <td>31.99</td>
@@ -434,6 +434,16 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>9</td>
+      <td>Dialpad</td>
+      <td>21.49</td>
+      <td>32.13</td>
+      <td>28.6</td>
+      <td>28.03</td>
+      <td>34.57</td>
+      <td>28.96</td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>TUTU</td>
       <td>26.68</td>
       <td>36.16</td>
@@ -473,16 +483,6 @@ body {font-family: Arial;}
       <td>32.46</td>
     </tr>
     <tr>
-      <td>13</td>
-      <td>Dialpad</td>
-      <td>22.64</td>
-      <td>38.74</td>
-      <td>30.84</td>
-      <td>33.61</td>
-      <td>37.5</td>
-      <td>32.67</td>
-    </tr>
-    <tr>
       <td>14</td>
       <td>Jio Speech</td>
       <td>35.53</td>
@@ -490,7 +490,7 @@ body {font-family: Arial;}
       <td>33.69</td>
       <td>31.14</td>
       <td>24.79</td>
-      <td>33.34</td>
+      <td>32.74</td>
     </tr>
     <tr style="background-color:#d3c7f0">
       <td>15</td>
@@ -576,7 +576,7 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>1</td>
-      <td>JHU-CLSP</td>
+      <td>JHU-CLSP/GoVivace</td>
       <td>17.84</td>
       <td>28.78</td>
       <td>23.31</td>
@@ -688,7 +688,7 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>2</td>
-      <td>JHU-CLSP</td>
+      <td>JHU-CLSP/GoVivace</td>
       <td>17.14</td>
       <td>26.96</td>
       <td>22.05</td>
