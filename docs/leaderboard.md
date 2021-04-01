@@ -705,14 +705,14 @@ body {font-family: Arial;}
       <td>Bytedance-SA</td>
       <td>19.65</td>
       <td>25.48</td>
-      <td>22.57</td>
+      <td>22.566</td>
     </tr>
     <tr>
       <td>4</td>
       <td>KARI</td>
       <td>20.6</td>
       <td>24.54</td>
-      <td>22.57</td>
+      <td>22.569</td>
     </tr>
     <tr>
       <td>5</td>
