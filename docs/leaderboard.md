@@ -155,7 +155,7 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>4</td>
-      <td>JHU-CLSP</td>
+      <td>GoVivace</td>
       <td>25.93</td>
       <td>28.45</td>
       <td>33.73</td>
@@ -424,7 +424,7 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>8</td>
-      <td>JHU-CLSP</td>
+      <td>GoVivace</td>
       <td>25.93</td>
       <td>33.73</td>
       <td>31.99</td>
