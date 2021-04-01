@@ -334,7 +334,7 @@ body {font-family: Arial;}
 </div>
 <div id="subtask1_l2" class="tabcontent2">
 
-<p style="font-size:16.5px;">Leaderboard 2 for Subtask1 will have 5 languages (all except Marathi) and their average. Leaderboard 2 will be based on evaluation of the audio files belonging to all languages except Marathi. The best submission (out of the 5) of every team will be considered. The ranks are calculated on the basis of average WER.</p>
+<p style="font-size:16.5px;">Leaderboard 2 for Subtask1 has 5 languages (all except Marathi) and their average. Leaderboard 2 is based on evaluation of the audio files belonging to all languages except Marathi. The best submission (out of the 5) of every team is considered. The ranks are calculated on the basis of average WER.</p>
 
 
 <table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
