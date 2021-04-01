@@ -322,7 +322,210 @@ body {font-family: Arial;}
 </table>
 </div>
 <div id="subtask1_l2" class="tabcontent2">
-Coming Soon
+
+<table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
+  
+  <!--Table head-->
+  <!--Table body-->
+  <tbody>
+    <tr>
+      <th>#</th>
+      <th>Team Name</th>
+      <th>Hindi (% WER)</th>
+      <th>Oriya (% WER)</th>
+      <th>Tamil (% WER)</th>
+      <th>Telugu (% WER)</th>
+      <th>Gujarati (% WER)</th>
+      <th>Average (% WER)</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>EthereumMiner</td>
+      <td>17.54</td>
+      <td>19.99</td>
+      <td>28.52</td>
+      <td>26.08</td>
+      <td>20.11</td>
+      <td>22.45</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Ekstep</td>
+      <td>12.24</td>
+      <td>27.1</td>
+      <td>27.2</td>
+      <td>22.43</td>
+      <td>30.65</td>
+      <td>23.92</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Lottery</td>
+      <td>19.81</td>
+      <td>20.61</td>
+      <td>30.87</td>
+      <td>28.36</td>
+      <td>23.25</td>
+      <td>24.58</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Uniphore</td>
+      <td>24.35</td>
+      <td>28.67</td>
+      <td>18.58</td>
+      <td>29.26</td>
+      <td>23.48</td>
+      <td>24.87</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>IITM-SMT-Lab</td>
+      <td>17.8</td>
+      <td>32.21</td>
+      <td>27.12</td>
+      <td>28.11</td>
+      <td>29.8</td>
+      <td>27.01</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>TCS-SpeechNLP</td>
+      <td>19.8</td>
+      <td>35.21</td>
+      <td>26.49</td>
+      <td>27.06</td>
+      <td>28.75</td>
+      <td>27.46</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Bytedance-SA</td>
+      <td>27.63</td>
+      <td>27.45</td>
+      <td>33.8</td>
+      <td>31.78</td>
+      <td>23.11</td>
+      <td>28.75</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>JHU-CLSP/GoVivace</td>
+      <td>25.93</td>
+      <td>33.73</td>
+      <td>31.99</td>
+      <td>28.69</td>
+      <td>23.97</td>
+      <td>28.86</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>TUTU</td>
+      <td>26.68</td>
+      <td>36.16</td>
+      <td>27.7</td>
+      <td>30.25</td>
+      <td>25.32</td>
+      <td>29.22</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>IIITHSPL</td>
+      <td>31.11</td>
+      <td>37.19</td>
+      <td>35.03</td>
+      <td>17.0</td>
+      <td>26.94</td>
+      <td>29.45</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Bhavik Vachhani</td>
+      <td>27.78</td>
+      <td>34.57</td>
+      <td>33.01</td>
+      <td>30.08</td>
+      <td>28.22</td>
+      <td>30.73</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>HAL101</td>
+      <td>21.42</td>
+      <td>34.66</td>
+      <td>37.92</td>
+      <td>33.92</td>
+      <td>34.37</td>
+      <td>32.46</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Jio Speech</td>
+      <td>35.53</td>
+      <td>38.55</td>
+      <td>33.69</td>
+      <td>31.14</td>
+      <td>24.79</td>
+      <td>33.34</td>
+    </tr>
+    <tr style="background-color:#d3c7f0">
+      <td>14</td>
+      <td>Baseline</td>
+      <td>37.2</td>
+      <td>29.04</td>
+      <td>38.46</td>
+      <td>34.09</td>
+      <td>31.44</td>
+      <td>26.15</td>
+      <td>32.73</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>SRI-B</td>
+      <td>32.47</td>
+      <td>47.72</td>
+      <td>27.97</td>
+      <td>29.13</td>
+      <td>30.17</td>
+      <td>33.49</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>Nuronics</td>
+      <td>38.02</td>
+      <td>39.12</td>
+      <td>48.4</td>
+      <td>34.89</td>
+      <td>33.11</td>
+      <td>29.68</td>
+      <td>36.82</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Dheeyantra</td>
+      <td>36.88</td>
+      <td>42.7</td>
+      <td>40.31</td>
+      <td>64.02</td>
+      <td>40.62</td>
+      <td>33.6</td>
+      <td>43.09</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>INDIGO-IITG</td>
+      <td>62.26</td>
+      <td>51.44</td>
+      <td>117.88</td>
+      <td>119.72</td>
+      <td>102.9</td>
+      <td>90.84</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 
 </div>
 
