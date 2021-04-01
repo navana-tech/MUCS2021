@@ -155,7 +155,7 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>4</td>
-      <td>GoVivace</td>
+      <td>JHU-CLSP/GoVivace</td>
       <td>25.93</td>
       <td>28.45</td>
       <td>33.73</td>
