@@ -102,7 +102,7 @@ body {font-family: Arial;}
 </div>
 
 <div id="subtask1_l1" class="tabcontent2">
-<p style="font-size:16.5px;">Ranks are determined on the basis of average WER.:</p>
+<p style="font-size:16.5px;">Leaderboard1 for Subtask1 is based on evaluation on all the blind test samples (both channel matched and mismatched conditions during data collection between blind test and non-blind test). The best submission (out of the 5) of every team is considered. Ranks are calculated on the basis of Average WER.</p>
 
 <table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
   
@@ -333,6 +333,9 @@ body {font-family: Arial;}
 </table>
 </div>
 <div id="subtask1_l2" class="tabcontent2">
+
+<p style="font-size:16.5px;">Leaderboard 2 for Subtask1 will have 5 languages (all except Marathi) and their average. Leaderboard 2 will be based on evaluation of the audio files belonging to all languages except Marathi. The best submission (out of the 5) of every team will be considered. The ranks are calculated on the basis of average WER.</p>
+
 
 <table style="font-size:16.5px;" id="tablePreview" class="table table-striped table-sm">
   
