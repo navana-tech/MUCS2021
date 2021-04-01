@@ -472,12 +472,11 @@ body {font-family: Arial;}
       <td>14</td>
       <td>Baseline</td>
       <td>37.2</td>
-      <td>29.04</td>
       <td>38.46</td>
       <td>34.09</td>
       <td>31.44</td>
       <td>26.15</td>
-      <td>32.73</td>
+      <td>33.47</td>
     </tr>
     <tr>
       <td>15</td>
@@ -493,7 +492,6 @@ body {font-family: Arial;}
       <td>16</td>
       <td>Nuronics</td>
       <td>38.02</td>
-      <td>39.12</td>
       <td>48.4</td>
       <td>34.89</td>
       <td>33.11</td>
@@ -504,7 +502,6 @@ body {font-family: Arial;}
       <td>17</td>
       <td>Dheeyantra</td>
       <td>36.88</td>
-      <td>42.7</td>
       <td>40.31</td>
       <td>64.02</td>
       <td>40.62</td>
