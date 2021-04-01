@@ -82,7 +82,7 @@ body {font-family: Arial;}
 <br>
 <div class="widewrapper pagetitle">
   <div class="container" style="background-color:#617863">
-    <h1 style="color:white;">Leaderboard (Updated 1/04/2021 11:50 IST)</h1>
+    <h1 style="color:white;">Leaderboard (Updated 1/04/2021 18:30 IST)</h1>
   </div>
 </div>
 
@@ -604,55 +604,62 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>5</td>
+      <td>IITM-SMT-Lab</td>
+      <td>22.06</td>
+      <td>27.8</td>
+      <td>24.93</td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>Ekstep</td>
       <td>21.77</td>
       <td>28.27</td>
       <td>25.02</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>TUTU</td>
       <td>23.96</td>
-      <td>29.63</td>
-      <td>26.8</td>
+      <td>29.37</td>
+      <td>26.67</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>MCSASR</td>
       <td>24.55</td>
       <td>29.89</td>
       <td>27.22</td>
     </tr>
     <tr style="background-color:#d3c7f0">
-      <td>8</td>
+      <td>9</td>
       <td>Baseline</td>
       <td>25.53</td>
       <td>32.81</td>
       <td>29.17</td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>Jio Speech</td>
       <td>27.69</td>
       <td>32.59</td>
       <td>30.14</td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>INDIGO-IITG</td>
       <td>27.92</td>
       <td>33.55</td>
       <td>30.73</td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>Bhavik Vachhani</td>
       <td>28.25</td>
       <td>34.21</td>
       <td>31.23</td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>SRI-B</td>
       <td>28.77</td>
       <td>35.19</td>
@@ -709,55 +716,62 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>5</td>
+      <td>IITM-SMT-Lab</td>
+      <td>20.97</td>
+      <td>26.69</td>
+      <td>23.83</td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>Ekstep</td>
       <td>20.75</td>
       <td>26.96</td>
       <td>23.85</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>TUTU</td>
       <td>22.3</td>
-      <td>28.33</td>
-      <td>25.31</td>
+      <td>28.04</td>
+      <td>25.17</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>MCSASR</td>
       <td>22.58</td>
       <td>28.65</td>
       <td>25.61</td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>Jio Speech</td>
       <td>23.83</td>
       <td>30.15</td>
       <td>26.99</td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>INDIGO-IITG</td>
       <td>23.78</td>
       <td>31.2</td>
       <td>27.49</td>
     </tr>
     <tr style="background-color:#d3c7f0">
-      <td>10</td>
+      <td>11</td>
       <td>Baseline</td>
       <td>23.8</td>
       <td>31.7</td>
       <td>27.75</td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>12</td>
       <td>Bhavik Vachhani</td>
       <td>25.1</td>
       <td>32.48</td>
       <td>28.79</td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>13</td>
       <td>SRI-B</td>
       <td>28.77</td>
       <td>35.19</td>
