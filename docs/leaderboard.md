@@ -82,7 +82,7 @@ body {font-family: Arial;}
 <br>
 <div class="widewrapper pagetitle">
   <div class="container" style="background-color:#617863">
-    <h1 style="color:white;">Leaderboard (Updated 1/04/2021 22:00 IST)</h1>
+    <h1 style="color:white;">Leaderboard (Updated 2/04/2021 20:15 IST)</h1>
   </div>
 </div>
 
@@ -122,6 +122,17 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>1</td>
+      <td>CSTR</td>
+      <td>14.33</td>
+      <td>15.79</td>
+      <td>25.34</td>
+      <td>23.16</td>
+      <td>21.88</td>
+      <td>20.59</td>
+      <td>20.18</td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>EthereumMiner</td>
       <td>17.54</td>
       <td>20.15</td>
@@ -132,18 +143,18 @@ body {font-family: Arial;}
       <td>22.06</td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>CSTR</td>
-      <td>13.88</td>
-      <td>18.58</td>
-      <td>43.99</td>
-      <td>22.5</td>
-      <td>20.19</td>
-      <td>17.89</td>
-      <td>22.84</td>
+      <td>3</td>
+      <td>Bytedance-SA</td>
+      <td>16.64</td>
+      <td>22.58</td>
+      <td>20.33</td>
+      <td>28.39</td>
+      <td>25.7</td>
+      <td>19.86</td>
+      <td>22.25</td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>Uniphore</td>
       <td>22.79</td>
       <td>14.9</td>
@@ -154,7 +165,7 @@ body {font-family: Arial;}
       <td>22.92</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>Ekstep</td>
       <td>12.24</td>
       <td>39.74</td>
@@ -165,7 +176,7 @@ body {font-family: Arial;}
       <td>26.56</td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>GoVivace</td>
       <td>25.93</td>
       <td>28.45</td>
@@ -176,7 +187,7 @@ body {font-family: Arial;}
       <td>28.79</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>TCS-SpeechNLP</td>
       <td>19.8</td>
       <td>37.09</td>
@@ -187,7 +198,18 @@ body {font-family: Arial;}
       <td>29.09</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
+      <td>Lottery</td>
+      <td>17.81</td>
+      <td>58.78</td>
+      <td>17.74</td>
+      <td>30.69</td>
+      <td>27.67</td>
+      <td>23.62</td>
+      <td>29.39</td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>TUTU</td>
       <td>21.27</td>
       <td>28.19</td>
@@ -198,18 +220,7 @@ body {font-family: Arial;}
       <td>29.63</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>Bytedance-SA</td>
-      <td>29.14</td>
-      <td>35.38</td>
-      <td>26.64</td>
-      <td>34.13</td>
-      <td>31.77</td>
-      <td>23.42</td>
-      <td>30.08</td>
-    </tr>
-    <tr>
-      <td>9</td>
+      <td>10</td>
       <td>IIITHSPL</td>
       <td>31.11</td>
       <td>33.8</td>
@@ -218,17 +229,6 @@ body {font-family: Arial;}
       <td>17.0</td>
       <td>26.94</td>
       <td>30.18</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>Lottery</td>
-      <td>19.81</td>
-      <td>58.84</td>
-      <td>20.61</td>
-      <td>30.87</td>
-      <td>28.36</td>
-      <td>23.25</td>
-      <td>30.29</td>
     </tr>
     <tr>
       <td>11</td>
@@ -310,13 +310,13 @@ body {font-family: Arial;}
     <tr>
       <td>18</td>
       <td>Dheeyantra</td>
-      <td>36.88</td>
-      <td>42.7</td>
-      <td>40.31</td>
-      <td>64.02</td>
-      <td>40.62</td>
-      <td>33.6</td>
-      <td>43.02</td>
+      <td>35.97</td>
+      <td>27.8</td>
+      <td>32.85</td>
+      <td>73.77</td>
+      <td>43.78</td>
+      <td>39.75</td>
+      <td>42  .32</td>
     </tr>
     <tr>
       <td>19</td>
@@ -331,14 +331,25 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>20</td>
+      <td>IITM Speech Lab</td>
+      <td>23.79</td>
+      <td>105.61</td>
+      <td>37.95</td>
+      <td>52.27</td>
+      <td>43.98</td>
+      <td>41.86</td>
+      <td>50.91</td>
+    </tr>
+    <tr>
+      <td>21</td>
       <td>INDIGO-IITG</td>
-      <td>62.26</td>
-      <td>109.09</td>
-      <td>51.44</td>
-      <td>117.88</td>
-      <td>119.72</td>
-      <td>102.9</td>
-      <td>93.88</td>
+      <td>54.39</td>
+      <td>111.45</td>
+      <td>46.85</td>
+      <td>76.26</td>
+      <td>80.94</td>
+      <td>69.54</td>
+      <td>73.24</td>
     </tr>
   </tbody>
 </table>
@@ -365,6 +376,26 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>1</td>
+      <td>CSTR</td>
+      <td>14.33</td>
+      <td>25.34</td>
+      <td>23.16</td>
+      <td>21.88</td>
+      <td>20.59</td>
+      <td>21.06</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Bytedance-SA</td>
+      <td>16.64</td>
+      <td>20.33</td>
+      <td>28.39</td>
+      <td>25.7</td>
+      <td>19.86</td>
+      <td>22.18</td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>EthereumMiner</td>
       <td>17.54</td>
       <td>19.99</td>
@@ -374,37 +405,7 @@ body {font-family: Arial;}
       <td>22.45</td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>CSTR</td>
-      <td>13.88</td>
-      <td>43.99</td>
-      <td>22.5</td>
-      <td>20.19</td>
-      <td>17.89</td>
-      <td>23.69</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>Ekstep</td>
-      <td>12.24</td>
-      <td>27.1</td>
-      <td>27.2</td>
-      <td>22.43</td>
-      <td>30.65</td>
-      <td>23.92</td>
-    </tr>
-    <tr>
       <td>4</td>
-      <td>Uniphore</td>
-      <td>22.79</td>
-      <td>29.55</td>
-      <td>18.8</td>
-      <td>28.69</td>
-      <td>22.79</td>
-      <td>24.52</td>
-    </tr>
-    <tr>
-      <td>5</td>
       <td>Lottery</td>
       <td>19.81</td>
       <td>20.61</td>
@@ -414,7 +415,27 @@ body {font-family: Arial;}
       <td>24.58</td>
     </tr>
     <tr>
+      <td>5</td>
+      <td>Ekstep</td>
+      <td>12.24</td>
+      <td>27.1</td>
+      <td>27.2</td>
+      <td>22.43</td>
+      <td>30.65</td>
+      <td>23.92</td>
+    </tr>
+    <tr>
       <td>6</td>
+      <td>Uniphore</td>
+      <td>22.79</td>
+      <td>29.55</td>
+      <td>18.8</td>
+      <td>28.69</td>
+      <td>22.79</td>
+      <td>24.52</td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>IITM-SMT-Lab</td>
       <td>17.8</td>
       <td>32.21</td>
@@ -424,7 +445,7 @@ body {font-family: Arial;}
       <td>27.01</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>TCS-SpeechNLP</td>
       <td>19.8</td>
       <td>35.21</td>
@@ -432,16 +453,6 @@ body {font-family: Arial;}
       <td>27.06</td>
       <td>28.75</td>
       <td>27.46</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>Bytedance-SA</td>
-      <td>27.63</td>
-      <td>27.45</td>
-      <td>33.8</td>
-      <td>31.78</td>
-      <td>23.11</td>
-      <td>28.75</td>
     </tr>
     <tr>
       <td>9</td>
@@ -505,6 +516,16 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>15</td>
+      <td>SRI-B</td>
+      <td>30.84</td>
+      <td>49.8</td>
+      <td>26.07</td>
+      <td>28.34</td>
+      <td>27.61</td>
+      <td>32.53</td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>Jio Speech</td>
       <td>35.53</td>
       <td>38.55</td>
@@ -514,7 +535,7 @@ body {font-family: Arial;}
       <td>32.74</td>
     </tr>
     <tr style="background-color:#d3c7f0">
-      <td>16</td>
+      <td>17</td>
       <td>Baseline</td>
       <td>37.2</td>
       <td>38.46</td>
@@ -522,16 +543,6 @@ body {font-family: Arial;}
       <td>31.44</td>
       <td>26.15</td>
       <td>33.47</td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>SRI-B</td>
-      <td>32.47</td>
-      <td>47.72</td>
-      <td>27.97</td>
-      <td>29.13</td>
-      <td>30.17</td>
-      <td>33.49</td>
     </tr>
     <tr>
       <td>18</td>
@@ -545,6 +556,16 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>19</td>
+      <td>IITM Speech Lab</td>
+      <td>23.79</td>
+      <td>37.95</td>
+      <td>52.27</td>
+      <td>43.98</td>
+      <td>41.86</td>
+      <td>39.97</td>
+    </tr>
+    <tr>
+      <td>20</td>
       <td>Dheeyantra</td>
       <td>36.88</td>
       <td>40.31</td>
@@ -554,14 +575,14 @@ body {font-family: Arial;}
       <td>43.09</td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>INDIGO-IITG</td>
-      <td>62.26</td>
-      <td>51.44</td>
-      <td>117.88</td>
-      <td>119.72</td>
-      <td>102.9</td>
-      <td>90.84</td>
+      <td>54.39</td>
+      <td>46.85</td>
+      <td>76.26</td>
+      <td>80.94</td>
+      <td>69.54</td>
+      <td>65.60</td>
     </tr>
   </tbody>
 </table>
@@ -597,17 +618,17 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>1</td>
+      <td>JHU-CLSP/GoVivace</td>
+      <td>17.12</td>
+      <td>27.8</td>
+      <td>22.46</td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>CSTR</td>
       <td>20.47</td>
       <td>24.74</td>
       <td>22.61</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>JHU-CLSP/GoVivace</td>
-      <td>17.84</td>
-      <td>28.78</td>
-      <td>23.31</td>
     </tr>
     <tr>
       <td>3</td>
@@ -654,9 +675,9 @@ body {font-family: Arial;}
     <tr>
       <td>9</td>
       <td>MCSASR</td>
-      <td>24.55</td>
-      <td>29.89</td>
-      <td>27.22</td>
+      <td>24.52</td>
+      <td>29.8</td>
+      <td>27.16</td>
     </tr>
     <tr style="background-color:#d3c7f0">
       <td>10</td>
@@ -730,17 +751,17 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>2</td>
+      <td>JHU-CLSP/GoVivace</td>
+      <td>15.84</td>
+      <td>25.78</td>
+      <td>20.81</td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>Sayint</td>
       <td>18.78</td>
       <td>25.08</td>
       <td>21.93</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>JHU-CLSP/GoVivace</td>
-      <td>17.14</td>
-      <td>26.96</td>
-      <td>22.05</td>
     </tr>
     <tr>
       <td>4</td>
@@ -780,9 +801,9 @@ body {font-family: Arial;}
     <tr>
       <td>9</td>
       <td>MCSASR</td>
-      <td>22.58</td>
-      <td>28.65</td>
-      <td>25.61</td>
+      <td>22.54</td>
+      <td>28.57</td>
+      <td>25.55</td>
     </tr>
     <tr>
       <td>10</td>
