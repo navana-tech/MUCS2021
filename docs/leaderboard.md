@@ -298,6 +298,17 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>17</td>
+      <td>IITM-SMT-Lab</td>
+      <td>19.51</td>
+      <td>85.92</td>
+      <td>37.13</td>
+      <td>32.01</td>
+      <td>30.34</td>
+      <td>32.94</td>
+      <td>39.64</td>
+    </tr>
+    <tr>
+      <td>18</td>
       <td>SRI-B</td>
       <td>32.47</td>
       <td>76.27</td>
@@ -306,17 +317,6 @@ body {font-family: Arial;}
       <td>29.13</td>
       <td>30.17</td>
       <td>40.62</td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>IITM-SMT-Lab</td>
-      <td>17.8</td>
-      <td>111.78</td>
-      <td>32.21</td>
-      <td>27.12</td>
-      <td>28.11</td>
-      <td>29.8</td>
-      <td>41.14</td>
     </tr>
     <tr>
       <td>19</td>
