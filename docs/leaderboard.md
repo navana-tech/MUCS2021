@@ -265,6 +265,17 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>14</td>
+      <td>Sayint</td>
+      <td>28.72</td>
+      <td>36.49</td>
+      <td>36</td>
+      <td>36.41</td>
+      <td>32.89</td>
+      <td>28.29</td>
+      <td>33.13</td>
+    </tr>
+    <tr>
+      <td>15</td>
       <td>Jio Speech</td>
       <td>35.53</td>
       <td>36.33</td>
@@ -273,17 +284,6 @@ body {font-family: Arial;}
       <td>31.14</td>
       <td>24.79</td>
       <td>33.34</td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>Sayint</td>
-      <td>29.45</td>
-      <td>36.59</td>
-      <td>38.14</td>
-      <td>37.26</td>
-      <td>33.37</td>
-      <td>27.51</td>
-      <td>33.72</td>
     </tr>
     <tr>
       <td>16</td>
@@ -538,6 +538,16 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>15</td>
+      <td>Sayint</td>
+      <td>28.72</td>
+      <td>36</td>
+      <td>36.41</td>
+      <td>32.89</td>
+      <td>28.29</td>
+      <td>32.46</td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>SRI-B</td>
       <td>30.84</td>
       <td>49.8</td>
@@ -547,7 +557,7 @@ body {font-family: Arial;}
       <td>32.53</td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>Jio Speech</td>
       <td>35.53</td>
       <td>38.55</td>
@@ -555,16 +565,6 @@ body {font-family: Arial;}
       <td>31.14</td>
       <td>24.79</td>
       <td>32.74</td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>Sayint</td>
-      <td>29.45</td>
-      <td>38.14</td>
-      <td>37.26</td>
-      <td>33.37</td>
-      <td>27.51</td>
-      <td>33.15</td>
     </tr>
     <tr style="background-color:#d3c7f0">
       <td>18</td>
