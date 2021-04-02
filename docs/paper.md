@@ -15,10 +15,9 @@
 <hr>
 <p style="font-size:16.5px;">In bibtex, the reference is:</p>
 <p style="font-size:16.5px;">@article{diwan2021multilingual,<br>
-hello</p>
-<p style="font-size:16.5px;">title={Multilingual and code-switching ASR challenges for low resource Indian languages},</p>
-<p style="font-size:16.5px;">author={Anuj Diwan and Rakesh Vaideeswaran and Sanket Shah and Ankita Singh and Srinivasa Raghavan and Shreya Khare and Vinit Unni and Saurabh Vyas and Akash Rajpuria and Chiranjeevi Yarra and Ashish Mittal and Prasanta Kumar Ghosh and Preethi Jyothi and Kalika Bali and Vivek Seshadri and Sunayana Sitaram and Samarth Bharadwaj and Jai Nanavati and Raoul Nanavati and Karthik Sankaranarayanan and Tejaswi Seeram and Basil Abraham},</p>
-<p style="font-size:16.5px;">Journal={arXiv preprint arXiv:2104.00235},</p>
-<p style="font-size:16.5px;">year={2021}</p>
-<p style="font-size:16.5px;">}</p>
+title={Multilingual and code-switching ASR challenges for low resource Indian languages},<br>
+author={Anuj Diwan and Rakesh Vaideeswaran and Sanket Shah and Ankita Singh and Srinivasa Raghavan and Shreya Khare and Vinit Unni and Saurabh Vyas and Akash Rajpuria and Chiranjeevi Yarra and Ashish Mittal and Prasanta Kumar Ghosh and Preethi Jyothi and Kalika Bali and Vivek Seshadri and Sunayana Sitaram and Samarth Bharadwaj and Jai Nanavati and Raoul Nanavati and Karthik Sankaranarayanan and Tejaswi Seeram and Basil Abraham},<br>
+Journal={arXiv preprint arXiv:2104.00235},<br>
+year={2021}<br>
+}
 <hr>
