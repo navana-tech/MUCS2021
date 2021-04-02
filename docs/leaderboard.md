@@ -342,6 +342,17 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>21</td>
+      <td>MIDAS</td>
+      <td>20.84</td>
+      <td>68.59</td>
+      <td>28.73</td>
+      <td>72.34</td>
+      <td>71.91</td>
+      <td>49.53</td>
+      <td>51.99</td>
+    </tr>
+    <tr>
+      <td>22</td>
       <td>INDIGO-IITG</td>
       <td>54.39</td>
       <td>111.45</td>
@@ -576,6 +587,16 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>21</td>
+      <td>MIDAS</td>
+      <td>20.84</td>
+      <td>28.73</td>
+      <td>72.34</td>
+      <td>71.91</td>
+      <td>49.53</td>
+      <td>48.67</td>
+    </tr>
+    <tr>
+      <td>22</td>
       <td>INDIGO-IITG</td>
       <td>54.39</td>
       <td>46.85</td>
