@@ -407,12 +407,12 @@ body {font-family: Arial;}
     <tr>
       <td>4</td>
       <td>Lottery</td>
-      <td>19.81</td>
-      <td>20.61</td>
-      <td>30.87</td>
-      <td>28.36</td>
-      <td>23.25</td>
-      <td>24.58</td>
+      <td>17.81</td>
+      <td>17.74</td>
+      <td>30.69</td>
+      <td>27.67</td>
+      <td>23.62</td>
+      <td>23.51</td>
     </tr>
     <tr>
       <td>5</td>
