@@ -82,7 +82,7 @@ body {font-family: Arial;}
 <br>
 <div class="widewrapper pagetitle">
   <div class="container" style="background-color:#617863">
-    <h1 style="color:white;">Leaderboard (Updated 2/04/2021 20:15 IST)</h1>
+    <h1 style="color:white;">Leaderboard (Updated 2/04/2021 22:40 IST)</h1>
   </div>
 </div>
 
@@ -177,6 +177,17 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>6</td>
+      <td>TUTU</td>
+      <td>19.93</td>
+      <td>26.52</td>
+      <td>34.18</td>
+      <td>27.69</td>
+      <td>30.25</td>
+      <td>25.34</td>
+      <td>27.32</td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td>GoVivace</td>
       <td>25.93</td>
       <td>28.45</td>
@@ -187,7 +198,7 @@ body {font-family: Arial;}
       <td>28.79</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>TCS-SpeechNLP</td>
       <td>19.8</td>
       <td>37.09</td>
@@ -198,7 +209,7 @@ body {font-family: Arial;}
       <td>29.09</td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td>Lottery</td>
       <td>17.81</td>
       <td>58.78</td>
@@ -207,17 +218,6 @@ body {font-family: Arial;}
       <td>27.67</td>
       <td>23.62</td>
       <td>29.39</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>TUTU</td>
-      <td>21.27</td>
-      <td>28.19</td>
-      <td>34.19</td>
-      <td>32.89</td>
-      <td>35.8</td>
-      <td>25.44</td>
-      <td>29.63</td>
     </tr>
     <tr>
       <td>10</td>
@@ -276,6 +276,17 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>15</td>
+      <td>Sayint</td>
+      <td>29.45</td>
+      <td>36.59</td>
+      <td>38.14</td>
+      <td>37.26</td>
+      <td>33.37</td>
+      <td>27.51</td>
+      <td>33.72</td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>Nuronics</td>
       <td>38.02</td>
       <td>39.12</td>
@@ -286,7 +297,7 @@ body {font-family: Arial;}
       <td>37.23</td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>17</td>
       <td>SRI-B</td>
       <td>32.47</td>
       <td>76.27</td>
@@ -297,7 +308,7 @@ body {font-family: Arial;}
       <td>40.62</td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>18</td>
       <td>IITM-SMT-Lab</td>
       <td>17.8</td>
       <td>111.78</td>
@@ -308,7 +319,7 @@ body {font-family: Arial;}
       <td>41.14</td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>Dheeyantra</td>
       <td>35.97</td>
       <td>27.8</td>
@@ -319,7 +330,7 @@ body {font-family: Arial;}
       <td>42  .32</td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>HAL101</td>
       <td>20.74</td>
       <td>96.75</td>
@@ -330,7 +341,7 @@ body {font-family: Arial;}
       <td>43.4</td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>IITM Speech Lab</td>
       <td>23.79</td>
       <td>105.61</td>
@@ -341,7 +352,7 @@ body {font-family: Arial;}
       <td>50.91</td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>MIDAS</td>
       <td>20.84</td>
       <td>68.59</td>
@@ -352,7 +363,7 @@ body {font-family: Arial;}
       <td>51.99</td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>INDIGO-IITG</td>
       <td>54.39</td>
       <td>111.45</td>
@@ -467,6 +478,16 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>9</td>
+      <td>TUTU</td>
+      <td>19.93</td>
+      <td>34.18</td>
+      <td>27.69</td>
+      <td>30.25</td>
+      <td>25.34</td>
+      <td>27.48</td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td>GoVivace</td>
       <td>25.93</td>
       <td>33.73</td>
@@ -476,7 +497,7 @@ body {font-family: Arial;}
       <td>28.86</td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>Dialpad</td>
       <td>21.49</td>
       <td>32.13</td>
@@ -484,16 +505,6 @@ body {font-family: Arial;}
       <td>28.03</td>
       <td>34.57</td>
       <td>28.96</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>TUTU</td>
-      <td>26.68</td>
-      <td>36.16</td>
-      <td>27.7</td>
-      <td>30.25</td>
-      <td>25.32</td>
-      <td>29.22</td>
     </tr>
     <tr>
       <td>12</td>
@@ -545,8 +556,18 @@ body {font-family: Arial;}
       <td>24.79</td>
       <td>32.74</td>
     </tr>
-    <tr style="background-color:#d3c7f0">
+    <tr>
       <td>17</td>
+      <td>Sayint</td>
+      <td>29.45</td>
+      <td>38.14</td>
+      <td>37.26</td>
+      <td>33.37</td>
+      <td>27.51</td>
+      <td>33.15</td>
+    </tr>
+    <tr style="background-color:#d3c7f0">
+      <td>18</td>
       <td>Baseline</td>
       <td>37.2</td>
       <td>38.46</td>
@@ -556,7 +577,7 @@ body {font-family: Arial;}
       <td>33.47</td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>19</td>
       <td>Nuronics</td>
       <td>38.02</td>
       <td>48.4</td>
@@ -566,7 +587,7 @@ body {font-family: Arial;}
       <td>36.82</td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>20</td>
       <td>IITM Speech Lab</td>
       <td>23.79</td>
       <td>37.95</td>
@@ -576,7 +597,7 @@ body {font-family: Arial;}
       <td>39.97</td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>21</td>
       <td>Dheeyantra</td>
       <td>36.88</td>
       <td>40.31</td>
@@ -586,7 +607,7 @@ body {font-family: Arial;}
       <td>43.09</td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>22</td>
       <td>MIDAS</td>
       <td>20.84</td>
       <td>28.73</td>
@@ -596,7 +617,7 @@ body {font-family: Arial;}
       <td>48.67</td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>23</td>
       <td>INDIGO-IITG</td>
       <td>54.39</td>
       <td>46.85</td>
@@ -742,6 +763,13 @@ body {font-family: Arial;}
       <td>35.19</td>
       <td>31.98</td>
     </tr>
+    <tr>
+      <td>16</td>
+      <td>MIDAS</td>
+      <td>29.81</td>
+      <td>39.6</td>
+      <td>34.71</td>
+    </tr>
   </tbody>
 </table>
 </div>
@@ -867,6 +895,13 @@ body {font-family: Arial;}
       <td>28.77</td>
       <td>35.19</td>
       <td>31.98</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>MIDAS</td>
+      <td>28.37</td>
+      <td>38.17</td>
+      <td>33.27</td>
     </tr>
   </tbody>
 </table>
