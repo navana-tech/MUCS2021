@@ -18,7 +18,7 @@
    
 
       {% comment %} Always show link to home page. {% endcomment %}
-      <a class="navbar-brand" style="font-size:15.0px;" href="{{ relative_root_path }}{% link index.md %}">Challenge Overview</a>
+      <a class="navbar-brand" href="{{ relative_root_path }}{% link index.md %}">Challenge Overview</a>
 
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -34,7 +34,7 @@
    <li><a href="{{ relative_root_path }}{% link leaderboard.md %}">Leaderboard</a></li>
    <li><a href="{{ relative_root_path }}{% link faq.md %}">FAQs</a></li>
    <li><a href="{{ relative_root_path }}{% link btest.md %}">Blind Test Submission</a></li>
-   <li><a href="{{ relative_root_path }}{% link paper.md %}">Baseline Paper</a></li>
+   <li><a href="{{ relative_root_path }}{% link paper.md %}">Paper</a></li>
         {% if site.kind == "lesson" %}
 	{% comment %} Show setup instructions. {% endcomment %}
         
