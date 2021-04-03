@@ -82,7 +82,7 @@ body {font-family: Arial;}
 <br>
 <div class="widewrapper pagetitle">
   <div class="container" style="background-color:#617863">
-    <h1 style="color:white;">Leaderboard (Updated 2/04/2021 23:20 IST)</h1>
+    <h1 style="color:white;">Leaderboard (Updated 3/04/2021 10:50 IST)</h1>
   </div>
 </div>
 
@@ -166,6 +166,17 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>5</td>
+      <td>GoVivace</td>
+      <td>21.77</td>
+      <td>25.73</td>
+      <td>29.05</td>
+      <td>28.92</td>
+      <td>26.5</td>
+      <td>21.22</td>
+      <td>25.53</td>
+    </tr>
+    <tr>
+      <td>6</td>
       <td>GOT-HIM</td> 
       <td>17.72</td>
       <td>29.77</td>
@@ -176,7 +187,7 @@ body {font-family: Arial;}
       <td>25.59</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>Ekstep</td>
       <td>12.24</td>
       <td>39.74</td>
@@ -187,7 +198,7 @@ body {font-family: Arial;}
       <td>26.56</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>TUTU</td>
       <td>19.93</td>
       <td>26.52</td>
@@ -196,17 +207,6 @@ body {font-family: Arial;}
       <td>30.25</td>
       <td>25.34</td>
       <td>27.32</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>GoVivace</td>
-      <td>25.93</td>
-      <td>28.45</td>
-      <td>33.73</td>
-      <td>31.99</td>
-      <td>28.69</td>
-      <td>23.97</td>
-      <td>28.79</td>
     </tr>
     <tr>
       <td>9</td>
@@ -479,6 +479,16 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>8</td>
+      <td>GoVivace</td>
+      <td>21.77</td>
+      <td>29.05</td>
+      <td>28.92</td>
+      <td>26.5</td>
+      <td>21.22</td>
+      <td>25.49</td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>IITM-SMT-Lab</td>
       <td>17.8</td>
       <td>32.21</td>
@@ -488,7 +498,7 @@ body {font-family: Arial;}
       <td>27.01</td>
     </tr>
     <tr>
-      <td>9</td>
+      <td>10</td>
       <td>TCS-SpeechNLP</td>
       <td>19.8</td>
       <td>35.21</td>
@@ -498,7 +508,7 @@ body {font-family: Arial;}
       <td>27.46</td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>11</td>
       <td>TUTU</td>
       <td>19.93</td>
       <td>34.18</td>
@@ -506,16 +516,6 @@ body {font-family: Arial;}
       <td>30.25</td>
       <td>25.34</td>
       <td>27.48</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>GoVivace</td>
-      <td>25.93</td>
-      <td>33.73</td>
-      <td>31.99</td>
-      <td>28.69</td>
-      <td>23.97</td>
-      <td>28.86</td>
     </tr>
     <tr>
       <td>12</td>
@@ -549,22 +549,22 @@ body {font-family: Arial;}
     </tr>
     <tr>
       <td>15</td>
+      <td>Sayint</td>
+      <td>28.01</td>
+      <td>35.21</td>
+      <td>35.76</td>
+      <td>32.14</td>
+      <td>28.09</td>
+      <td>31.84</td>
+    </tr>
+    <tr>
+      <td>16</td>
       <td>HAL101</td>
       <td>21.42</td>
       <td>34.66</td>
       <td>37.92</td>
       <td>33.92</td>
       <td>34.37</td>
-      <td>32.46</td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>Sayint</td>
-      <td>28.72</td>
-      <td>36</td>
-      <td>36.41</td>
-      <td>32.89</td>
-      <td>28.29</td>
       <td>32.46</td>
     </tr>
     <tr>
@@ -682,16 +682,16 @@ body {font-family: Arial;}
     <tr>
       <td>1</td>
       <td>JHU-CLSP/GoVivace</td>
-      <td>17.12</td>
-      <td>27.8</td>
-      <td>22.46</td>
+      <td>16.61</td>
+      <td>27.26</td>
+      <td>21.94</td>
     </tr>
     <tr>
       <td>2</td>
       <td>CSTR</td>
-      <td>20.47</td>
-      <td>24.74</td>
-      <td>22.61</td>
+      <td>20.41</td>
+      <td>24.43</td>
+      <td>22.42</td>
     </tr>
     <tr>
       <td>3</td>
@@ -815,16 +815,16 @@ body {font-family: Arial;}
     <tr>
       <td>1</td>
       <td>CSTR</td>
-      <td>15.73</td>
-      <td>22.92</td>
-      <td>19.33</td>
+      <td>15.64</td>
+      <td>22.61</td>
+      <td>19.12</td>
     </tr>
     <tr>
       <td>2</td>
       <td>JHU-CLSP/GoVivace</td>
-      <td>15.84</td>
-      <td>25.78</td>
-      <td>20.81</td>
+      <td>15.51</td>
+      <td>25.32</td>
+      <td>20.42</td>
     </tr>
     <tr>
       <td>3</td>
