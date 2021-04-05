@@ -82,7 +82,7 @@ body {font-family: Arial;}
 <br>
 <div class="widewrapper pagetitle">
   <div class="container" style="background-color:#617863">
-    <h1 style="color:white;">Leaderboard (Updated 3/04/2021 17:10 IST)</h1>
+    <h1 style="color:white;">Leaderboard (Final)</h1>
   </div>
 </div>
 
