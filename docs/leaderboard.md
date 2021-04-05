@@ -217,7 +217,7 @@ body {font-family: Arial;}
       <td>26.26</td>
       <td>26.82</td>
       <td>28.53</td>
-      <td>29</td>
+      <td>29.0</td>
     </tr>
     <tr>
       <td>10</td>
