@@ -7,7 +7,7 @@
 </div>
 <br>
 <br>
-<p style="font-size:16.5px;">Baseline Paper Link: <a href='https://arxiv.org/abs/2104.00235'>https://arxiv.org/abs/2104.00235</a> </p>
+<p style="font-size:16.5px;">Baseline Paper Link: <a href='./MUCS2021_Paper.pdf'>Link</a> </p>
 <hr>
 <p style="font-size:16.5px;">The baseline Paper for the Multilingual and code-switching ASR challenges for low resource Indian languages is now accepted at Interspeech 2021 and provides extensive descriptions of the datasets and baseline results. All participants of the challenge should avoid repetitions of Challenge, data, and baseline descriptions in their submissions. However, they should briefly mention the key aspects of the databases and include the following citation:</p>
 <hr>
