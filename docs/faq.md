@@ -44,11 +44,7 @@
 <p style="font-size:16.5px;"><strong><span style="color:blue">A. No. Sub-task1 is on multilingual ASR. Hence, language information for the blind test set won’t be provided.</span></strong></p>
 
 <br>
-<!-- <p style="font-size:16.5px;">Q. Can one use the data and baseline recipe released by the challenge organizers to do research and submit a paper either as a paper submission to this special session or as a regular paper to Interspeech 2021, without participating in the challenge?</p>
-<p style="font-size:16.5px;"><strong><span style="color:blue">A. As the dataset and baseline recipe are provided to the registered participants of this special session/challenge, any paper submission to Interspeech 2021 that works on sub-task1 or sub-task2 and uses the released dataset/baseline recipe must select this special session as the topic during submission. However, the participation to the challenge (i.e., submission of results on blind test set), although recommended, is not mandatory.</span></strong></p>
 
-
-<br> -->
 <p style="font-size:16.5px;">Q. For subtask-1, can participants use multiple ASR models , i.e. one trained ASR model per language for all the six languages given? Do these models need to be automatically selected (i.e. maybe using another deep neural network model) as per the language?</p>
 <p style="font-size:16.5px;"><strong><span style="color:blue">A. Yes. as long as the details of the technique are made available.
 </span></strong></p>
