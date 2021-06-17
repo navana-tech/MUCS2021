@@ -33,7 +33,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 }
 
 .left {
-  width: 75%;
+  width: 100%;
 }
 
 .right {
@@ -132,7 +132,9 @@ displayed if the 'eventbrite' field in the header is not set.
 <div class="row">
   <div class="column left" style="background-color:#FFFFFF;">
   <p style="font-size:16.5px;">
-    Recently, there have been increasing interests in multilingual automatic speech recognition (ASR) where a speech recognition system is built to cater to multiple low resource languages by taking advantage of low amount of labeled corpora in multiple languages. On the other hand, with multilingualism becoming common in today’s world, there has been increasing interest in code-switching ASR as well. In code-switching, multiple languages are freely interchanged within a single sentence or between sentences. The success of low-resource multilingual and code-switching ASR often depends on the variety of languages in terms of their acoustics, linguistic characteristics as well as amount of data available and how these are carefully considered in building the ASR system. In this challenge, we would like to focus on building multilingual and code-switching ASR systems through two different sub-tasks related to a total of seven Indian languages with constraints on the data available for acoustic modeling and language modeling.</p>
+    <!-- Recently, there have been increasing interests in multilingual automatic speech recognition (ASR) where a speech recognition system is built to cater to multiple low resource languages by taking advantage of low amount of labeled corpora in multiple languages. On the other hand, with multilingualism becoming common in today’s world, there has been increasing interest in code-switching ASR as well. In code-switching, multiple languages are freely interchanged within a single sentence or between sentences. The success of low-resource multilingual and code-switching ASR often depends on the variety of languages in terms of their acoustics, linguistic characteristics as well as amount of data available and how these are carefully considered in building the ASR system. In this challenge, we would like to focus on building multilingual and code-switching ASR systems through two different sub-tasks related to a total of seven Indian languages with constraints on the data available for acoustic modeling and language modeling. -->
+    In the MUCS 2021 challenge, we would like to focus on building multilingual and code-switching ASR systems through two different sub-tasks related to a total of seven Indian languages with constraints on the data available for acoustic modeling and language modeling.
+    </p>
   <p> </p> 
   <p style="font-size:16.5px;">
     India is a country of language continuum, where every few kilometers the dialect/language changes. Various language families or genealogical types have been reported, in which the vast number of Indian languages can be classified, including Austro-Asiatic, Dravidian, Indo-Aryan, Tibeto-Burman and more recently, Tai-Kadai and Great Andamanese. However, there are no boundaries among these language families, rather languages across different language families share linguistic traits including retroflex sounds, SOV word order, absence of prepositions and many more resulting in acoustic and linguistic richness. According to the 2001 census, 29 Indian languages have more than a million speakers. Among these, 22 languages have been given the status of official languages by the Government of India. Most of these languages are low resource. Many of these languages do not have a written script and hence, speech technology solutions would greatly benefit such communities. Code-switching between an Indian language and (Indian) English has been a normal feature of everyday speech. Understanding code-switching patterns in different languages and developing accurate code-switching ASR remain a challenge due to the lack of large code-switched corpora. Thus, techniques that exploit unique properties and similarities among the Indian languages could be useful for building multilingual and code-switching ASR systems in these resource constrained settings.</p>
@@ -143,7 +145,7 @@ displayed if the 'eventbrite' field in the header is not set.
     <p style="font-size:16.5px;">
     For example, the Odia data comes from healthcare, agriculture and financial domains. The Hindi-English and Bengali-English data are drawn from a repository of technical lectures on a diverse range of topics in computer science. For more description on this, please refer to the <a href = "https://navana-tech.github.io/IS21SS-indicASRchallenge/data.html">Dataset section</a>. We will release a baseline system that participants can compare their systems against and use as a starting point.  During testing, we will release a held-out blind test set that the systems will be evaluated on.</p>
     <p> </p> 
-    <h3> The challenge comprises two sub-tasks as described below </h3>
+    <h3> The MUCS 2021 challenge comprises two sub-tasks as described below </h3>
     
     <h4> <b> Sub-task1 </b> </h4>
   <p style="font-size:16.5px;">This sub-task involves building a multilingual ASR system in six languages, namely, Hindi, Marathi, Odia, Telugu, Tamil, and Gujarati. The blind test set will comprise recordings from a subset (or all) of these six languages.</p>
@@ -151,7 +153,7 @@ displayed if the 'eventbrite' field in the header is not set.
   <h4> <b> Sub-task2 </b> </h4>
   <p style="font-size:16.5px;">This sub-task involves building a code-switching ASR system separately for Hindi-English and Bengali-English code-switched pairs. The blind test set will comprise recordings from these two code-switched language pairs.</p>
 
-  <p style="font-size:16.5px;"> Submissions to this special session should show results on one or more of the above mentioned tasks. Submissions on any topic related to building multilingual code-switching ASR are welcome. This includes (but is not limited to):
+  <p style="font-size:16.5px;"> Submissions to this session should show results on one or more of the above mentioned tasks. Submissions on any topic related to building multilingual code-switching ASR are welcome. This includes (but is not limited to):
   </p>
   <ul>
     <li style="font-size:16.5px;"> Acoustic modeling for multilingual ASR models </li>
@@ -165,14 +167,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <br>
 <br>
-  <div class="column right" style="background-color:#FFFFFF;">
-
-
-<h3>Announcements</h3>
-
-<a class="twitter-timeline" href="https://twitter.com/is21ss?ref_src=twsrc%5Etfw">Tweets by is21ss</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-  </div>
+  
 
 </div>
 
