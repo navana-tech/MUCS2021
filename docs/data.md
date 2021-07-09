@@ -10,7 +10,7 @@
 <p style="font-size:16.5px;">Please note the followings before downloading the data:</p>
 <ul>
   <li style="font-size:16.5px;">The download links for Hindi, Marathi, Odia, Hindi-English, and Bengali-English have zipped files which are password protected. The passwords are shared with only registered participants of the challenge.</li>
-  <li style="font-size:16.5px;">There are three links (Main, Mirror1 and Mirror2) to download data for each language's train and test excluding Tamil, Telugu and Gujarati. You can use any one of those three links. </li>
+  <li style="font-size:16.5px;">There are two links (Main and Mirror1) to download data for each language's train and test excluding Tamil, Telugu and Gujarati. You can use any one of those three links. </li>
   <li style="font-size:16.5px;">There are two links (Main, Mirror1) to download data of blind test set for each subtask. You can use any one of those two links.</li>
   <li style="font-size:16.5px;">If clicking the download links does not download the zipped files, then do one of the following:</li>
   <ol>
@@ -76,7 +76,7 @@
       <td>Collection of Stories</td>
       <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/hi-description.html">Click to View</a></td>
       <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
-      <td><a href="https://www.openslr.org/resources/103/Hindi_train.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi_train.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Hindi_train.zip" download="">Mirror2</a></td>
+      <td><a href="https://www.openslr.org/resources/103/Hindi_train.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi_train.zip" download="">Mirror1</a></td>
     </tr>
     <tr>
       <td>Test</td>
@@ -85,7 +85,7 @@
       <td>Collection of Stories</td>
       <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/hi-description.html">Click to View</a></td>
       <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
-      <td><a href="https://www.openslr.org/resources/103/Hindi_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi_test.zip" download>Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Hindi_test.zip" download="">Mirror2</a></td>
+      <td><a href="https://www.openslr.org/resources/103/Hindi_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi_test.zip" download>Mirror1</a></td>
     </tr>
     <tr>
       <th scope="row" rowspan="2">2</th>
@@ -96,7 +96,7 @@
       <td>Collection of Stories</td>
       <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/mr-description.html">Click to View</a></td>
       <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
-      <td><a href="https://www.openslr.org/resources/103/Marathi_train.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Marathi_train.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Marathi_train.zip" download="">Mirror2</a></td>
+      <td><a href="https://www.openslr.org/resources/103/Marathi_train.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Marathi_train.zip" download="">Mirror1</a></td>
     </tr>
     <tr>
       <td>Test</td>
@@ -105,7 +105,7 @@
       <td>Collection of Stories</td>
       <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/mr-description.html">Click to View</a></td>
       <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
-      <td><a href="https://www.openslr.org/resources/103/Marathi_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Marathi_test.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Marathi_test.zip" download="">Mirror2</a></td>
+      <td><a href="https://www.openslr.org/resources/103/Marathi_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Marathi_test.zip" download="">Mirror1</a></td>
     </tr>
     <tr>
       <th scope="row" rowspan="2">3</th>
@@ -116,7 +116,7 @@
       <td>Healthcare, Agriculture, Finance</td>
       <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/od-description.html">Click to View</a></td>
       <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
-      <td><a href="https://www.openslr.org/resources/103/Odia_train.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Odia_train.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Odia_train.zip" download="">Mirror2</a></td>
+      <td><a href="https://www.openslr.org/resources/103/Odia_train.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Odia_train.zip" download="">Mirror1</a></td>
     </tr>
     <tr>
       <td>Test</td>
@@ -125,7 +125,7 @@
       <td>Healthcare, Agriculture, Finance</td>
       <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/od-description.html">Click to View</a></td>
       <td><a target="_blank" href="https://msropendata-web-api.azurewebsites.net/licenses/f1f352a6-243f-4905-8e00-389edbca9e83/view">Link</a></td>
-      <td><a href="https://www.openslr.org/resources/103/Odia_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Odia_test.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Odia_test.zip" download="">Mirror2</a></td>
+      <td><a href="https://www.openslr.org/resources/103/Odia_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Odia_test.zip" download="">Mirror1</a></td>
     </tr>
     <tr>
       <th scope="row" rowspan="2">4</th>
@@ -196,7 +196,7 @@
       <td>Tech Lecture in computer science</td>
       <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/cm-description.html">Click to View</a></td>
       <td>CC BY-SA 4.0</td>
-      <td><a href="https://www.openslr.org/resources/104/Hindi-English_train.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi-English_train.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Hindi-English_train.zip" download="">Mirror2</a></td>
+      <td><a href="https://www.openslr.org/resources/104/Hindi-English_train.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi-English_train.zip" download="">Mirror1</a></td>
     </tr>
     <tr>
       <td>Test</td>
@@ -205,7 +205,7 @@
       <td>Tech Lecture in computer science</td>
       <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/cm-description.html">Click to View</a></td>
       <td>CC BY-SA 4.0</td>
-      <td><a href="https://www.openslr.org/resources/104/Hindi-English_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi-English_test.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Hindi-English_test.zip" download="">Mirror2</a></td>
+      <td><a href="https://www.openslr.org/resources/104/Hindi-English_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Hindi-English_test.zip" download="">Mirror1</a></td>
     </tr>
     <tr>
       <th scope="row" rowspan="2">8</th>
@@ -216,7 +216,7 @@
       <td>Tech Lecture in computer science</td>
       <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/cm-description.html">Click to View</a></td>
       <td>CC BY-SA 4.0</td>
-      <td><a href="https://www.openslr.org/resources/104/Bengali-English_train.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Bengali-English_train.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Bengali-English_train.zip" download="">Mirror2</a></td>
+      <td><a href="https://www.openslr.org/resources/104/Bengali-English_train.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Bengali-English_train.zip" download="">Mirror1</a></td>
     </tr>
     <tr>
       <td>Test</td>
@@ -225,7 +225,7 @@
       <td>Tech Lecture in computer science</td>
       <td><a target="_blank" href="https://navana-tech.github.io/IS21SS-indicASRchallenge/cm-description.html">Click to View</a></td>
       <td>CC BY-SA 4.0</td>
-      <td><a href="https://www.openslr.org/resources/104/Bengali-English_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Bengali-English_test.zip" download="">Mirror1</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://val1.cds.iisc.ac.in/challenge_data/Bengali-English_test.zip" download="">Mirror2</a></td>
+      <td><a href="https://www.openslr.org/resources/104/Bengali-English_test.zip" download="">Main</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ee.iisc.ac.in/people/faculty/prasantg/downloads/Bengali-English_test.zip" download="">Mirror1</a></td>
     </tr>
   </tbody>
 </table>
