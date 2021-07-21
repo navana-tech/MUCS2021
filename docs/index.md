@@ -63,7 +63,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   cursor: pointer;
   padding: 12px;
   width: 100%;
-  height: 50%;
+  height: 100%;
   border: none;
   text-align: left;
   outline: none;
