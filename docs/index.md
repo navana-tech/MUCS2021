@@ -173,7 +173,7 @@ His supervisors are Prof. Lei Xie and Prof. Shinji Watanabe. From Jul. 2017 to J
 </div>
 
 <div id="Paris" class="tabcontent">
-
+<img style="height: auto; width:auto;padding:5px;"  src="./assets/img/tentative_program.PNG">
 </div>
 
 
@@ -194,8 +194,5 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
-
-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
-
 
 
