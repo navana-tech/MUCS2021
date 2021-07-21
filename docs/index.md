@@ -144,7 +144,7 @@ body {font-family: Arial;}
 </div>
 
 <div id="London" class="tabcontent">
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">Anurag Dwarakanath (amazon) - Spoken Language Understanding for the Indic Region</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">Anurag Dwarakanath, Amazon</button>
 <div class="content">
   <p><strong>Title:</strong> Spoken Language Understanding for the Indic Region.</p>
   <p><strong>Abstract:</strong> In this talk, we will touch upon some of the key challenges in building Spoken Language Understanding systems for the Indic region. We begin with an insight on the usage of code-mixed multi-lingual utterances where many Indic languages (beyond Hindi) are freely used. We show how such Indic language usage gets represented in Latin script in a transliterated form and current state of the art multi-lingual language models (such as XLM-R, mBERT) surprisingly do not build common representations of transliterated text and that in the original language. We then introduce research in Continual Language Learning as an emerging area to bridge this gap. The Indic region also sees wide variety of spoken language variations including grammatical errors and ambiguous utterances leading to noise in data. We present recent progress in the area of Robust Machine Learning that aims to build learning algorithms that are resilient to noise in data. </p>
@@ -154,7 +154,7 @@ body {font-family: Arial;}
 </div>
  <br>
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/shinji_watanabe.jpg">Shinji Watanabe</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/shinji_watanabe.jpg">Shinji Watanabe, Carnegie Mellon University</button>
 <div class="content">
   <p><strong>Speakers:</strong> Shinji Watanabe and Pengcheng Guo</p>
   <p><strong>Title:</strong> Introduction of ESPnet, End-to-End Speech Processing Toolkit</p>
@@ -171,7 +171,7 @@ His supervisors are Prof. Lei Xie and Prof. Shinji Watanabe. From Jul. 2017 to J
 </div>
 <br>
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Sri_Garimella.jpg">Sri Garimella (on ASR part)</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Sri_Garimella.jpg">Sri Garimella, Amazon</button>
 <div class="content">
   <p><strong>Title:</strong> Overview of Speech Recognition Technology in Conversational Agents</p>
   <p><strong>Abstract:</strong> From the early days of modern Automatic Speech Recognition (ASR) research in the 1990s, one of the driving visions of the field has been a computer-based assistant that could accomplish tasks for the user, simply by being spoken to. Today, we are close to achieving that vision, with a whole array of speech-enabled AI agents eager to help users. Amazon’s Alexa pioneered the AI assistant concept for smart speaker devices enabled by far-field ASR. It currently supports billions of customer interactions per week, on over 100 million devices across multiple languages. This talk will give an overview of the interplay between underlying speech technologies, including wakeword detection, endpointing, speaker identification, and speech recognition that enable Alexa. We highlight successes and challenges in developing large-scale ASR, and dive into the unique data aspects of large-scale deployments like Alexa, where a continuous stream of unlabeled data enables successful applications of semi-supervised learning. Finally, we highlight problems that remain to be solved before the promise of a fully natural, conversational assistant is fully realized.</p>
@@ -180,7 +180,7 @@ His supervisors are Prof. Lei Xie and Prof. Shinji Watanabe. From Jul. 2017 to J
 </div>
 <br>
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Samuel_Thomas.jpg">Samuel Thomas</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Samuel_Thomas.jpg">Samuel Thomas, IBM T.J. Watson Research Center, New York</button>
 <div class="content">
   <p><strong>Title:</strong> What next after ASR in Indian Languages? We speak in order to be understood!</p>
   <p><strong>Abstract:</strong> The MUCS 2021 challenge has focused on building multilingual and code-switching ASR systems for Indian languages in low resource settings. Within this challenge, teams have successfully tackled important problems and have demonstrated significant improvements on various languages. Where do these gains lead us next? If we speak in order to be understood, we advocate that the next frontier in this space is spoken language understanding (SLU). In this talk we will review recent work in end-to-end spoken language understanding, where the speech input is directly processed into intent without going through an intermediate text transcript. The lessons learnt in building ASR systems in low resource settings are extremely useful for this task too, as very often there is very limited SLU training data. We will share insights on training E2E SLU systems and the challenges ahead and how they can be applied for Indic languages.</p>
@@ -190,7 +190,7 @@ His supervisors are Prof. Lei Xie and Prof. Shinji Watanabe. From Jul. 2017 to J
 <br>
 
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/placeholder.jpg">S R Mahadeva Prasanna</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/placeholder.jpg">S. R. Mahadeva Prasanna, IIT Dharwad</button>
 <div class="content">
   <p><strong>Title: </strong>Speech Processing: Handcrafted features to Deep Representations</p>
   <p><strong>Abstract: </strong>With the advent of deep learning to the speech processing field for about a decade, a lot of attempts have been made towards learning the representations from spectrographic representation of speech. These representations are based on nonlinear processing and
@@ -202,7 +202,7 @@ in the areas of speech processing.</p>
 </div>
 <br>
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/s_umesh.jpg">Umesh - modeling HMM to e2e</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/s_umesh.jpg">S Umesh, IIT Madras</button>
 <div class="content">
   <p><strong>Title:</strong> Automatic Speech Recognition using Models from GMM-HMM  to Transformers to wav2vec2.0</p>
   <p><strong>Abstract:</strong> In this talk, I will give an overview of various models used in Automatic Speech Recognition. After a brief overview of conventional GMM-HMM models and the role of lexicon and language models, I will talk about the recent progress based on deep-learning methods. This will include DNN-HMM and CTC based approaches. This will be followed by the sequence-to-sequence approaches including Attention-Based Encoder Decoder as well as transformers. Finally, I will talk about self-supervised approaches that are inspired by BERT, GPT and contrastive predictive coding including methods like MockingJay, Wav2vec and HuBERT.</p>
