@@ -154,7 +154,7 @@ body {font-family: Arial;}
 </div>
  <hr>
 
-<button class="collapsible">Shinji Watanabe</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/placeholder.jpg">Shinji Watanabe</button>
 <div class="content">
   <p>Speakers: Shinji Watanabe and Pengcheng Guo</p>
   <p>Title: Introduction of ESPnet, End-to-End Speech Processing Toolkit</p>
@@ -170,7 +170,7 @@ His supervisors are Prof. Lei Xie and Prof. Shinji Watanabe. From Jul. 2017 to J
 </div>
 <br>
 
-<button class="collapsible">Sri Garimella (on ASR part)</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/placeholder.jpg">Sri Garimella (on ASR part)</button>
 <div class="content">
   <p>Title: Overview of Speech Recognition Technology in Conversational Agents</p>
   <p>Abstract: From the early days of modern Automatic Speech Recognition (ASR) research in the 1990s, one of the driving visions of the field has been a computer-based assistant that could accomplish tasks for the user, simply by being spoken to. Today, we are close to achieving that vision, with a whole array of speech-enabled AI agents eager to help users. Amazon’s Alexa pioneered the AI assistant concept for smart speaker devices enabled by far-field ASR. It currently supports billions of customer interactions per week, on over 100 million devices across multiple languages. This talk will give an overview of the interplay between underlying speech technologies, including wakeword detection, endpointing, speaker identification, and speech recognition that enable Alexa. We highlight successes and challenges in developing large-scale ASR, and dive into the unique data aspects of large-scale deployments like Alexa, where a continuous stream of unlabeled data enables successful applications of semi-supervised learning. Finally, we highlight problems that remain to be solved before the promise of a fully natural, conversational assistant is fully realized.</p>
@@ -179,7 +179,7 @@ His supervisors are Prof. Lei Xie and Prof. Shinji Watanabe. From Jul. 2017 to J
 </div>
 <br>
 
-<button class="collapsible">Samuel THomas</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/placeholder.jpg">Samuel THomas</button>
 <div class="content">
   <p>Title: What next after ASR in Indian Languages? We speak in order to be understood!</p>
   <p>Abstract: The MUCS 2021 challenge has focused on building multilingual and code-switching ASR systems for Indian languages in low resource settings. Within this challenge, teams have successfully tackled important problems and have demonstrated significant improvements on various languages. Where do these gains lead us next? If we speak in order to be understood, we advocate that the next frontier in this space is spoken language understanding (SLU). In this talk we will review recent work in end-to-end spoken language understanding, where the speech input is directly processed into intent without going through an intermediate text transcript. The lessons learnt in building ASR systems in low resource settings are extremely useful for this task too, as very often there is very limited SLU training data. We will share insights on training E2E SLU systems and the challenges ahead and how they can be applied for Indic languages.</p>
@@ -189,7 +189,7 @@ His supervisors are Prof. Lei Xie and Prof. Shinji Watanabe. From Jul. 2017 to J
 <br>
 
 
-<button class="collapsible">S R Mahadeva Prasanna</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/placeholder.jpg">S R Mahadeva Prasanna</button>
 <div class="content">
   <p>Title:Speech Processing: Handcrafted features to Deep Representations</p>
   <p>Abstract:With the advent of deep learning to the speech processing field for about a decade, a lot of attempts have been made towards learning the representations from spectrographic representation of speech. These representations are based on nonlinear processing and
@@ -201,7 +201,7 @@ in the areas of speech processing.</p>
 </div>
 <br>
 
-<button class="collapsible">Umesh - modeling HMM to e2e</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/placeholder.jpg">Umesh - modeling HMM to e2e</button>
 <div class="content">
   <p>Title: Automatic Speech Recognition using Models from GMM-HMM  to Transformers to wav2vec2.0</p>
   <p>Abstract: In this talk, I will give an overview of various models used in Automatic Speech Recognition. After a brief overview of conventional GMM-HMM models and the role of lexicon and language models, I will talk about the recent progress based on deep-learning methods. This will include DNN-HMM and CTC based approaches. This will be followed by the sequence-to-sequence approaches including Attention-Based Encoder Decoder as well as transformers. Finally, I will talk about self-supervised approaches that are inspired by BERT, GPT and contrastive predictive coding including methods like MockingJay, Wav2vec and HuBERT.</p>
