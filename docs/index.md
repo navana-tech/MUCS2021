@@ -179,7 +179,7 @@ His supervisors are Prof. Lei Xie and Prof. Shinji Watanabe. From Jul. 2017 to J
 </div>
 <br>
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/placeholder.jpg">Samuel THomas</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/placeholder.jpg">Samuel Thomas</button>
 <div class="content">
   <p>Title: What next after ASR in Indian Languages? We speak in order to be understood!</p>
   <p>Abstract: The MUCS 2021 challenge has focused on building multilingual and code-switching ASR systems for Indian languages in low resource settings. Within this challenge, teams have successfully tackled important problems and have demonstrated significant improvements on various languages. Where do these gains lead us next? If we speak in order to be understood, we advocate that the next frontier in this space is spoken language understanding (SLU). In this talk we will review recent work in end-to-end spoken language understanding, where the speech input is directly processed into intent without going through an intermediate text transcript. The lessons learnt in building ASR systems in low resource settings are extremely useful for this task too, as very often there is very limited SLU training data. We will share insights on training E2E SLU systems and the challenges ahead and how they can be applied for Indic languages.</p>
