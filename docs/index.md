@@ -51,7 +51,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 
 <div class="widewrapper pagetitle">
-  <div style="background-color:#617863;padding:10px;">
+  <div style="background-color:#617863;padding:5px;">
     <h1 style="color:white;">Keynotes</h1>
   </div>
 </div>
