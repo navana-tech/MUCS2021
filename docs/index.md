@@ -62,8 +62,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   background-color: #777;
   color: white;
   cursor: pointer;
-  padding: 14px;
+  padding: 12px;
   width: 100%;
+  height: 50%;
   border: none;
   text-align: left;
   outline: none;
