@@ -86,7 +86,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <body>
 
-<button class="collapsible">Anurag Dwarakanath (amazon) - Spoken Language Understanding for the Indic Region</button>
+<button class="collapsible"><img style="height: 120px; width:auto"  src="./assets/img/persons/placeholder.jpg">Anurag Dwarakanath (amazon) - Spoken Language Understanding for the Indic Region</button>
 <div class="content">
   <p>Title: Spoken Language Understanding for the Indic Region.</p>
   <p>Abstract. In this talk, we will touch upon some of the key challenges in building Spoken Language Understanding systems for the Indic region. We begin with an insight on the usage of code-mixed multi-lingual utterances where many Indic languages (beyond Hindi) are freely used. We show how such Indic language usage gets represented in Latin script in a transliterated form and current state of the art multi-lingual language models (such as XLM-R, mBERT) surprisingly do not build common representations of transliterated text and that in the original language. We then introduce research in Continual Language Learning as an emerging area to bridge this gap. The Indic region also sees wide variety of spoken language variations including grammatical errors and ambiguous utterances leading to noise in data. We present recent progress in the area of Robust Machine Learning that aims to build learning algorithms that are resilient to noise in data. </p>
@@ -129,38 +129,7 @@ for (i = 0; i < coll.length; i++) {
 }
 </script>
 
-<div class="accordion accordion-flush" id="accordionExample">
-        <div class="accordion-item">
-            <h2 class="accordion-header" id="headingOne">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordionCollapseOne" aria-expanded="false" aria-controls="accordionCollapseOne">
-                Lorem ipsum dolor sit amet consectetur.
-                </button>
-            </h2>
-            <div id="accordionCollapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                <div class="accordion-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo quam dolore ea pariatur veniam rem voluptatibus harum magni reiciendis maiores!</div>
-            </div>
-        </div>
-        <div class="accordion-item">
-            <h2 class="accordion-header" id="headingTwo">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordionCollapseTwo" aria-expanded="false" aria-controls="accordionCollapseTwo">
-                Lorem ipsum dolor, sit amet consectetur adipisicing.
-                </button>
-            </h2>
-            <div id="accordionCollapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                <div class="accordion-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim ea nam exercitationem alias ad, repellendus eligendi ipsa rerum voluptatum aperiam.</div>
-            </div>
-        </div>
-        <div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#accordionCollapseThree" aria-expanded="false" aria-controls="accordionCollapseThree">
-                Lorem ipsum dolor sit.
-                </button>
-            </h2>
-            <div id="accordionCollapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordishExample">
-                <div class="accordion-body">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Possimus asperiores quidem ad quis veritatis in nulla rerum pariatur dolorum unde.</div>
-            </div>
-        </div>
-    </div>
+
 
 </body>
 
