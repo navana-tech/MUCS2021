@@ -81,8 +81,7 @@ displayed if the 'eventbrite' field in the header is not set.
 </style>
 
 
-<div class="row">
-  <div class="column left" style="background-color:#FFFFFF;">
+
   <p style="font-size:16.5px;">
     <!-- Recently, there have been increasing interests in multilingual automatic speech recognition (ASR) where a speech recognition system is built to cater to multiple low resource languages by taking advantage of low amount of labeled corpora in multiple languages. On the other hand, with multilingualism becoming common in today’s world, there has been increasing interest in code-switching ASR as well. In code-switching, multiple languages are freely interchanged within a single sentence or between sentences. The success of low-resource multilingual and code-switching ASR often depends on the variety of languages in terms of their acoustics, linguistic characteristics as well as amount of data available and how these are carefully considered in building the ASR system. In this challenge, we would like to focus on building multilingual and code-switching ASR systems through two different sub-tasks related to a total of seven Indian languages with constraints on the data available for acoustic modeling and language modeling. -->
     In the MUCS 2021 challenge, we would like to focus on building multilingual and code-switching ASR systems through two different sub-tasks related to a total of seven Indian languages with constraints on the data available for acoustic modeling and language modeling.
@@ -115,11 +114,11 @@ displayed if the 'eventbrite' field in the header is not set.
     <li style="font-size:16.5px;"> Linguistically informed models for code-switching </li> 
   </ul>
   <br>
-  </div>
+
 
 <br>
 <br>
   
 
-</div>
+
 
