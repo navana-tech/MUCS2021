@@ -98,7 +98,7 @@ displayed if the 'eventbrite' field in the header is not set.
     <p> </p> 
     <h3> The MUCS 2021 challenge comprises two sub-tasks as described below </h3>
     
-    <h4> <b> Sub-task1 </b> </h4>
+<h4> <b> Sub-task1 </b> </h4>
   <p style="font-size:16.5px;">This sub-task involves building a multilingual ASR system in six languages, namely, Hindi, Marathi, Odia, Telugu, Tamil, and Gujarati. The blind test set will comprise recordings from a subset (or all) of these six languages.</p>
 
   <h4> <b> Sub-task2 </b> </h4>
