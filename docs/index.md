@@ -69,7 +69,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   border: none;
   text-align: left;
   outline: none;
-  font-size: 16.5px;
+  font-size: 20px;
 }
 
 .active, .collapsible:hover {
