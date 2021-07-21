@@ -48,6 +48,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 }
 </style>
 
+<div class="container">
 
 <div class="widewrapper pagetitle">
   <div class="container" style="background-color:#617863">
@@ -129,4 +130,6 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
+
+</div>
 
