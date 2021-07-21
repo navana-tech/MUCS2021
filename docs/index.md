@@ -48,9 +48,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 }
 </style>
 
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <div class="widewrapper pagetitle">
