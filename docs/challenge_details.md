@@ -4,7 +4,7 @@
 <br>
 <br>
 <div class="widewrapper pagetitle">
-  <div class="container" style="background-color:#617863">
+  <div class="" style="background-color:#617863;padding:5px">
     <h1 style="color:white;">Welcome!</h1>
   </div>
 </div>
