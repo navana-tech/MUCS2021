@@ -67,7 +67,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   border: none;
   text-align: left;
   outline: none;
-  font-size: 15px;
+  font-size: 16.5px;
 }
 
 .active, .collapsible:hover {
@@ -93,7 +93,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p>Bio. Anurag Dwarakanath is an applied science manager in Alexa AI and leads a team of scientists building machine learning and statistical models for the Natural Language Understanding components of Alexa. His interests include multi-lingual natural language processing, robustness in deep learning and verification & validation of deep learning systems. Anurag holds a PhD from Indian Institute of Management Calcutta where he studied the application of Graph Theory in Wireless Sensor Networks. Anurag has over 20 publications and 15 patents. 
 </p>
 </div>
-
+ <hr>
 
 <button class="collapsible">Shinji Watanabe</button>
 <div class="content">
@@ -109,6 +109,7 @@ One of the benefits of this end-to-end neural framework is that we can use a uni
 <p>Pengcheng Guo is a Ph.D. candidate at Northwestern Polytechnical University, Xi'an, China.
 His supervisors are Prof. Lei Xie and Prof. Shinji Watanabe. From Jul. 2017 to Jul. 2018, he was a research assistant at Nanyang Technology University, Singapore, collaborating with Prof. Eng Siong Chng and Prof. Haizhou Li. From Apr. 2019 to Nov. 2019, he was a research intern at ByteDance AI Lab, Beijing, China, collaborating with Dr. Yuxuan Wang (the author of Tacotron). From Jan.2020 to Jan. 2021, he joined Shinji Watanabe’s team as a visiting scholar at Johns Hopkins University, Baltimore, US. His research interests include automatic speech recognition, domain adaptation, and adversarial training. He is the main developer of ESPnet and has contributed to a lot of projects, including the Conformer architecture, various ASR benchmark recipes, etc.</p>
 </div>
+<br>
 
 <script>
 var coll = document.getElementsByClassName("collapsible");

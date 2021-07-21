@@ -8,9 +8,8 @@
     <h1 style="color:white;">Welcome!</h1>
   </div>
 </div>
+<br>
 
-<br>
-<br>
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
