@@ -50,8 +50,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <br>
 <div class="widewrapper pagetitle">
-  <div class="container" style="background-color:#617863">
-    <h1 style="color:white;">Keynotes</h1>
+  <div class="container" style="background-color:white">
+    <h1 style="color:blue;">Keynotes</h1>
   </div>
 </div>
 <br>
@@ -80,6 +80,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   overflow: hidden;
   transition: max-height 0.2s ease-out;
   background-color: #f1f1f1;
+  font-size: 16.5px;
 }
 </style>
 
