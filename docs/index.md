@@ -190,7 +190,7 @@ His supervisors are Prof. Lei Xie and Prof. Shinji Watanabe. From Jul. 2017 to J
 <br>
 
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/placeholder.jpg">S. R. Mahadeva Prasanna, IIT Dharwad</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/mahadev_prasanna.jfif">S. R. Mahadeva Prasanna, IIT Dharwad</button>
 <div class="content">
   <p><strong>Title: </strong>Speech Processing: Handcrafted features to Deep Representations</p>
   <p><strong>Abstract: </strong>With the advent of deep learning to the speech processing field for about a decade, a lot of attempts have been made towards learning the representations from spectrographic representation of speech. These representations are based on nonlinear processing and
