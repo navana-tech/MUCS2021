@@ -129,13 +129,6 @@ body {font-family: Arial;}
 </style>
 
 
-<div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen">KEYNOTE</button>
-  <button class="tablinks" onclick="openCity(event, 'Paris')">TENTATIVE PROGRAM</button>
-  
-</div>
-
-<div id="London" class="tabcontent">
 <button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">Anurag Dwarakanath, Amazon</button>
 <div class="content">
   <p><strong>Title:</strong> Spoken Language Understanding for the Indic Region.</p>
@@ -211,11 +204,7 @@ in the areas of speech processing.</p>
 <br>
 
 
-</div>
 
-<div id="Paris" class="tabcontent">
-<img style="height: auto; width:auto;padding:5px;"  src="./assets/img/tentative_program.PNG">
-</div>
 
 
 
