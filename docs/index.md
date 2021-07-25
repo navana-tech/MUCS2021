@@ -30,7 +30,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   float: left;
   width: 50%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
@@ -149,7 +148,7 @@ body {font-family: Arial;}
 
 
 
-  <button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/shinji_watanabe.jpg"> <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/placeholder.jpg">Shinji Watanabe, Carnegie Mellon University & Pengcheng Guo, Ph.D. candidate at Northwestern Polytechnical University</button>
+  <button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/shinji_watanabe.jpg"> Shinji Watanabe, Carnegie Mellon University <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/placeholder.jpg"> Pengcheng Guo, Ph.D. candidate, Northwestern Polytechnical University</button>
     <div class="content">
   <p><strong>Title:</strong> Introduction of ESPnet, End-to-End Speech Processing Toolkit</p>
 
