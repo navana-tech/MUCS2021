@@ -61,7 +61,7 @@ body {font-family: Arial;}
   border: none;
   text-align: left;
   outline: none;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 .active, .collapsible:hover {
@@ -76,7 +76,7 @@ body {font-family: Arial;}
 }
 </style>
 
-
+<!-- 
 <button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Anurag_Dwarakanath.PNG">Anurag Dwarakanath, Amazon</button>
 <div class="content">
   <p><strong>Title:</strong> Spoken Language Understanding for the Indic Region.</p>
@@ -90,7 +90,7 @@ body {font-family: Arial;}
 <button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/shinji_watanabe.jpg"><span style="font-size:16px"> Shinji Watanabe, Carnegie Mellon University</span> <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/placeholder.jpg"><span style="font-size:16px"> Pengcheng Guo, Ph.D. candidate, Northwestern Polytechnical University</span></button>
 
 <div class="content">
-  <p><strong>Title:</strong> Introduction of ESPnet, End-to-End Speech Processing Toolkit</p>
+<p><strong>Title:</strong> Introduction of ESPnet, End-to-End Speech Processing Toolkit</p>
 
 <p><strong>Abstract:</strong> An end-to-end neural approach has become a popular alternative to conventional modular approaches in various speech applications including speech recognition and synthesis. One of the benefits of this end-to-end neural framework is that we can use a unified framework for different speech processing problems based on sequence-to-sequence modeling. This tutorial aims to introduce various end-to-end speech processing applications by focusing on the above unified framework within an open source toolkit named ESPnet (End-to-end speech processing toolkit https://github.com/espnet/espnet). We will explain the recent advance of ESPnet, including conformer: convolution-augmented transformer, and show an example of making an ESPnet recipe to build a state-of-the-art ASR system. </p>
 <div class="row">  
@@ -145,7 +145,7 @@ in the areas of speech processing.</p>
   <p><strong>Title:</strong> Automatic Speech Recognition using Models from GMM-HMM  to Transformers to wav2vec2.0</p>
   <p><strong>Abstract:</strong> In this talk, I will give an overview of various models used in Automatic Speech Recognition. After a brief overview of conventional GMM-HMM models and the role of lexicon and language models, I will talk about the recent progress based on deep-learning methods. This will include DNN-HMM and CTC based approaches. This will be followed by the sequence-to-sequence approaches including Attention-Based Encoder Decoder as well as transformers. Finally, I will talk about self-supervised approaches that are inspired by BERT, GPT and contrastive predictive coding including methods like MockingJay, Wav2vec and HuBERT.</p>
 </div>
-<br>
+<br> -->
 
 <button type="button" class="collapsible">Open Collapsible</button>
 <div class="content">
