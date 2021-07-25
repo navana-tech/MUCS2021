@@ -185,12 +185,6 @@ in the areas of speech processing.</p>
 </div>
 <br>
 
-
-
-
-<img style="height: auto; width:auto;padding:5px;"  src="./assets/img/tentative_program.PNG">
-
-
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
