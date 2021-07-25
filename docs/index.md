@@ -147,8 +147,6 @@ body {font-family: Arial;}
 </div>
  <br>
 
-
-
   <button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/shinji_watanabe.jpg">Shinji Watanabe, Carnegie Mellon University</button>
     <div class="content">
   <p><strong>Title:</strong> Introduction of ESPnet, End-to-End Speech Processing Toolkit</p>
@@ -159,8 +157,6 @@ body {font-family: Arial;}
   <p><strong>Brief Bio: </strong>Shinji Watanabe is an Associate Professor at Carnegie Mellon University, Pittsburgh, PA. He received his B.S., M.S., and Ph.D. (Dr. Eng.) degrees from Waseda University, Tokyo, Japan. He was a research scientist at NTT Communication Science Laboratories, Kyoto, Japan, from 2001 to 2011, a visiting scholar in Georgia institute of technology, Atlanta, GA in 2009, and a senior principal research scientist at Mitsubishi Electric Research Laboratories (MERL), Cambridge, MA USA from 2012 to 2017. Prior to the move to Carnegie Mellon University, he was an associate research professor at Johns Hopkins University, Baltimore, MD USA from 2017 to 2020. His research interests include automatic speech recognition, speech enhancement, spoken language understanding, and machine learning for speech and language processing. He has been published more than 200 papers in peer-reviewed journals and conferences and received several awards, including the best paper award from the IEEE ASRU in 2019. He served as an Associate Editor of the IEEE Transactions on Audio Speech and Language Processing. He was/has been a member of several technical committees, including the APSIPA Speech, Language, and Audio Technical Committee (SLA), IEEE Signal Processing Society Speech and Language Technical Committee (SLTC), and Machine Learning for Signal Processing Technical Committee (MLSP).</p>
 
   </div>
-
-  <div class="column" style="background-color:#bbb;">
     <button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/shinji_watanabe.jpg">Pengcheng Guo, Ph.D. candidate at Northwestern Polytechnical University, Xi'an, China.</button>
     <div class="content">
   <p><strong>Title:</strong> Introduction of ESPnet, End-to-End Speech Processing Toolkit</p>
