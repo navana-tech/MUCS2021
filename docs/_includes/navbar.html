@@ -25,7 +25,20 @@
       <ul class="nav navbar-nav">
 
 	{% comment %} Always show code of conduct. {% endcomment %}
+  
   <li><a href="{{ relative_root_path }}{% link challenge_details.md %}">Challenge Details</a></li> 
+  
+  <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown"
+      aria-haspopup="true" aria-expanded="false">Challenge</a>
+    <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+      <a class="dropdown-item" href="#">Action</a>
+      <a class="dropdown-item" href="#">Another action</a>
+      <a class="dropdown-item" href="#">Something else here</a>
+    </div>
+  </li>
+  
+  
   <li><a href="{{ relative_root_path }}{% link team.md %}">Organizers</a></li>
    <li><a href="{{ relative_root_path }}{% link timeline.md %}">Challenge Timeline</a></li>
 	 <li><a href="{{ relative_root_path }}{% link rules.md %}">Challenge Rules</a></li>
