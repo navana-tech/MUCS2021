@@ -206,6 +206,9 @@ in the areas of speech processing.</p>
 
 
 
+<img style="height: auto; width:auto;padding:5px;"  src="./assets/img/tentative_program.PNG">
+
+
 
 
 <script>
