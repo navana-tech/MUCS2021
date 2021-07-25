@@ -131,7 +131,7 @@ body {font-family: Arial;}
 
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen">KEYNOTE</button>
-  <button class="tablinks" onclick="openCity(event, 'Paris')">TENTATIVE PROGRAM</button>
+  
   
 </div>
 
@@ -213,9 +213,6 @@ in the areas of speech processing.</p>
 
 </div>
 
-<div id="Paris" class="tabcontent">
-<img style="height: auto; width:auto;padding:5px;"  src="./assets/img/tentative_program.PNG">
-</div>
 
 
 
