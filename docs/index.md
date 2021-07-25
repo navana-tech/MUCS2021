@@ -160,8 +160,10 @@ body {font-family: Arial;}
 </div>
   </div>
 
+  <br>
+
 <div class="column">
-  <button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/shinji_watanabe.jpg">Pengcheng Guo, Ph.D. candidate at Northwestern Polytechnical University, Xi'an, China.</button>
+  <button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/placeholder.jpg">Pengcheng Guo, Ph.D. candidate at Northwestern Polytechnical University, Xi'an, China.</button>
     <div class="content">
   <p><strong>Title:</strong> Introduction of ESPnet, End-to-End Speech Processing Toolkit</p>
 
@@ -180,7 +182,7 @@ His supervisors are Prof. Lei Xie and Prof. Shinji Watanabe. From Jul. 2017 to J
   <p><strong>Title:</strong> Overview of Speech Recognition Technology in Conversational Agents</p>
   <p><strong>Abstract:</strong> From the early days of modern Automatic Speech Recognition (ASR) research in the 1990s, one of the driving visions of the field has been a computer-based assistant that could accomplish tasks for the user, simply by being spoken to. Today, we are close to achieving that vision, with a whole array of speech-enabled AI agents eager to help users. Amazon’s Alexa pioneered the AI assistant concept for smart speaker devices enabled by far-field ASR. It currently supports billions of customer interactions per week, on over 100 million devices across multiple languages. This talk will give an overview of the interplay between underlying speech technologies, including wakeword detection, endpointing, speaker identification, and speech recognition that enable Alexa. We highlight successes and challenges in developing large-scale ASR, and dive into the unique data aspects of large-scale deployments like Alexa, where a continuous stream of unlabeled data enables successful applications of semi-supervised learning. Finally, we highlight problems that remain to be solved before the promise of a fully natural, conversational assistant is fully realized.</p>
 
-<p><strong>Bio:</strong> Sri Garimella is a senior manager of Applied Science, Alexa ASR in India. His team developed the ASR technology for launching Alexa in Indian English and Hindi languages. Sri obtained PhD from the Department of Electrical and Computer Engineering, Center for Language and Speech Processing at the Johns Hopkins University, Baltimore, USA in 2012. And Master of Engineering in Signal Processing from the Indian Institute of Science, Bangalore, India in 2006.</p>
+<p><strong>Brief Bio:</strong> Sri Garimella is a senior manager of Applied Science, Alexa ASR in India. His team developed the ASR technology for launching Alexa in Indian English and Hindi languages. Sri obtained PhD from the Department of Electrical and Computer Engineering, Center for Language and Speech Processing at the Johns Hopkins University, Baltimore, USA in 2012. And Master of Engineering in Signal Processing from the Indian Institute of Science, Bangalore, India in 2006.</p>
 </div>
 <br>
 
@@ -200,7 +202,7 @@ His supervisors are Prof. Lei Xie and Prof. Shinji Watanabe. From Jul. 2017 to J
   <p><strong>Abstract: </strong>With the advent of deep learning to the speech processing field for about a decade, a lot of attempts have been made towards learning the representations from spectrographic representation of speech. These representations are based on nonlinear processing and
 seem to capture more information from speech. The other mostly practised approach is handcrafted features extracted using signal processing and linked to speech production and/or perception. These approaches are mostly based on linear processing and are mathematically tractable.  This talk will take through the journey of speech processing from earliest explorations of handcrafted features to the latest deep representations. </p>
 
-<p><strong>Brief:</strong> Dr. S. R. M. Prasanna is Dean (Faculty Welfare, Research and Development) and Professor, Dept of Electrical Engineering at IIT Dharwad since July 2017. He was faculty member at the Dept of Electronics and Electrical Engineering at IIT Guwahati from August 2004 to July 2017. He was also Dean (Research and Development) from July 2015 to July 2017 at IIT Guwahati. He
+<p><strong>Brief Bio:</strong> Dr. S. R. M. Prasanna is Dean (Faculty Welfare, Research and Development) and Professor, Dept of Electrical Engineering at IIT Dharwad since July 2017. He was faculty member at the Dept of Electronics and Electrical Engineering at IIT Guwahati from August 2004 to July 2017. He was also Dean (Research and Development) from July 2015 to July 2017 at IIT Guwahati. He
 obtained his PhD in CSE from IIT Madras in 2004, MTech in Industrial Electronics from NITK Surathkal in 1997 and BE in Electronics from SSIT Tumakuru (then with Bangalore University) in 1994. He has guided 20 PhD Theses and 12 ongoing in the areas of Speech and Handwriting processing. He has published over 250 research articles in reputed Indian and International journals and conferences. He has executed large volume funded projects and also provided consultancy to many public sector and private limited companies
 in the areas of speech processing.</p>
 </div>
