@@ -38,19 +38,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   display: table;
   clear: both;
 }
-</style>
 
-
-<!-- 
-<div class="widewrapper pagetitle">
-  <div style="background-color:#617863;padding:5px;">
-    <h1 style="color:white;">Keynotes</h1>
-  </div>
-</div>
-<br> -->
-
-
-<style>
 .collapsible {
   background-color: #777;
   color: white;
@@ -76,9 +64,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   background-color: #f1f1f1;
   font-size: 16.5px;
 }
-</style>
 
-<style>
 body {font-family: Arial;}
 
 /* Style the tab */
@@ -203,8 +189,6 @@ in the areas of speech processing.</p>
 
 
 <img style="height: auto; width:auto;padding:5px;"  src="./assets/img/tentative_program.PNG">
-
-
 
 
 <script>
