@@ -5,6 +5,21 @@
 {% include gh_variables.html %}
 {% include manual_episode_order.html %}
 
+<SCRIPT type="text/javascript">
+  function JavaBlink() {
+     var blinks = document.getElementsByTagName('JavaBlink');
+     for (var i = blinks.length - 1; i >= 0; i--) {
+        var s = blinks[i];
+        s.style.visibility = (s.style.visibility === 'visible') ? 'hidden' : 'visible';
+     }
+     window.setTimeout(JavaBlink, 1000);
+  }
+  if (document.addEventListener) document.addEventListener("DOMContentLoaded", JavaBlink, false);
+  else if (window.addEventListener) window.addEventListener("load", JavaBlink, false);
+  else if (window.attachEvent) window.attachEvent("onload", JavaBlink);
+  else window.onload = JavaBlink;
+</SCRIPT>
+
 <nav class="navbar navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -44,7 +59,7 @@
    <li><a href="{{ relative_root_path }}{% link contact-page.md %}">Contact</a></li>
    
    <li><a href="{{ relative_root_path }}{% link paper.md %}">Paper</a></li>
-   <li><a href = "https://forms.gle/sKZstsHdXg1qtmYz8"><button class="btn btn-sm align-middle btn-outline-secondary" type="button"><span style="color: red;"><strong>Register (Free) for MUCS 2021!</strong></span></button></a></li>
+   <li><a href = "https://forms.gle/sKZstsHdXg1qtmYz8"><button class="btn btn-sm align-middle btn-outline-secondary" type="button"><span style="color: red;"><strong><JavaBlink>Register (Free) for MUCS 2021!</JavaBlink></strong></span></button></a></li>
 
   </ul>
   <ul class="nav navbar-nav navbar-right">
