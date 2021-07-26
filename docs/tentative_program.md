@@ -80,7 +80,7 @@
     </div>
     <div id="orderDetails" class="modal-body">
     
-    <p><strong>Title: </strong>Speech Processing: Handcrafted features to Deep Representations</p>
+<p><strong>Title: </strong>Speech Processing: Handcrafted features to Deep Representations</p>
   <p><strong>Abstract: </strong>With the advent of deep learning to the speech processing field for about a decade, a lot of attempts have been made towards learning the representations from spectrographic representation of speech. These representations are based on nonlinear processing and
 seem to capture more information from speech. The other mostly practised approach is handcrafted features extracted using signal processing and linked to speech production and/or perception. These approaches are mostly based on linear processing and are mathematically tractable.  This talk will take through the journey of speech processing from earliest explorations of handcrafted features to the latest deep representations. </p>
 
