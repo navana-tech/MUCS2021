@@ -110,7 +110,7 @@
 
   <!-- Modal content -->
   <div class="modal-content">
-    <span class="prasannaclose">&times;</span>
+    <span class="close" id="prasannaclose">&times;</span>
     <p><strong>Title: </strong>Speech Processing: Handcrafted features to Deep Representations</p>
   <p><strong>Abstract: </strong>With the advent of deep learning to the speech processing field for about a decade, a lot of attempts have been made towards learning the representations from spectrographic representation of speech. These representations are based on nonlinear processing and
 seem to capture more information from speech. The other mostly practised approach is handcrafted features extracted using signal processing and linked to speech production and/or perception. These approaches are mostly based on linear processing and are mathematically tractable.  This talk will take through the journey of speech processing from earliest explorations of handcrafted features to the latest deep representations. </p>
@@ -126,7 +126,7 @@ in the areas of speech processing.</p>
 
   <!-- Modal content -->
   <div class="modal-content">
-    <span class="garimellaclose">&times;</span>
+    <span onclick="closefunction(this)" class="close">&times;</span>
     <p><strong>Title:</strong> Overview of Speech Recognition Technology in Conversational Agents</p>
   <p><strong>Abstract:</strong> From the early days of modern Automatic Speech Recognition (ASR) research in the 1990s, one of the driving visions of the field has been a computer-based assistant that could accomplish tasks for the user, simply by being spoken to. Today, we are close to achieving that vision, with a whole array of speech-enabled AI agents eager to help users. Amazon’s Alexa pioneered the AI assistant concept for smart speaker devices enabled by far-field ASR. It currently supports billions of customer interactions per week, on over 100 million devices across multiple languages. This talk will give an overview of the interplay between underlying speech technologies, including wakeword detection, endpointing, speaker identification, and speech recognition that enable Alexa. We highlight successes and challenges in developing large-scale ASR, and dive into the unique data aspects of large-scale deployments like Alexa, where a continuous stream of unlabeled data enables successful applications of semi-supervised learning. Finally, we highlight problems that remain to be solved before the promise of a fully natural, conversational assistant is fully realized.</p>
 
@@ -139,7 +139,7 @@ in the areas of speech processing.</p>
 
   <!-- Modal content -->
   <div class="modal-content">
-    <span class="anuragclose">&times;</span>
+    <span class="close">&times;</span>
     <p><strong>Title:</strong> Spoken Language Understanding for the Indic Region.</p>
   <p><strong>Abstract:</strong> In this talk, we will touch upon some of the key challenges in building Spoken Language Understanding systems for the Indic region. We begin with an insight on the usage of code-mixed multi-lingual utterances where many Indic languages (beyond Hindi) are freely used. We show how such Indic language usage gets represented in Latin script in a transliterated form and current state of the art multi-lingual language models (such as XLM-R, mBERT) surprisingly do not build common representations of transliterated text and that in the original language. We then introduce research in Continual Language Learning as an emerging area to bridge this gap. The Indic region also sees wide variety of spoken language variations including grammatical errors and ambiguous utterances leading to noise in data. We present recent progress in the area of Robust Machine Learning that aims to build learning algorithms that are resilient to noise in data. </p>
 
@@ -153,7 +153,7 @@ in the areas of speech processing.</p>
 
   <!-- Modal content -->
   <div class="modal-content">
-    <span class="samuelclose">&times;</span>
+    <span class="close">&times;</span>
     <p><strong>Title:</strong> What next after ASR in Indian Languages? We speak in order to be understood!</p>
   <p><strong>Abstract:</strong> The MUCS 2021 challenge has focused on building multilingual and code-switching ASR systems for Indian languages in low resource settings. Within this challenge, teams have successfully tackled important problems and have demonstrated significant improvements on various languages. Where do these gains lead us next? If we speak in order to be understood, we advocate that the next frontier in this space is spoken language understanding (SLU). In this talk we will review recent work in end-to-end spoken language understanding, where the speech input is directly processed into intent without going through an intermediate text transcript. The lessons learnt in building ASR systems in low resource settings are extremely useful for this task too, as very often there is very limited SLU training data. We will share insights on training E2E SLU systems and the challenges ahead and how they can be applied for Indic languages.</p>
 
@@ -167,35 +167,35 @@ in the areas of speech processing.</p>
 
 
 var modal;
-var span = document.getElementsByClassName("prasannaclose")[0];
+
 // When the user clicks the button, open the modal 
 function prasanna(x) {
   modal = document.getElementById("prasannaModal");
   modal.style.display = "block";
-  span = document.getElementsByClassName("prasannaclose")[0];
+  //span = document.getElementsById("prasannaclose");
 }
 // When the user clicks the button, open the modal 
 function garimella(x) {
   modal = document.getElementById("garimellaModal");
   modal.style.display = "block";
-  span = document.getElementsByClassName("garimellaclose")[0];
+  //span = document.getElementsByClassName("garimellaclose")[0];
 }
 // When the user clicks the button, open the modal 
 function anurag(x) {
   modal = document.getElementById("anuragModal");
   modal.style.display = "block";
-  span = document.getElementsByClassName("anuragclose")[0];
+  //span = document.getElementsByClassName("anuragclose")[0];
 }
 
 function samuel(x) {
   modal = document.getElementById("samuelModal");
   modal.style.display = "block";
-  span = document.getElementsByClassName("samuelclose")[0];
+  //span = document.getElementsByClassName("samuelclose")[0];
 }
 
 
 // When the user clicks on <span> (x), close the modal
-span.onclick = function(){
+function closefunction(x){
   modal.style.display = "none";
 }
 // When the user clicks anywhere outside of the modal, close it
