@@ -128,12 +128,12 @@ var btn = document.getElementById("myBtn");
 var span = document.getElementsByClassName("close")[0];
 
 // When the user clicks the button, open the modal 
-btn.onclick = function() {
+function myFunction(x) {
   modal.style.display = "block";
 }
 
 // When the user clicks on <span> (x), close the modal
-function myFunction(x) {
+span.onclick = function(){
   modal.style.display = "none";
 }
 
