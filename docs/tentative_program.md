@@ -86,7 +86,7 @@
   <tr>
     <td class="tg-mqa1">12th Aug</td>
     <td class="tg-mqa1">Intro</td>
-    <td onclick="myFunction(this)" id="prasanna" class="tg-6h8h" colspan="6">S R Mahadev Prasanna</td>
+    <td onclick="prasanna(this)" class="tg-6h8h" colspan="6">S R Mahadev Prasanna</td>
     <td class="tg-mqa1">BREAK</td>
     <td class="tg-t7s9" colspan="2">Sri Garimella</td>
     <td class="tg-5e9u" colspan="2">Anurag Dwarakanath</td>
@@ -111,20 +111,22 @@
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close">&times;</span>
-    <p>Some text in the Modal..</p>
+    <p><strong>Title: </strong>Speech Processing: Handcrafted features to Deep Representations</p>
+  <p><strong>Abstract: </strong>With the advent of deep learning to the speech processing field for about a decade, a lot of attempts have been made towards learning the representations from spectrographic representation of speech. These representations are based on nonlinear processing and
+seem to capture more information from speech. The other mostly practised approach is handcrafted features extracted using signal processing and linked to speech production and/or perception. These approaches are mostly based on linear processing and are mathematically tractable.  This talk will take through the journey of speech processing from earliest explorations of handcrafted features to the latest deep representations. </p>
+
+<p><strong>Brief Bio:</strong> Dr. S. R. M. Prasanna is Dean (Faculty Welfare, Research and Development) and Professor, Dept of Electrical Engineering at IIT Dharwad since July 2017. He was faculty member at the Dept of Electronics and Electrical Engineering at IIT Guwahati from August 2004 to July 2017. He was also Dean (Research and Development) from July 2015 to July 2017 at IIT Guwahati. He
+obtained his PhD in CSE from IIT Madras in 2004, MTech in Industrial Electronics from NITK Surathkal in 1997 and BE in Electronics from SSIT Tumakuru (then with Bangalore University) in 1994. He has guided 20 PhD Theses and 12 ongoing in the areas of Speech and Handwriting processing. He has published over 250 research articles in reputed Indian and International journals and conferences. He has executed large volume funded projects and also provided consultancy to many public sector and private limited companies
+in the areas of speech processing.</p>
   </div>
 
 </div>
 
 
 <script>
-// Get the modal
+
 var modal = document.getElementById("myModal");
-
-// Get the button that opens the modal
 var btn = document.getElementById("myBtn");
-
-// Get the <span> element that closes the modal
 var span = document.getElementsByClassName("close")[0];
 
 // When the user clicks the button, open the modal 
