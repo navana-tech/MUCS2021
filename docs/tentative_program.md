@@ -151,25 +151,22 @@ in the areas of speech processing.</p>
 
 <script>
 
-var prasanna = document.getElementById("prasannaModal");
 
+var modal;
 // When the user clicks the button, open the modal 
 function prasanna(x) {
-  prasanna.style.display = "block";
+  modal = document.getElementById("prasannaModal");
+  modal.style.display = "block";
 }
-
-var garimella = document.getElementById("garimellaModal");
-
 // When the user clicks the button, open the modal 
 function garimella(x) {
-  garimella.style.display = "block";
+  modal = document.getElementById("garimellaModal");
+  modal.style.display = "block";
 }
-
-var anurag = document.getElementById("anuragModal");
-
 // When the user clicks the button, open the modal 
 function anurag(x) {
-  anurag.style.display = "block";
+  modal = document.getElementById("anuragModal");
+  modal.style.display = "block";
 }
 
 
