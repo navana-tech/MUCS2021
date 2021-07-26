@@ -86,7 +86,7 @@
   <tr>
     <td class="tg-mqa1">12th Aug</td>
     <td class="tg-mqa1">Intro</td>
-    <td id="prasanna" class="tg-6h8h" colspan="6">S R Mahadev Prasanna</td>
+    <td onclick="myFunction(this)" id="prasanna" class="tg-6h8h" colspan="6">S R Mahadev Prasanna</td>
     <td class="tg-mqa1">BREAK</td>
     <td class="tg-t7s9" colspan="2">Sri Garimella</td>
     <td class="tg-5e9u" colspan="2">Anurag Dwarakanath</td>
@@ -133,7 +133,7 @@ btn.onclick = function() {
 }
 
 // When the user clicks on <span> (x), close the modal
-span.onclick = function() {
+function myFunction(x) {
   modal.style.display = "none";
 }
 
