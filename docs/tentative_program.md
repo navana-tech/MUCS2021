@@ -9,6 +9,21 @@
 <br>
 <br>
 <style type="text/css">
+* {
+  box-sizing: border-box;
+}
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 .modal {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
