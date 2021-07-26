@@ -88,25 +88,25 @@
     <td class="tg-mqa1">Intro</td>
     <td onclick="prasanna(this)" class="tg-6h8h" colspan="6">S R Mahadev Prasanna</td>
     <td class="tg-mqa1">BREAK</td>
-    <td class="tg-t7s9" colspan="2">Sri Garimella</td>
-    <td class="tg-5e9u" colspan="2">Anurag Dwarakanath</td>
+    <td onclick="garimella(this)" class="tg-t7s9" colspan="2">Sri Garimella</td>
+    <td onclick="anurag(this)" class="tg-5e9u" colspan="2">Anurag Dwarakanath</td>
     <td class="tg-mqa1">BREAK</td>
     <td class="tg-cvsa" colspan="4">Presentation by Challenge Participants - Subtask1</td>
-    <td class="tg-njcc" colspan="2">Samuel Thomas</td>
+    <td onclick="samuel(this)" class="tg-njcc" colspan="2">Samuel Thomas</td>
   </tr>
   <tr>
     <td class="tg-mqa1">13th Aug</td>
     <td class="tg-mqa1"></td>
     <td class="tg-cvsa" colspan="4">Presentation by Challenge Participants - Subtask2</td>
     <td class="tg-mqa1">BREAK</td>
-    <td class="tg-gp9k" colspan="6">S UMESH</td>
+    <td onclick="umesh(this)" class="tg-gp9k" colspan="6">S UMESH</td>
     <td class="tg-mqa1" colspan="2">Winner Announcement</td>
-    <td class="tg-5cm8" colspan="5">Shinji Watanabe</td>
+    <td onclick="shinji(this)" class="tg-5cm8" colspan="5">Shinji Watanabe</td>
   </tr>
 </tbody>
 </table>
 
-<div id="myModal" class="modal">
+<div id="prasannaModal" class="modal">
 
   <!-- Modal content -->
   <div class="modal-content">
@@ -122,23 +122,47 @@ in the areas of speech processing.</p>
 
 </div>
 
+<div id="garimellaModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p><strong>Title:</strong> Overview of Speech Recognition Technology in Conversational Agents</p>
+  <p><strong>Abstract:</strong> From the early days of modern Automatic Speech Recognition (ASR) research in the 1990s, one of the driving visions of the field has been a computer-based assistant that could accomplish tasks for the user, simply by being spoken to. Today, we are close to achieving that vision, with a whole array of speech-enabled AI agents eager to help users. Amazon’s Alexa pioneered the AI assistant concept for smart speaker devices enabled by far-field ASR. It currently supports billions of customer interactions per week, on over 100 million devices across multiple languages. This talk will give an overview of the interplay between underlying speech technologies, including wakeword detection, endpointing, speaker identification, and speech recognition that enable Alexa. We highlight successes and challenges in developing large-scale ASR, and dive into the unique data aspects of large-scale deployments like Alexa, where a continuous stream of unlabeled data enables successful applications of semi-supervised learning. Finally, we highlight problems that remain to be solved before the promise of a fully natural, conversational assistant is fully realized.</p>
+
+<p><strong>Brief Bio:</strong> Sri Garimella is a senior manager of Applied Science, Alexa ASR in India. His team developed the ASR technology for launching Alexa in Indian English and Hindi languages. Sri obtained PhD from the Department of Electrical and Computer Engineering, Center for Language and Speech Processing at the Johns Hopkins University, Baltimore, USA in 2012. And Master of Engineering in Signal Processing from the Indian Institute of Science, Bangalore, India in 2006.</p>
+  </div>
+
+</div>
+
 
 <script>
 
-var modal = document.getElementById("myModal");
-var btn = document.getElementById("myBtn");
-var span = document.getElementsByClassName("close")[0];
+var prasanna = document.getElementById("prasannaModal");
 
 // When the user clicks the button, open the modal 
 function prasanna(x) {
-  modal.style.display = "block";
+  prasanna.style.display = "block";
 }
 
+var garimella = document.getElementById("garimellaModal");
+
+// When the user clicks the button, open the modal 
+function garimella(x) {
+  garimella.style.display = "block";
+}
+
+
+
+
+
+
+var btn = document.getElementById("myBtn");
+var span = document.getElementsByClassName("close")[0];
 // When the user clicks on <span> (x), close the modal
 span.onclick = function(){
   modal.style.display = "none";
 }
-
 // When the user clicks anywhere outside of the modal, close it
 window.onclick = function(event) {
   if (event.target == modal) {
