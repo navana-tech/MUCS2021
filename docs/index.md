@@ -211,7 +211,7 @@ in the areas of speech processing.</p>
 <br>
 
 
-<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/s_umesh.jpg">Vikas Joshi, Senior Applied Researcher at Microsoft Research India.</button>
+<button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/placeholder.jpg">Vikas Joshi, Senior Applied Researcher at Microsoft Research India.</button>
 <div class="content">
   <p><strong>Title:</strong>coming soon..</p>
   <p><strong>Abstract:</strong> coming soon..</p>
