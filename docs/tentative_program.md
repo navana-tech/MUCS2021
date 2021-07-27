@@ -61,17 +61,17 @@
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;font-size:12px;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5e9u{background-color:#ffccc9;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-cvsa{background-color:#fd6864;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-t7s9{background-color:#cbcefb;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-6h8h{background-color:#34cdf9;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-gp9k{background-color:#ffce93;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-njcc{background-color:#9aff99;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-2jjb{background-color:#dae8fc;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-5cm8{background-color:#ffffc7;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-5e9u{background-color:#ffccc9;border-color:#000000;font-size:12px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-cvsa{background-color:#fd6864;border-color:#000000;font-size:12px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-t7s9{background-color:#cbcefb;border-color:#000000;font-size:12px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-6h8h{background-color:#34cdf9;border-color:#000000;font-size:12px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gp9k{background-color:#ffce93;border-color:#000000;font-size:12px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-mqa1{border-color:#000000;font-size:12px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-njcc{background-color:#9aff99;border-color:#000000;font-size:12px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-2jjb{background-color:#dae8fc;border-color:#000000;font-size:12px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-5cm8{background-color:#ffffc7;border-color:#000000;font-size:12px;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 
 
