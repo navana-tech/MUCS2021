@@ -72,6 +72,8 @@
 .tg .tg-njcc{background-color:#9aff99;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-5cm8{background-color:#ffffc7;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 </style>
+
+
 <table class="tg">
 <thead>
   <tr>
@@ -111,11 +113,11 @@
   </tr>
   <tr>
     <td class="tg-mqa1">13th Aug</td>
-    <td class="tg-mqa1"></td>
-    <td class="tg-cvsa" colspan="4">Presentation by Challenge Participants - Subtask2</td>
+    <td class="tg-cvsa" colspan="4">Presentation by Challenge Participants - Subtask2  </td>
+    <td class="tg-mqa1">Winner Announcement</td>
     <td class="tg-mqa1">BREAK</td>
     <td onclick="umesh(this)" class="tg-gp9k" colspan="6">S UMESH</td>
-    <td class="tg-mqa1" colspan="2">Winner Announcement</td>
+    <td class="tg-2jjb" colspan="2">Vikas Joshi</td>
     <td onclick="shinji(this)" class="tg-5cm8" colspan="5">Shinji Watanabe</td>
   </tr>
 </tbody>
