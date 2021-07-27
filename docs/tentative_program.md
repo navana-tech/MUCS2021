@@ -70,6 +70,7 @@
 .tg .tg-gp9k{background-color:#ffce93;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-njcc{background-color:#9aff99;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-2jjb{background-color:#dae8fc;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-5cm8{background-color:#ffffc7;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 
