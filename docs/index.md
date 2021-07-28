@@ -148,7 +148,7 @@ body {font-family: Arial;}
 
 
 
-  <button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/shinji_watanabe.jpg"><span style="font-size:16px"> Shinji Watanabe, Carnegie Mellon University</span> <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/pengcheng_guo.PNG"><span style="font-size:16px"> Pengcheng Guo, Ph.D. candidate, Northwestern Polytechnical University</span></button>
+  <button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/shinji_watanabe.jpg"><span style="font-size:16px"> Shinji Watanabe, Carnegie Mellon University</span> <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Pengcheng_Guo.pdf"><span style="font-size:16px"> Pengcheng Guo, Ph.D. candidate, Northwestern Polytechnical University</span></button>
     <div class="content">
   <p><strong>Title:</strong> Introduction of ESPnet, End-to-End Speech Processing Toolkit</p>
 
