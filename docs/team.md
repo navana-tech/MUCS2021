@@ -53,7 +53,7 @@
         <div class="column">
             <img style="height: 120px; width:auto"  src="./assets/img/persons/shinji_watanabe.jpg">
             <p style="font-size:16.5px;text-align:center"><a href="https://www.clsp.jhu.edu/faculty/shinji-watanabe/">Shinji Watanabe</a></p>
-            <p style="font-size:16.5px;text-align:center">Johns Hopkins University</p>
+            <p style="font-size:16.5px;text-align:center">Carnegie Mellon University</p>
         </div>
         <div class="column">
             <img style="height: 120px; width:auto"  src="./assets/img/persons/brian_kingsbury.jpg">
