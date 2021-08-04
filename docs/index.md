@@ -131,8 +131,7 @@ body {font-family: Arial;}
 
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen">EXPERT TALKS</button>
-  
-  
+  <button class="tablinks" onclick="openCity(event, 'Tab2')" id="defaultOpen">TUTORIALS</button> 
 </div>
 
 <div id="London" class="tabcontent">
@@ -205,12 +204,6 @@ Weblink:<a href="https://researcher.watson.ibm.com/researcher/view.php?person=us
   Webline:<a href="https://in.linkedin.com/in/vikas-joshi-aa3b939">https://in.linkedin.com/in/vikas-joshi-aa3b939</a>
 </div>
 <br>
-</div>
-
-<div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'Tab2')" id="defaultOpen">TUTORIALS</button>
-  
-  
 </div>
 
 <div id="Tab2" class="tabcontent">
