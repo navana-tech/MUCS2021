@@ -33,6 +33,9 @@ div {text-align: center;}
 <h2>Microsoft Research Lab India Pvt Ltd</h2>
 <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">https://www.microsoft.com/en-us/research/lab/microsoft-research-india/</a>
 
+<br>
+<br>
+
 <hr>
 
 <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/indsca_logo.png">
