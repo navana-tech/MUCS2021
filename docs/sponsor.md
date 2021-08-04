@@ -28,8 +28,6 @@
   clear: both;
 }
 </style>
-</head>
-<body>
 
 <h2>Two Equal Columns</h2>
 
