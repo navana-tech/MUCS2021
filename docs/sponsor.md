@@ -12,7 +12,9 @@
 * {
   box-sizing: border-box;
 }
-
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
