@@ -18,7 +18,7 @@
   float: left;
   width: 50%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  
 }
 
 /* Clear floats after the columns */
@@ -28,8 +28,6 @@
   clear: both;
 }
 </style>
-
-<h2>Two Equal Columns</h2>
 
 <div class="row">
   <div class="column">
