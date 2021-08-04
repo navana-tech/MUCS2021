@@ -35,8 +35,7 @@ div {text-align: center;}
 
 <br>
 <br>
-
-<hr>
+<br>
 
 <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/indsca_logo.png">
 <h2>Indian Speech Communication Association (IndSCA)</h2>
