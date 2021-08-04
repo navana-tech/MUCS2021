@@ -34,7 +34,7 @@ div {text-align: center;}
 <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">https://www.microsoft.com/en-us/research/lab/microsoft-research-india/</a>
 
 <br>
-<h2>&</h2>
+<br>
 <br>
 
 <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/indsca_logo.png">
