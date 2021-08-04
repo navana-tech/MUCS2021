@@ -132,7 +132,7 @@
   <tr>
     <td class="tg-xgl6">16.00-16.30</td>
     <td class="tg-xgl6">BREAK</td>
-    <td class="tg-9nje" rowspan="2">Vikas Joshi</td>
+    <td onclick="vikas(this)" class="tg-9nje" rowspan="2">Vikas Joshi</td>
   </tr>
   <tr>
     <td class="tg-xgl6">16.30-17.00</td>
@@ -170,6 +170,19 @@ seem to capture more information from speech. The other mostly practised approac
 <p><strong>Brief Bio:</strong> Dr. S. R. M. Prasanna is Dean (Faculty Welfare, Research and Development) and Professor, Dept of Electrical Engineering at IIT Dharwad since July 2017. He was faculty member at the Dept of Electronics and Electrical Engineering at IIT Guwahati from August 2004 to July 2017. He was also Dean (Research and Development) from July 2015 to July 2017 at IIT Guwahati. He
 obtained his PhD in CSE from IIT Madras in 2004, MTech in Industrial Electronics from NITK Surathkal in 1997 and BE in Electronics from SSIT Tumakuru (then with Bangalore University) in 1994. He has guided 20 PhD Theses and 12 ongoing in the areas of Speech and Handwriting processing. He has published over 250 research articles in reputed Indian and International journals and conferences. He has executed large volume funded projects and also provided consultancy to many public sector and private limited companies
 in the areas of speech processing.</p>
+  </div>
+
+</div>
+
+<div id="vikasModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span onclick="closefunction(this)" class="close" id="vikasclose">&times;</span>
+    <p><strong>Title: </strong>Recent advances in transfer learning and multilingual methods for streaming end-to-end ASR systems</p>
+  <p><strong>Abstract: </strong>Transfer learning (TL) and multilingual models often improve the performance of low resource langauges, by leveraging data from high resource langauges. Multilingual models also simplify the training and deployment strategy, as a single model is used for multiple languages. This talk will provide an overview of recent advances in TL and multilingual methods for streaming end-to-end (E2E) ASR systems.  Though there is considerable progress, most of the multilingual methods assume the availability of the input language. Hence, it is still challenging to provide a truly multilingual experience, where users can interact with voice assistants in any language, interchangeably, without explicitly setting the language of the conversation. While highlighting the improvements made, we will also discuss the practical challenges and potential research directions in building a truly multilingual experience.</p>
+  <p><strong>Brief Bio: </strong>Vikas Joshi is a senior researcher at Microsoft Speech team in India, working on various speech technologies including multilingual end-to-end ASR systems. Prior to Microsoft, he spent 3 years at Amazon Alexa, building large scale ASR systems and 4.5 years at IBM India Research labs. Vikas obtained his PhD degree from IIT Madras in 2016 and completed BTech from BVB college of Engineering, Hubli. He has over 15 publications and 10 granted patents.</p>
+  Weblink:<a href="https://in.linkedin.com/in/vikas-joshi-aa3b939">https://in.linkedin.com/in/vikas-joshi-aa3b939</a>
   </div>
 
 </div>
@@ -291,6 +304,11 @@ function umesh(x) {
 
 function shinji(x) {
   modal = document.getElementById("shinjiModal");
+  modal.style.display = "block";
+  //span = document.getElementsByClassName("samuelclose")[0];
+}
+function vikas(x) {
+  modal = document.getElementById("vikasModal");
   modal.style.display = "block";
   //span = document.getElementsByClassName("samuelclose")[0];
 }
