@@ -6,3 +6,41 @@
   </div>
 </div>
 <br>
+
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2>Two Equal Columns</h2>
+
+<div class="row">
+  <div class="column">
+    <h2>Microsoft Research Lab India Pvt Ltd</h2>
+    <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">https://www.microsoft.com/en-us/research/lab/microsoft-research-india/</a>
+  </div>
+  <div class="column">
+    <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/indsca_logo.png">
+    <h2>Indian Speech Communication Association (IndSCA)</h2>
+    <a href="https://indsca.web.app/about">https://indsca.web.app/about</a>
+  </div>
+</div>
