@@ -29,11 +29,11 @@
 }
 </style>
 <h2>Microsoft Research Lab India Pvt Ltd</h2>
-    <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">https://www.microsoft.com/en-us/research/lab/microsoft-research-india/</a>
+<a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">https://www.microsoft.com/en-us/research/lab/microsoft-research-india/</a>
 
 <hr>
 
 <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/indsca_logo.png">
-    <h2>Indian Speech Communication Association (IndSCA)</h2>
-    <a href="https://indsca.web.app/about">https://indsca.web.app/about</a>
+<h2>Indian Speech Communication Association (IndSCA)</h2>
+<a href="https://indsca.web.app/about">https://indsca.web.app/about</a>
  
