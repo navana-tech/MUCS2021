@@ -23,6 +23,7 @@ div {text-align: center;}
   
 }
 
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
@@ -35,9 +36,21 @@ div {text-align: center;}
 
 <br>
 <br>
-<br>
 
+
+<div class="row">
+  <div class="column">
 <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/indsca_logo.png">
 <h2>Indian Speech Communication Association (IndSCA)</h2>
 <a href="https://indsca.web.app/about">https://indsca.web.app/about</a>
+
+</div>
+  <div class="column">
+    <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/gnani-ai.jpg">
+    <h2>Gnani.ai</h2>
+    <a href="https://www.gnani.ai/">https://www.gnani.ai/
+</a>
+</div>
+</div>
+
  
