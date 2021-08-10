@@ -1,3 +1,12 @@
+<br>
+<br>
+<div class="widewrapper pagetitle">
+  <div class="container" style="background-color:#617863">
+    <h1 style="color:white;">Registration Details</h1>
+  </div>
+</div>
+
+
 <script src="https://cdn.anychart.com/releases/8.0.0/js/anychart-base.min.js"></script>
 <br>
 <br>
@@ -12,7 +21,7 @@
 <style>
 html, body, #container {
   width: 100%;
-  height: 100%;
+  height: %;
   margin: 0;
   padding: 0;
 }
