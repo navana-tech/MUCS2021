@@ -88,18 +88,18 @@
   <tr>
     <td class="tg-ecxm">10.00-10.30</td>
     <td class="tg-hjwb">Inauguration</td>
-    <td class="tg-hjzu" rowspan="5">Mahadeva Prasanna</td>
+    <td onclick="prasanna(this)" class="tg-hjzu" rowspan="5">Mahadeva Prasanna</td>
   </tr>
   <tr>
     <td class="tg-ecxm">10.30-11.00</td>
-    <td class="tg-ir9u" rowspan="2">Sri Garimella</td>
+    <td onclick="garimella(this)" class="tg-ir9u" rowspan="2">Sri Garimella</td>
   </tr>
   <tr>
     <td class="tg-ecxm">11.00-11.30</td>
   </tr>
   <tr>
     <td class="tg-ecxm">11.30-12.00</td>
-    <td class="tg-ju2b" rowspan="2">Anurag Dwarakanath</td>
+    <td onclick="anurag(this)" class="tg-ju2b" rowspan="2">Anurag Dwarakanath</td>
   </tr>
   <tr>
     <td class="tg-ecxm">12.00-12.30</td>
@@ -116,7 +116,7 @@
   <tr>
     <td class="tg-ecxm">13.00-13.15</td>
     <td class="tg-rjxh">Sponsor Talk - NavanaTech</td>
-    <td class="tg-51jv" rowspan="7">S Umesh</td>
+    <td onclick="umesh(this)" class="tg-51jv" rowspan="7">S Umesh</td>
   </tr>
   <tr>
     <td class="tg-ecxm">13.15-13.30</td>
@@ -151,7 +151,7 @@
   <tr>
     <td class="tg-ecxm">16:00-16:15</td>
     <td class="tg-90df"><span style="background-color:#D9EAD3">Ekstep</span></td>
-    <td class="tg-ir9u" rowspan="4">Vikas Joshi</td>
+    <td onclick="vikas(this)" class="tg-ir9u" rowspan="4">Vikas Joshi</td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:15-16:30</td>
@@ -168,7 +168,7 @@
   <tr>
     <td class="tg-ecxm">17:00-17:15</td>
     <td class="tg-90df"><span style="background-color:#D9EAD3">Dialpad</span></td>
-    <td class="tg-g6s8" rowspan="8">Shinji Watanabe</td>
+    <td onclick="shinji(this)" class="tg-g6s8" rowspan="8">Shinji Watanabe</td>
   </tr>
   <tr>
     <td class="tg-ecxm">17:15-17:30</td>
@@ -192,7 +192,7 @@
   </tr>
   <tr>
     <td class="tg-ecxm">18.30-19.00</td>
-    <td class="tg-hjwb" rowspan="2">Samuel Thomas</td>
+    <td onclick="samuel(this)" class="tg-hjwb" rowspan="2">Samuel Thomas</td>
   </tr>
   <tr>
     <td class="tg-ecxm">19.00-19.30</td>
