@@ -62,7 +62,7 @@ function makeGraph()
         left = (i * 50 + 58) + "px";
         labels.innerHTML = labels.innerHTML + 
            "<span style='position:absolute;top:-16px;left:"+ 
-           left+";background:blue'>" + year + "</span>";
+           left+";background:blue'>year</span>";
     }	
 }
 
