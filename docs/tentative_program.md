@@ -18,6 +18,7 @@
 .tg .tg-90df{background-color:#D9EAD3;border-color:#000000;font-size:15px;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-rjxh{background-color:#fd6864;border-color:#000000;font-size:15px;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-hjwb{background-color:#9aff99;border-color:#000000;font-size:15px;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-9pb7{background-color:#d9ead3;border-color:#000000;font-size:15px;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-hjzu{background-color:#cbcefb;border-color:#000000;font-size:15px;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-ir9u{background-color:#34cdf9;border-color:#000000;font-size:15px;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-ju2b{background-color:#ffccc9;border-color:#000000;font-size:15px;font-weight:bold;text-align:center;vertical-align:middle}
@@ -82,7 +83,7 @@
   </tr>
   <tr>
     <td class="tg-ecxm">15:00-15:15</td>
-    <td class="tg-xgl6" rowspan="2">Introduction to Challenge by Chiranjeevi (Vivek)</td>
+    <td class="tg-9pb7" rowspan="2">Introduction to Challenge by Chiranjeevi (Vivek)</td>
   </tr>
   <tr>
     <td class="tg-ecxm">15:15-15:30</td>
