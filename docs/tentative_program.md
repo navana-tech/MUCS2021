@@ -1,4 +1,6 @@
+
 <br>
+
 <br>
 <div class="widewrapper pagetitle">
   <div class="container" style="background-color:#617863">
@@ -206,11 +208,11 @@
   </tr>
   <tr>
     <td class="tg-ecxm">17:45-18:00</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Conclusion to the Challenge</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Conclusion to the Challenge </span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">18:00-18:15</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Winner Announcement</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Winner Announcement </span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">18:15-18:30</td>
