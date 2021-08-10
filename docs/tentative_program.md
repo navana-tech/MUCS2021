@@ -270,8 +270,6 @@ Weblink:<a href="https://researcher.watson.ibm.com/researcher/view.php?person=us
 
 </div>
 
-
-
 <div id="umeshModal" class="modal">
 
   <!-- Modal content -->
@@ -310,7 +308,6 @@ His supervisors are Prof. Lei Xie and Prof. Shinji Watanabe. From Jul. 2017 to J
 
 
 <script>
-
 
 var modal;
 
@@ -356,9 +353,6 @@ function vikas(x) {
   modal.style.display = "block";
   //span = document.getElementsByClassName("samuelclose")[0];
 }
-
-
-
 
 // When the user clicks on <span> (x), close the modal
 function closefunction(x){
