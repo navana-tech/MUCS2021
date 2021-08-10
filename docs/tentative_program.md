@@ -85,36 +85,54 @@
 <tbody>
   <tr>
     <td class="tg-ecxm">10.00-10.30</td>
+<<<<<<< HEAD
     <td class="tg-hjwb">Inauguration (Preethi+Kalika)</td>
     <td onclick="prasanna(this)" class="tg-hjzu" rowspan="5">Mahadeva Prasanna (Chiranjeevi+Anuj)</td>
   </tr>
   <tr>
     <td class="tg-ecxm">10.30-11.00</td>
     <td onclick="garimella(this)" class="tg-ir9u" rowspan="2">Sri Garimella (Sunita)</td>
+=======
+    <td class="tg-hjwb">Inauguration</td>
+    <td class="tg-hjzu" rowspan="5">Mahadeva Prasanna</td>
+  </tr>
+  <tr>
+    <td class="tg-ecxm">10.30-11.00</td>
+    <td class="tg-ir9u" rowspan="2">Sri Garimella</td>
+>>>>>>> c1ddf2ff68de76287538b2ad93ac0d26b6f9ec07
   </tr>
   <tr>
     <td class="tg-ecxm">11.00-11.30</td>
   </tr>
   <tr>
     <td class="tg-ecxm">11.30-12.00</td>
+<<<<<<< HEAD
     <td onclick="anurag(this)" class="tg-ju2b" rowspan="2">Anurag Dwarakanath (Sunita)</td>
+=======
+    <td class="tg-ju2b" rowspan="2">Anurag Dwarakanath</td>
+>>>>>>> c1ddf2ff68de76287538b2ad93ac0d26b6f9ec07
   </tr>
   <tr>
     <td class="tg-ecxm">12.00-12.30</td>
   </tr>
   <tr>
     <td class="tg-ecxm">12.30-12.45</td>
-    <td class="tg-rjxh">Sponsor Talk - IndSCA (Shreya)</td>
+    <td class="tg-rjxh">Sponsor Talk - IndSCA</td>
     <td class="tg-xgl6" rowspan="2">Break</td>
   </tr>
   <tr>
     <td class="tg-ecxm">12.45-13.00</td>
-    <td class="tg-rjxh">Sponsor Talk - Gnani.ai (Shreya)</td>
+    <td class="tg-rjxh">Sponsor Talk - Gnani.ai</td>
   </tr>
   <tr>
     <td class="tg-ecxm">13.00-13.15</td>
+<<<<<<< HEAD
     <td class="tg-rjxh">Sponsor Talk - NavanaTech (Shreya)</td>
     <td onclick="umesh(this)" class="tg-51jv" rowspan="7">S Umesh (Preethi+Anuj)</td>
+=======
+    <td class="tg-rjxh">Sponsor Talk - NavanaTech</td>
+    <td class="tg-51jv" rowspan="7">S Umesh</td>
+>>>>>>> c1ddf2ff68de76287538b2ad93ac0d26b6f9ec07
   </tr>
   <tr>
     <td class="tg-ecxm">13.15-13.30</td>
@@ -125,64 +143,74 @@
   </tr>
   <tr>
     <td class="tg-ecxm">14.00-14.30</td>
-    <td class="tg-hjzu" rowspan="2">Panel Discussion (Preethi+Sriram)</td>
+    <td class="tg-hjzu" rowspan="2">Panel Discussion</td>
   </tr>
   <tr>
     <td class="tg-ecxm">14.30-15.00</td>
   </tr>
   <tr>
     <td class="tg-ecxm">15:00-15:15</td>
-    <td class="tg-9pb7" rowspan="2">Introduction to Challenge by Chiranjeevi (Vivek)</td>
+    <td class="tg-9pb7" rowspan="2">Introduction to Challenge by Chiranjeevi</td>
   </tr>
   <tr>
     <td class="tg-ecxm">15:15-15:30</td>
   </tr>
   <tr>
     <td class="tg-ecxm">15:30-15:45</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">CSTR (Vivek)</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">CSTR</span></td>
     <td class="tg-xgl6" rowspan="2">Break</td>
   </tr>
   <tr>
     <td class="tg-ecxm">15:45-16:00</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Bytedance-SA (Vivek)</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Bytedance-SA</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:00-16:15</td>
+<<<<<<< HEAD
     <td class="tg-90df"><span style="background-color:#D9EAD3">Ekstep (Vivek)</span></td>
     <td onclick="vikas(this)" class="tg-ir9u" rowspan="4">Vikas Joshi (Syed Shahnawazuddin)</td>
+=======
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Ekstep</span></td>
+    <td class="tg-ir9u" rowspan="4">Vikas Joshi</td>
+>>>>>>> c1ddf2ff68de76287538b2ad93ac0d26b6f9ec07
   </tr>
   <tr>
     <td class="tg-ecxm">16:15-16:30</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">GOT-HIM (Vivek)</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">GOT-HIM</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:30-16:45</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">GoVivace (Vivek)</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">GoVivace</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:45-17:00</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Sayint (Vivek)</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Sayint</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">17:00-17:15</td>
+<<<<<<< HEAD
     <td class="tg-90df"><span style="background-color:#D9EAD3">Dialpad (Vivek)</span></td>
     <td onclick="shinji(this)" class="tg-g6s8" rowspan="8">Shinji Watanabe (Ramasubramanian+Anuj)</td>
+=======
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Dialpad</span></td>
+    <td class="tg-g6s8" rowspan="8">Shinji Watanabe</td>
+>>>>>>> c1ddf2ff68de76287538b2ad93ac0d26b6f9ec07
   </tr>
   <tr>
     <td class="tg-ecxm">17:15-17:30</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">JHU-CLSP/GoVivace (Vivek)</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">JHU-CLSP/GoVivace</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">17:30-17:45</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">IITM-SMT-Lab (Vivek)</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">IITM-SMT-Lab</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">17:45-18:00</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Conclusion to the Challenge (Vivek)</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Conclusion to the Challenge</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">18:00-18:15</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Winner Announcement (Preethi)</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Winner Announcement</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">18:15-18:30</td>
@@ -190,13 +218,18 @@
   </tr>
   <tr>
     <td class="tg-ecxm">18.30-19.00</td>
+<<<<<<< HEAD
     <td onclick="samuel(this)" class="tg-hjwb" rowspan="2">Samuel Thomas (Ashish)</td>
+=======
+    <td class="tg-hjwb" rowspan="2">Samuel Thomas</td>
+>>>>>>> c1ddf2ff68de76287538b2ad93ac0d26b6f9ec07
   </tr>
   <tr>
     <td class="tg-ecxm">19.00-19.30</td>
   </tr>
 </tbody>
 </table></div>
+<<<<<<< HEAD
 
 
 <div id="prasannaModal" class="modal">
@@ -365,3 +398,5 @@ window.onclick = function(event) {
   }
 }
 </script>
+=======
+>>>>>>> c1ddf2ff68de76287538b2ad93ac0d26b6f9ec07
