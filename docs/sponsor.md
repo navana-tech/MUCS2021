@@ -31,8 +31,21 @@ div {text-align: center;}
   clear: both;
 }
 </style>
+
+<div class="row">
+  <div class="column">
+
 <h2>Microsoft Research Lab India Pvt Ltd</h2>
 <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">https://www.microsoft.com/en-us/research/lab/microsoft-research-india/</a>
+
+</div>
+  <div class="column">
+<img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/indsca_logo.png">
+<h2>Indian Speech Communication Association (IndSCA)</h2>
+<a href="https://indsca.web.app/about">https://indsca.web.app/about</a>
+
+</div>
+</div>
 
 <br>
 <br>
@@ -40,9 +53,10 @@ div {text-align: center;}
 
 <div class="row">
   <div class="column">
-<img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/indsca_logo.png">
-<h2>Indian Speech Communication Association (IndSCA)</h2>
-<a href="https://indsca.web.app/about">https://indsca.web.app/about</a>
+<img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/Navana_logo.png">
+<h2>NAVANA</h2>
+<a href="https://navanatech.in/">https://navanatech.in/</a>
+
 
 </div>
   <div class="column">
