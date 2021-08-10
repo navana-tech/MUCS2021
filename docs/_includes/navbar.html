@@ -27,7 +27,12 @@
 
 	{% comment %} Always show code of conduct. {% endcomment %}
   <li><a href="{{ relative_root_path }}{% link tentative_program.md %}">Tentative Program</a></li> 
-  <li><a href="{{ relative_root_path }}{% link registration.md %}">Registration</a></li> 
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Registration<span class="caret"></span></a>
+  <ul class="dropdown-menu">
+    <li><a href="{{ relative_root_path }}{% link registration.md %}">Registration Details</a></li> 
+    <li><a href="{{ relative_root_path }}{% link registrations.md %}">Registrations so far</a></li>
+  </ul>
+  
   <li class="dropdown">
     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">MUCS Challenge<span class="caret"></span></a>
     <ul class="dropdown-menu">
@@ -50,7 +55,7 @@
    
    
    <li><a href = "https://forms.gle/sKZstsHdXg1qtmYz8"><JavaBlink><button class="btn btn-sm align-middle btn-outline-secondary" type="button"><span style="color: red;"><strong>Register for MUCS 2021!</strong></span></button></JavaBlink></a></li>
-   <li><a href="{{ relative_root_path }}{% link registrations.md %}">Total Registrations</a></li>
+   
   </ul>
   <ul class="nav navbar-nav navbar-right">
     
