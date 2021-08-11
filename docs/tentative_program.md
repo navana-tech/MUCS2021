@@ -79,7 +79,7 @@
 <div class="tg-wrap"><table class="tg">
 <thead>
   <tr>
-    <th class="tg-ecxm"></th>
+    <th class="tg-ecxm">Time Slots (IST)</th>
     <th class="tg-ecxm">12th Aug</th>
     <th class="tg-ecxm">13th Aug</th>
   </tr>
