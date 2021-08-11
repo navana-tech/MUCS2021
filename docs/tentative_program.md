@@ -143,42 +143,42 @@
   </tr>
   <tr>
     <td class="tg-ecxm">15:30-15:45</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">CSTR</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: CSTR</span></td>
     <td class="tg-xgl6" rowspan="2">Break</td>
   </tr>
   <tr>
     <td class="tg-ecxm">15:45-16:00</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Bytedance-SA</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Bytedance-SA</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:00-16:15</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Ekstep</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Ekstep</span></td>
     <td onclick="vikas(this)" class="tg-ir9u" rowspan="4">Title: Recent advances in transfer learning and multilingual methods for streaming end-to-end ASR systems<br>Speaker: Vikas Joshi</td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:15-16:30</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">GOT-HIM</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: GOT-HIM</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:30-16:45</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">GoVivace</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: GoVivace</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:45-17:00</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Sayint</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Sayint</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">17:00-17:15</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Dialpad</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Dialpad</span></td>
     <td onclick="shinji(this)" class="tg-g6s8" rowspan="8">Title: Introduction of ESPnet, End-to-End Speech Processing Toolkit<br>Speaker: Shinji Watanabe &amp; Pengcheng Guo</td>
   </tr>
   <tr>
     <td class="tg-ecxm">17:15-17:30</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">JHU-CLSP/GoVivace</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: JHU-CLSP/GoVivace</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">17:30-17:45</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">IITM-SMT-Lab</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: IITM-SMT-Lab</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">17:45-18:00</td>
