@@ -89,18 +89,18 @@
   <tr>
     <td class="tg-ecxm">10.00-10.30</td>
     <td class="tg-hjwb">Inauguration</td>
-    <td onclick="prasanna(this)" class="tg-hjzu" rowspan="5">Title: Speech Processing - Handcrafted features to Deep Representations<br>Speaker: Mahadeva Prasanna</td>
+    <td onclick="prasanna(this)" class="tg-hjzu" rowspan="5">Title: Speech Processing - Handcrafted features to Deep Representations<br>Speaker: Mahadeva Prasanna, IIT Dharwad</td>
   </tr>
   <tr>
     <td class="tg-ecxm">10.30-11.00</td>
-    <td onclick="garimella(this)" class="tg-ir9u" rowspan="2">Title: Overview of Speech Recognition Technology in Conversational Agents<br>Speaker: Sri Garimella</td>
+    <td onclick="garimella(this)" class="tg-ir9u" rowspan="2">Title: Overview of Speech Recognition Technology in Conversational Agents<br>Speaker: Sri Garimella, Amazon</td>
   </tr>
   <tr>
     <td class="tg-ecxm">11.00-11.30</td>
   </tr>
   <tr>
     <td class="tg-ecxm">11.30-12.00</td>
-    <td onclick="anurag(this)" class="tg-ju2b" rowspan="2">Title: Spoken Language Understanding for the Indic Region<br>Speaker: Anurag Dwarakanath</td>
+    <td onclick="anurag(this)" class="tg-ju2b" rowspan="2">Title: Spoken Language Understanding for the Indic Region<br>Speaker: Anurag Dwarakanath, Amazon</td>
   </tr>
   <tr>
     <td class="tg-ecxm">12.00-12.30</td>
@@ -117,7 +117,7 @@
   <tr>
     <td class="tg-ecxm">13.00-13.15</td>
     <td class="tg-rjxh">Sponsor Talk - NavanaTech</td>
-    <td onclick="umesh(this)" class="tg-51jv" rowspan="7">Title: Automatic Speech Recognition using Models from GMM-HMM to Transformers to wav2vec2.0<br>Speaker: S Umesh</td>
+    <td onclick="umesh(this)" class="tg-51jv" rowspan="7">Title: Automatic Speech Recognition using Models from GMM-HMM to Transformers to wav2vec2.0<br>Speaker: S Umesh, IIT Madras</td>
   </tr>
   <tr>
     <td class="tg-ecxm">13.15-13.30</td>
@@ -136,7 +136,7 @@
   </tr>
   <tr>
     <td class="tg-ecxm">15:00-15:15</td>
-    <td class="tg-9pb7" rowspan="2">Introduction to Challenge by Chiranjeevi</td>
+    <td class="tg-9pb7" rowspan="2">Introduction to Challenge by Chiranjeevi Yarra</td>
   </tr>
   <tr>
     <td class="tg-ecxm">15:15-15:30</td>
@@ -153,7 +153,7 @@
   <tr>
     <td class="tg-ecxm">16:00-16:15</td>
     <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Ekstep</span></td>
-    <td onclick="vikas(this)" class="tg-ir9u" rowspan="4">Title: Recent advances in transfer learning and multilingual methods for streaming end-to-end ASR systems<br>Speaker: Vikas Joshi</td>
+    <td onclick="vikas(this)" class="tg-ir9u" rowspan="4">Title: Recent advances in transfer learning and multilingual methods for streaming end-to-end ASR systems<br>Speaker: Vikas Joshi, Microsoft</td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:15-16:30</td>
@@ -170,7 +170,7 @@
   <tr>
     <td class="tg-ecxm">17:00-17:15</td>
     <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Dialpad</span></td>
-    <td onclick="shinji(this)" class="tg-g6s8" rowspan="8">Title: Introduction of ESPnet, End-to-End Speech Processing Toolkit<br>Speaker: Shinji Watanabe &amp; Pengcheng Guo &amp; Sathvik Udupa</td>
+    <td onclick="shinji(this)" class="tg-g6s8" rowspan="8">Title: Introduction of ESPnet, End-to-End Speech Processing Toolkit<br>Speaker: Shinji Watanabe, Carnegie Mellon University &amp; Pengcheng Guo, Northwestern Polytechnical University &amp; Sathvik Udupa, IIsc Bangalore</td>
   </tr>
   <tr>
     <td class="tg-ecxm">17:15-17:30</td>
@@ -194,7 +194,7 @@
   </tr>
   <tr>
     <td class="tg-ecxm">18.30-19.00</td>
-    <td onclick="samuel(this)" class="tg-hjwb" rowspan="2">Title: What next after ASR in Indian Languages? We speak in order to be understood!<br>Speaker: Samuel Thomas</td>
+    <td onclick="samuel(this)" class="tg-hjwb" rowspan="2">Title: What next after ASR in Indian Languages? We speak in order to be understood!<br>Speaker: Samuel Thomas, IBM T.J. Watson Research Center, New York</td>
   </tr>
   <tr>
     <td class="tg-ecxm">19.00-19.30</td>
