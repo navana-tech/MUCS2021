@@ -206,7 +206,7 @@ in the areas of speech processing.</p>
 <br>
 
 
-  <button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/shinji_watanabe.jpg"><span style="font-size:16px"> Shinji Watanabe, Carnegie Mellon University</span> <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/PengchengGuo.jpg"><span style="font-size:16px"> Pengcheng Guo, Ph.D. candidate, Northwestern Polytechnical University</span></button>
+  <button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/shinji_watanabe.jpg"><span style="font-size:16px"> Shinji Watanabe, Carnegie Mellon University</span> <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/PengchengGuo.jpg"><span style="font-size:16px"> Pengcheng Guo, Ph.D. candidate, Northwestern Polytechnical University</span>  <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/sathvik_udupa.jpg"><span style="font-size:16px"> Sathwik Udupa, IISc Bangalore</span> </button>
     <div class="content">
   <p><strong>Title:</strong> Introduction of ESPnet, End-to-End Speech Processing Toolkit</p>
 
@@ -216,6 +216,10 @@ in the areas of speech processing.</p>
   <div class="column">
   <p><strong>Brief Bio: </strong>Shinji Watanabe is an Associate Professor at Carnegie Mellon University, Pittsburgh, PA. He received his B.S., M.S., and Ph.D. (Dr. Eng.) degrees from Waseda University, Tokyo, Japan. He was a research scientist at NTT Communication Science Laboratories, Kyoto, Japan, from 2001 to 2011, a visiting scholar in Georgia institute of technology, Atlanta, GA in 2009, and a senior principal research scientist at Mitsubishi Electric Research Laboratories (MERL), Cambridge, MA USA from 2012 to 2017. Prior to the move to Carnegie Mellon University, he was an associate research professor at Johns Hopkins University, Baltimore, MD USA from 2017 to 2020. His research interests include automatic speech recognition, speech enhancement, spoken language understanding, and machine learning for speech and language processing. He has been published more than 200 papers in peer-reviewed journals and conferences and received several awards, including the best paper award from the IEEE ASRU in 2019. He served as an Associate Editor of the IEEE Transactions on Audio Speech and Language Processing. He was/has been a member of several technical committees, including the APSIPA Speech, Language, and Audio Technical Committee (SLA), IEEE Signal Processing Society Speech and Language Technical Committee (SLTC), and Machine Learning for Signal Processing Technical Committee (MLSP).</p>
   Weblink:<a href="https://sites.google.com/view/shinjiwatanabe">https://sites.google.com/view/shinjiwatanabe</a>
+ 
+  <br>
+   
+  <p><strong>Brief Bio: </strong>Sathvik udupa is a research associate at the Indian Institute of Science, Bangalore, India. He works on speech synthesis & multi-modal problems in speech production, under the supervision of Prof. Prasanta Kumar Ghosh. He received his B.E degree from Ramaiah Institute of Technology, Bangalore in 2019. After college, he worked at an AI startup- MyHealthcareAI and in 2020, he started working with Prof. Prasanta Kumar Ghosh. His research interests are in the realm of multi-modal learning.</p>
 
 </div>
 <div class="column">

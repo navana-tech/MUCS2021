@@ -170,7 +170,7 @@
   <tr>
     <td class="tg-ecxm">17:00-17:15</td>
     <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Dialpad</span></td>
-    <td onclick="shinji(this)" class="tg-g6s8" rowspan="8">Title: Introduction of ESPnet, End-to-End Speech Processing Toolkit<br>Speaker: Shinji Watanabe &amp; Pengcheng Guo</td>
+    <td onclick="shinji(this)" class="tg-g6s8" rowspan="8">Title: Introduction of ESPnet, End-to-End Speech Processing Toolkit<br>Speaker: Shinji Watanabe &amp; Pengcheng Guo &amp; Sathvik Udupa</td>
   </tr>
   <tr>
     <td class="tg-ecxm">17:15-17:30</td>
