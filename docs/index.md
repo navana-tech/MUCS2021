@@ -206,7 +206,7 @@ in the areas of speech processing.</p>
 <br>
 
 
-  <button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/shinji_watanabe.jpg"><span style="font-size:16px"> Shinji Watanabe, Carnegie Mellon University</span> <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/PengchengGuo.jpg"><span style="font-size:16px"> Pengcheng Guo, Ph.D. candidate, Northwestern Polytechnical University</span>  <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/sathvik_udupa.jpg"><span style="font-size:16px"> Sathwik Udupa, IISc Bangalore</span> </button>
+  <button class="collapsible"><img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/shinji_watanabe.jpg"><span style="font-size:16px"> Shinji Watanabe, Carnegie Mellon University</span> <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/PengchengGuo.jpg"><span style="font-size:16px"> Pengcheng Guo, Ph.D. candidate, Northwestern Polytechnical University</span>  <img style="height: 120px; width:auto;padding:5px;"  src="./assets/img/persons/sathvik_udupa.jpg"><span style="font-size:16px"> Sathwik Udupa, Research Associate, IISc Bangalore</span> </button>
     <div class="content">
   <p><strong>Title:</strong> Introduction of ESPnet, End-to-End Speech Processing Toolkit</p>
 
