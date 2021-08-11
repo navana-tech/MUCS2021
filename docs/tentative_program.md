@@ -136,7 +136,7 @@
   </tr>
   <tr>
     <td class="tg-ecxm">15:00-15:15</td>
-    <td class="tg-9pb7" rowspan="2">Introduction to Challenge by Chiranjeevi Yarra</td>
+    <td class="tg-9pb7" rowspan="2">Introduction to Challenge by Chiranjeevi Yarra, IIIT Hyderabad</td>
   </tr>
   <tr>
     <td class="tg-ecxm">15:15-15:30</td>
