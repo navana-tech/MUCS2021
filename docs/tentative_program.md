@@ -129,7 +129,7 @@
   </tr>
   <tr>
     <td class="tg-ecxm">14.00-14.30</td>
-    <td class="tg-hjzu" rowspan="2">Panel Discussion</td>
+    <td class="tg-hjzu" rowspan="2">Panel Discussion: Multilingual and code-switching ASR in Indian Language - Present & Future</td>
   </tr>
   <tr>
     <td class="tg-ecxm">14.30-15.00</td>
