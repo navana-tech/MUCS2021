@@ -21,7 +21,7 @@
 <style>
 html, body, #container {
   width: 100%;
-  height: %;
+  height: 100%;
   margin: 0;
   padding: 0;
 }
@@ -35,9 +35,9 @@ anychart.onDocumentReady(function() {
   var data = {
     header: ["Designation", "No. of registrations"],
     rows: [
-      ["Students", 216],
-      ["Faculty", 86],
-      ["Industry", 21]
+      ["Students", 242],
+      ["Faculty", 92],
+      ["Industry", 42]
   ]};
 
   // create the chart
