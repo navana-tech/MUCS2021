@@ -74,6 +74,7 @@
 .tg .tg-ir9u{background-color:#34cdf9;border-color:#000000;font-size:15px;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-ju2b{background-color:#ffccc9;border-color:#000000;font-size:15px;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-51jv{background-color:#32cb00;border-color:#000000;font-size:15px;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-s4x1{background-color:#FD6864;border-color:#000000;font-size:15px;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-g6s8{background-color:#9698ed;border-color:#000000;font-size:15px;font-weight:bold;text-align:center;vertical-align:middle}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
 <div class="tg-wrap"><table class="tg">
@@ -88,18 +89,18 @@
   <tr>
     <td class="tg-ecxm">10.00-10.30</td>
     <td class="tg-hjwb">Inauguration</td>
-    <td onclick="prasanna(this)" class="tg-hjzu" rowspan="5">Title: Speech Processing - Handcrafted features to Deep Representations, Speaker: Mahadeva Prasanna</td>
+    <td onclick="prasanna(this)" class="tg-hjzu" rowspan="5">Title: Speech Processing - Handcrafted features to Deep Representations<br>Speaker: Mahadeva Prasanna</td>
   </tr>
   <tr>
     <td class="tg-ecxm">10.30-11.00</td>
-    <td onclick="garimella(this)" class="tg-ir9u" rowspan="2">Title: Overview of Speech Recognition Technology in Conversational Agents, Speaker: Sri Garimella</td>
+    <td onclick="garimella(this)" class="tg-ir9u" rowspan="2">Title: Overview of Speech Recognition Technology in Conversational Agents<br>Speaker: Sri Garimella</td>
   </tr>
   <tr>
     <td class="tg-ecxm">11.00-11.30</td>
   </tr>
   <tr>
     <td class="tg-ecxm">11.30-12.00</td>
-    <td onclick="anurag(this)" class="tg-ju2b" rowspan="2">Title: Spoken Language Understanding for the Indic Region, Speaker: Anurag Dwarakanath</td>
+    <td onclick="anurag(this)" class="tg-ju2b" rowspan="2">Title: Spoken Language Understanding for the Indic Region<br>Speaker: Anurag Dwarakanath</td>
   </tr>
   <tr>
     <td class="tg-ecxm">12.00-12.30</td>
@@ -116,14 +117,15 @@
   <tr>
     <td class="tg-ecxm">13.00-13.15</td>
     <td class="tg-rjxh">Sponsor Talk - NavanaTech</td>
-    <td onclick="umesh(this)" class="tg-51jv" rowspan="7">Title: Automatic Speech Recognition using Models from GMM-HMM to Transformers to wav2vec2.0, Speaker: S Umesh</td>
+    <td onclick="umesh(this)" class="tg-51jv" rowspan="7">Title: Automatic Speech Recognition using Models from GMM-HMM to Transformers to wav2vec2.0<br>Speaker: S Umesh</td>
   </tr>
   <tr>
     <td class="tg-ecxm">13.15-13.30</td>
-    <td class="tg-xgl6" rowspan="2">BREAK</td>
+    <td class="tg-s4x1">Sponsor Talk - MSR India</td>
   </tr>
   <tr>
     <td class="tg-ecxm">13.30-14.00</td>
+    <td class="tg-xgl6">BREAK</td>
   </tr>
   <tr>
     <td class="tg-ecxm">14.00-14.30</td>
@@ -141,50 +143,50 @@
   </tr>
   <tr>
     <td class="tg-ecxm">15:30-15:45</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: CSTR</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">CSTR</span></td>
     <td class="tg-xgl6" rowspan="2">Break</td>
   </tr>
   <tr>
     <td class="tg-ecxm">15:45-16:00</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Bytedance-SA</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Bytedance-SA</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:00-16:15</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Ekstep</span></td>
-    <td onclick="vikas(this)" class="tg-ir9u" rowspan="4">Title: Recent advances in transfer learning and multilingual methods for streaming end-to-end ASR systems, Speaker: Vikas Joshi</td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Ekstep</span></td>
+    <td onclick="vikas(this)" class="tg-ir9u" rowspan="4">Title: Recent advances in transfer learning and multilingual methods for streaming end-to-end ASR systems<br>Speaker: Vikas Joshi</td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:15-16:30</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: GOT-HIM</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">GOT-HIM</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:30-16:45</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: GoVivace</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">GoVivace</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:45-17:00</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Sayint</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Sayint</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">17:00-17:15</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Dialpad</span></td>
-    <td onclick="shinji(this)" class="tg-g6s8" rowspan="8">Title: Introduction of ESPnet, End-to-End Speech Processing Toolkit, Speaker: Shinji Watanabe & Pengcheng Guo</td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Dialpad</span></td>
+    <td onclick="shinji(this)" class="tg-g6s8" rowspan="8">Title: Introduction of ESPnet, End-to-End Speech Processing Toolkit<br>Speaker: Shinji Watanabe &amp; Pengcheng Guo</td>
   </tr>
   <tr>
     <td class="tg-ecxm">17:15-17:30</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: JHU-CLSP/GoVivace</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">JHU-CLSP/GoVivace</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">17:30-17:45</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: IITM-SMT-Lab</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">IITM-SMT-Lab</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">17:45-18:00</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Conclusion to the Challenge </span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Conclusion to the Challenge</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">18:00-18:15</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Winner Announcement </span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Winner Announcement</span></td>
   </tr>
   <tr>
     <td class="tg-ecxm">18:15-18:30</td>
@@ -192,14 +194,13 @@
   </tr>
   <tr>
     <td class="tg-ecxm">18.30-19.00</td>
-    <td onclick="samuel(this)" class="tg-hjwb" rowspan="2">Title: What next after ASR in Indian Languages? We speak in order to be understood!, Speaker: Samuel Thomas</td>
+    <td onclick="samuel(this)" class="tg-hjwb" rowspan="2">Title: What next after ASR in Indian Languages? We speak in order to be understood!<br>Speaker: Samuel Thomas</td>
   </tr>
   <tr>
     <td class="tg-ecxm">19.00-19.30</td>
   </tr>
 </tbody>
 </table></div>
-
 
 <div id="prasannaModal" class="modal">
 
