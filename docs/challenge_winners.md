@@ -30,11 +30,13 @@
 
 <div class="row">  
   <div class="column">
+  <h2>Subtask1 Winners</h2>
   <img style="height: auto; width:auto;padding:5px;"  src="./assets/img/winners/subtask1/1.PNG">
   <img style="height: auto; width:auto;padding:5px;"  src="./assets/img/winners/subtask1/2.PNG">
   <img style="height: auto; width:auto;padding:5px;"  src="./assets/img/winners/subtask1/3.PNG">
 </div>
 <div class="column">
+<h2>Subtask2 Winners</h2>
 <img style="height: auto; width:auto;padding:5px;"  src="./assets/img/winners/subtask2/1.PNG">
 <img style="height: auto; width:auto;padding:5px;"  src="./assets/img/winners/subtask2/2.PNG">
 <img style="height: auto; width:auto;padding:5px;"  src="./assets/img/winners/subtask2/3.PNG">
