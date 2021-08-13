@@ -199,6 +199,11 @@
   <tr>
     <td class="tg-ecxm">19.00-19.30</td>
   </tr>
+  <tr>
+    <td class="tg-ecxm">19.30-20.00</td>
+    <td class="tg-ecxm"></td>
+    <td class="tg-ecxm">Closing session and Vote of Thanks</td>
+  </tr>
 </tbody>
 </table></div>
 
