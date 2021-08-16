@@ -100,7 +100,7 @@
   </tr>
   <tr>
     <td class="tg-ecxm">11.30-12.00</td>
-    <td onclick="anurag(this)" class="tg-ju2b" rowspan="2">Title: Spoken Language Understanding for the Indic Region<br>Speaker: Anurag Dwarakanath, Amazon</td>
+    <td onclick="anurag(this)" class="tg-ju2b" rowspan="2">Title: Spoken Language Understanding for the Indic Region<br>Speaker: Anurag Dwarakanath, Amazon<br><a href=".\assets\speaker-slides\Anurag_dwarakanath_SLU.pdf">Slides</a>&nbsp;&nbsp;<a href="">Video</a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">12.00-12.30</td>
