@@ -152,7 +152,7 @@
   <tr>
     <td class="tg-ecxm">16:00-16:15</td>
     <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Ekstep</span></td>
-    <td onclick="vikas(this)" class="tg-ir9u" rowspan="4">Title: Recent advances in transfer learning and multilingual methods for streaming end-to-end ASR systems<br>Speaker: Vikas Joshi, Microsoft<br><a href = "./assets/speaker-slides/VikasJoshi_MultilingualRNNT.pptx">Slides</a>&nbsp;&nbsp;<a href = "./assets/speaker-slides/VikasJoshi_MultilingualRNNT.pptx">Video</a></td>
+    <td onclick="vikas(this)" class="tg-ir9u" rowspan="4">Title: Recent advances in transfer learning and multilingual methods for streaming end-to-end ASR systems<br>Speaker: Vikas Joshi, Microsoft<br><a href = "./assets/speaker-slides/VikasJoshi_MultilingualRNNT.pptx">Slides</a>&nbsp;&nbsp;<a href = "https://youtu.be/RXzc58BppK8">Video</a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:15-16:30</td>
