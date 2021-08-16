@@ -88,7 +88,7 @@
   <tr>
     <td class="tg-ecxm">10.00-10.30</td>
     <td class="tg-hjwb">Inauguration</td>
-    <td onclick="prasanna(this)" class="tg-hjzu" rowspan="5">Title: Speech Processing - Handcrafted features to Deep Representations<br>Speaker: Mahadeva Prasanna, IIT Dharwad<br><a href = "./assets/speaker-slides/ProfPrasanna_IITDh_MUCS2021_FeatureExtraction.pdf">Slides</a>&nbsp;&nbsp;<a href = "">Video</a></td>
+    <td onclick="prasanna(this)" class="tg-hjzu" rowspan="5">Title: Speech Processing - Handcrafted features to Deep Representations<br>Speaker: Mahadeva Prasanna, IIT Dharwad<br><a href = "./assets/speaker-slides/ProfPrasanna_IITDh_MUCS2021_FeatureExtraction.pdf">Slides</a>&nbsp;&nbsp;<a href = "https://youtu.be/KR4Hn07xGt8">Video</a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">10.30-11.00</td>
@@ -116,7 +116,7 @@
   <tr>
     <td class="tg-ecxm">13.00-13.15</td>
     <td class="tg-rjxh">Sponsor Talk - NavanaTech</td>
-    <td onclick="umesh(this)" class="tg-51jv" rowspan="7">Title: Automatic Speech Recognition using Models from GMM-HMM to Transformers to wav2vec2.0<br>Speaker: S Umesh, IIT Madras</td>
+    <td onclick="umesh(this)" class="tg-51jv" rowspan="7">Title: Automatic Speech Recognition using Models from GMM-HMM to Transformers to wav2vec2.0<br>Speaker: S Umesh, IIT Madras<br><a href="https://youtu.be/XB7EWu0awSM">Video</a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">13.15-13.30</td>
