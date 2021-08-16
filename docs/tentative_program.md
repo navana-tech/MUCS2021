@@ -89,7 +89,7 @@
   <tr>
     <td class="tg-ecxm">10.00-10.30</td>
     <td class="tg-hjwb">Inauguration</td>
-    <td onclick="prasanna(this)" class="tg-hjzu" rowspan="5">Title: Speech Processing - Handcrafted features to Deep Representations<br>Speaker: Mahadeva Prasanna, IIT Dharwad</td>
+    <td onclick="prasanna(this)" class="tg-hjzu" rowspan="5">Title: Speech Processing - Handcrafted features to Deep Representations<br>Speaker: Mahadeva Prasanna, IIT Dharwad<br><a href = "./assets/speaker-slides/ProfPrasanna_IITDh_MUCS2021_FeatureExtraction.pdf">Slides</a>&nbsp;&nbsp;<a href = "">Video</a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">10.30-11.00</td>
@@ -100,7 +100,7 @@
   </tr>
   <tr>
     <td class="tg-ecxm">11.30-12.00</td>
-    <td onclick="anurag(this)" class="tg-ju2b" rowspan="2">Title: Spoken Language Understanding for the Indic Region<br>Speaker: Anurag Dwarakanath, Amazon<br><a href=".\assets\speaker-slides\Anurag_dwarakanath_SLU.pdf">Slides</a>&nbsp;&nbsp;<a href="">Video</a></td>
+    <td onclick="anurag(this)" class="tg-ju2b" rowspan="2">Title: Spoken Language Understanding for the Indic Region<br>Speaker: Anurag Dwarakanath, Amazon<br><a href="./assets/speaker-slides/Anurag_dwarakanath_SLU.pdf">Slides</a>&nbsp;&nbsp;<a href="">Video</a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">12.00-12.30</td>
@@ -153,7 +153,7 @@
   <tr>
     <td class="tg-ecxm">16:00-16:15</td>
     <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Ekstep</span></td>
-    <td onclick="vikas(this)" class="tg-ir9u" rowspan="4">Title: Recent advances in transfer learning and multilingual methods for streaming end-to-end ASR systems<br>Speaker: Vikas Joshi, Microsoft</td>
+    <td onclick="vikas(this)" class="tg-ir9u" rowspan="4">Title: Recent advances in transfer learning and multilingual methods for streaming end-to-end ASR systems<br>Speaker: Vikas Joshi, Microsoft<br><a href = "./assets/speaker-slides/VikasJoshi_MultilingualRNNT.pptx">Slides</a>&nbsp;&nbsp;<a href = "./assets/speaker-slides/VikasJoshi_MultilingualRNNT.pptx">Video</a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:15-16:30</td>
@@ -194,7 +194,7 @@
   </tr>
   <tr>
     <td class="tg-ecxm">18.30-19.00</td>
-    <td onclick="samuel(this)" class="tg-hjwb" rowspan="2">Title: What next after ASR in Indian Languages? We speak in order to be understood!<br>Speaker: Samuel Thomas, IBM T.J. Watson Research Center, New York</td>
+    <td onclick="samuel(this)" class="tg-hjwb" rowspan="2">Title: What next after ASR in Indian Languages? We speak in order to be understood!<br>Speaker: Samuel Thomas, IBM T.J. Watson Research Center, New York<br><a href = "./assets/speaker-slides/SamuelThomas_What_next_after_ASR_in_Indian_Languages.pdf">Slides</a>&nbsp;&nbsp;<a href="">Video</a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">19.00-19.30</td>
