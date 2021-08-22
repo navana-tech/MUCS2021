@@ -99,7 +99,7 @@
   </tr>
   <tr>
     <td class="tg-ecxm">11.30-12.00</td>
-    <td onclick="anurag(this)" class="tg-ju2b" rowspan="2">Title: Spoken Language Understanding for the Indic Region<br>Speaker: Anurag Dwarakanath, Amazon<br><a href="./assets/speaker-slides/Anurag_dwarakanath_SLU.pdf"><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href=""><span style="color:red;">Video</span></a></td>
+    <td onclick="anurag(this)" class="tg-ju2b" rowspan="2">Title: Spoken Language Understanding for the Indic Region<br>Speaker: Anurag Dwarakanath, Amazon<br><a href="./assets/speaker-slides/Anurag_dwarakanath_SLU.pdf"><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href="https://youtu.be/ONJMQ9aZFdo"><span style="color:red;">Video</span></a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">12.00-12.30</td>
@@ -169,7 +169,7 @@
   <tr>
     <td class="tg-ecxm">17:00-17:15</td>
     <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Dialpad</span></td>
-    <td onclick="shinji(this)" class="tg-g6s8" rowspan="8">Title: Introduction of ESPnet, End-to-End Speech Processing Toolkit<br>Speaker: Shinji Watanabe, Carnegie Mellon University &amp; Pengcheng Guo, Northwestern Polytechnical University &amp; Sathvik Udupa, IIsc Bangalore</td>
+    <td onclick="shinji(this)" class="tg-g6s8" rowspan="8">Title: Introduction of ESPnet, End-to-End Speech Processing Toolkit<br>Speaker: Shinji Watanabe, Carnegie Mellon University &amp; Pengcheng Guo, Northwestern Polytechnical University &amp; Sathvik Udupa, IIsc Bangalore<br><a href = "./assets/speaker-slides/Shinji_mucs21_tutorial_all_v1.pdf"><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href=""><span style="color:red;">Video</span></a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">17:15-17:30</td>
