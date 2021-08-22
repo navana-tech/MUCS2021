@@ -88,7 +88,7 @@
   <tr>
     <td class="tg-ecxm">10.00-10.30</td>
     <td class="tg-hjwb">Inauguration</td>
-    <td onclick="prasanna(this)" class="tg-hjzu" rowspan="5">Title: Speech Processing - Handcrafted features to Deep Representations<br>Speaker: Mahadeva Prasanna, IIT Dharwad<br><a href = "./assets/speaker-slides/ProfPrasanna_IITDh_MUCS2021_FeatureExtraction.pdf">Slides</a>&nbsp;&nbsp;<a href = "https://youtu.be/KR4Hn07xGt8">Video</a></td>
+    <td onclick="prasanna(this)" class="tg-hjzu" rowspan="5">Title: Speech Processing - Handcrafted features to Deep Representations<br>Speaker: Mahadeva Prasanna, IIT Dharwad<br><a href = "./assets/speaker-slides/ProfPrasanna_IITDh_MUCS2021_FeatureExtraction.pdf"><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href = "https://youtu.be/KR4Hn07xGt8"><span style="color:red;">Video</span></a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">10.30-11.00</td>
@@ -99,7 +99,7 @@
   </tr>
   <tr>
     <td class="tg-ecxm">11.30-12.00</td>
-    <td onclick="anurag(this)" class="tg-ju2b" rowspan="2">Title: Spoken Language Understanding for the Indic Region<br>Speaker: Anurag Dwarakanath, Amazon<br><a href="./assets/speaker-slides/Anurag_dwarakanath_SLU.pdf">Slides</a>&nbsp;&nbsp;<a href="">Video</a></td>
+    <td onclick="anurag(this)" class="tg-ju2b" rowspan="2">Title: Spoken Language Understanding for the Indic Region<br>Speaker: Anurag Dwarakanath, Amazon<br><a href="./assets/speaker-slides/Anurag_dwarakanath_SLU.pdf"><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href=""><span style="color:red;">Video</span></a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">12.00-12.30</td>
@@ -116,7 +116,7 @@
   <tr>
     <td class="tg-ecxm">13.00-13.15</td>
     <td class="tg-rjxh">Sponsor Talk - NavanaTech</td>
-    <td onclick="umesh(this)" class="tg-51jv" rowspan="7">Title: Automatic Speech Recognition using Models from GMM-HMM to Transformers to wav2vec2.0<br>Speaker: S Umesh, IIT Madras<br><a href="https://youtu.be/XB7EWu0awSM">Video</a></td>
+    <td onclick="umesh(this)" class="tg-51jv" rowspan="7">Title: Automatic Speech Recognition using Models from GMM-HMM to Transformers to wav2vec2.0<br>Speaker: S Umesh, IIT Madras<br><a href="https://youtu.be/XB7EWu0awSM"><span style="color:red;">Video</span></a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">13.15-13.30</td>
@@ -135,7 +135,7 @@
   </tr>
   <tr>
     <td class="tg-ecxm">15:00-15:15</td>
-    <td class="tg-9pb7" rowspan="2">Introduction to Challenge by Chiranjeevi Yarra, IIIT Hyderabad</td>
+    <td class="tg-9pb7" rowspan="2">Introduction to Challenge by Chiranjeevi Yarra, IIIT Hyderabad<br><a href=""><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href=""><span style="color:red;">Video</span></a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">15:15-15:30</td>
@@ -152,7 +152,7 @@
   <tr>
     <td class="tg-ecxm">16:00-16:15</td>
     <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Ekstep</span></td>
-    <td onclick="vikas(this)" class="tg-ir9u" rowspan="4">Title: Recent advances in transfer learning and multilingual methods for streaming end-to-end ASR systems<br>Speaker: Vikas Joshi, Microsoft<br><a href = "./assets/speaker-slides/VikasJoshi_MultilingualRNNT.pptx">Slides</a>&nbsp;&nbsp;<a href = "https://youtu.be/RXzc58BppK8">Video</a></td>
+    <td onclick="vikas(this)" class="tg-ir9u" rowspan="4">Title: Recent advances in transfer learning and multilingual methods for streaming end-to-end ASR systems<br>Speaker: Vikas Joshi, Microsoft<br><a href = "./assets/speaker-slides/VikasJoshi_MultilingualRNNT.pptx"><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href = "https://youtu.be/RXzc58BppK8"><span style="color:red;">Video</span></a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:15-16:30</td>
