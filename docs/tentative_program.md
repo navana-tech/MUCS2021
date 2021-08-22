@@ -142,42 +142,42 @@
   </tr>
   <tr>
     <td class="tg-ecxm">15:30-15:45</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: CSTR</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: CSTR</span><br><a href = "./assets/speaker-slides/participants-slides/cstr.pdf"><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href = ""><span style="color:red;">Video</span></a></td>
     <td class="tg-xgl6" rowspan="2">Break</td>
   </tr>
   <tr>
     <td class="tg-ecxm">15:45-16:00</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Bytedance-SA</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Bytedance-SA</span><br><a href = "./assets/speaker-slides/participants-slides/Bytedance-pdf.pdf"><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href = ""><span style="color:red;">Video</span></a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:00-16:15</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Ekstep</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Ekstep</span><br><a href = "./assets/speaker-slides/participants-slides/ekstep.pdf"><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href = ""><span style="color:red;">Video</span></a></td>
     <td onclick="vikas(this)" class="tg-ir9u" rowspan="4">Title: Recent advances in transfer learning and multilingual methods for streaming end-to-end ASR systems<br>Speaker: Vikas Joshi, Microsoft<br><a href = "./assets/speaker-slides/VikasJoshi_MultilingualRNNT.pptx"><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href = "https://youtu.be/RXzc58BppK8"><span style="color:red;">Video</span></a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:15-16:30</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: GOT-HIM</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: GOT-HIM</span><br><a href = "./assets/speaker-slides/participants-slides/GOT-HIM.pdf"><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href = ""><span style="color:red;">Video</span></a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:30-16:45</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: GoVivace</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: GoVivace</span><br><a href = "./assets/speaker-slides/participants-slides/GoVivace_mousmita_sarma.pdf"><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href = ""><span style="color:red;">Video</span></a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">16:45-17:00</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Sayint</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Sayint</span><br><a href = "./assets/speaker-slides/participants-slides/SayintMUCS2021.pdf"><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href = ""><span style="color:red;">Video</span></a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">17:00-17:15</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Dialpad</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: Dialpad</span><br><a href = "./assets/speaker-slides/participants-slides/Dialpad.pdf"><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href = ""><span style="color:red;">Video</span></a></td>
     <td onclick="shinji(this)" class="tg-g6s8" rowspan="8">Title: Introduction of ESPnet, End-to-End Speech Processing Toolkit<br>Speaker: Shinji Watanabe, Carnegie Mellon University &amp; Pengcheng Guo, Northwestern Polytechnical University &amp; Sathvik Udupa, IIsc Bangalore<br><a href = "./assets/speaker-slides/Shinji_mucs21_tutorial_all_v1.pdf"><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href=""><span style="color:red;">Video</span></a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">17:15-17:30</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: JHU-CLSP/GoVivace</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: JHU-CLSP/GoVivace</span><br><a href = "./assets/speaker-slides/participants-slides/jhu-govivace.pdf"><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href = ""><span style="color:red;">Video</span></a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">17:30-17:45</td>
-    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: IITM-SMT-Lab</span></td>
+    <td class="tg-90df"><span style="background-color:#D9EAD3">Team: IITM-SMT-Lab</span><br><a href = "./assets/speaker-slides/participants-slides/IITM-SMT-Lab.pdf"><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href = ""><span style="color:red;">Video</span></a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">17:45-18:00</td>
