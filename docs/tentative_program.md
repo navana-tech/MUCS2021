@@ -135,7 +135,7 @@
   </tr>
   <tr>
     <td class="tg-ecxm">15:00-15:15</td>
-    <td class="tg-9pb7" rowspan="2">Introduction to Challenge by Chiranjeevi Yarra, IIIT Hyderabad<br><a href=""><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href=""><span style="color:red;">Video</span></a></td>
+    <td class="tg-9pb7" rowspan="2">Introduction to Challenge by Chiranjeevi Yarra, IIIT Hyderabad<br><a href=""><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href="https://youtu.be/aCrdeziO4QE"><span style="color:red;">Video</span></a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">15:15-15:30</td>
@@ -193,7 +193,7 @@
   </tr>
   <tr>
     <td class="tg-ecxm">18.30-19.00</td>
-    <td onclick="samuel(this)" class="tg-hjwb" rowspan="2">Title: What next after ASR in Indian Languages? We speak in order to be understood!<br>Speaker: Samuel Thomas, IBM T.J. Watson Research Center, New York<br><a href = "./assets/speaker-slides/SamuelThomas_What_next_after_ASR_in_Indian_Languages.pdf">Slides</a>&nbsp;&nbsp;<a href="">Video</a></td>
+    <td onclick="samuel(this)" class="tg-hjwb" rowspan="2">Title: What next after ASR in Indian Languages? We speak in order to be understood!<br>Speaker: Samuel Thomas, IBM T.J. Watson Research Center, New York<br><a href = "./assets/speaker-slides/SamuelThomas_What_next_after_ASR_in_Indian_Languages.pdf"><span style="color:red;">Slides</span></a>&nbsp;&nbsp;<a href="https://youtu.be/n4S-0Jj0Hhg"><span style="color:red;">Video</span></a></td>
   </tr>
   <tr>
     <td class="tg-ecxm">19.00-19.30</td>
